@@ -1,0 +1,261 @@
+TC-hsa-COL1A1_0059	circCodAn v1.0	start_codon	26	28	.	.	.	.
+TC-hsa-COL1A1_0059	circCodAn v1.0	CDS	26	25	.	.	.	translation_cycles=3; length=1323
+TC-hsa-COL1A1_0059	circCodAn v1.0	terminal_codon	23	25	.	.	.	.
+TC-hsa-HECTD4_0181	circCodAn v1.0	start_codon	141	143	.	.	.	.
+TC-hsa-HECTD4_0181	circCodAn v1.0	CDS	141	6	.	.	.	translation_cycles=1; length=798
+TC-hsa-HECTD4_0181	circCodAn v1.0	stop_codon	4	6	.	.	.	.
+TC-hsa-KIF21A_0068	circCodAn v1.0	start_codon	151	153	.	.	.	.
+TC-hsa-KIF21A_0068	circCodAn v1.0	CDS	151	76	.	.	.	translation_cycles=1; length=1149
+TC-hsa-KIF21A_0068	circCodAn v1.0	stop_codon	74	76	.	.	.	.
+TC-hsa-SLIT2_0055	circCodAn v1.0	start_codon	143	145	.	.	.	.
+TC-hsa-SLIT2_0055	circCodAn v1.0	CDS	143	142	.	.	.	translation_cycles=3; length=3789
+TC-hsa-SLIT2_0055	circCodAn v1.0	terminal_codon	140	142	.	.	.	.
+TC-hsa-USP9X_0058	circCodAn v1.0	start_codon	193	195	.	.	.	.
+TC-hsa-USP9X_0058	circCodAn v1.0	CDS	193	192	.	.	.	translation_cycles=3; length=7110
+TC-hsa-USP9X_0058	circCodAn v1.0	terminal_codon	190	192	.	.	.	.
+TC-hsa-ACAT1_0016	circCodAn v1.0	start_codon	328	330	.	.	.	.
+TC-hsa-ACAT1_0016	circCodAn v1.0	CDS	328	327	.	.	.	translation_cycles=3; length=2799
+TC-hsa-ACAT1_0016	circCodAn v1.0	terminal_codon	325	327	.	.	.	.
+TC-hsa-ALB_0024	circCodAn v1.0	start_codon	10	12	.	.	.	.
+TC-hsa-ALB_0024	circCodAn v1.0	CDS	10	9	.	.	.	translation_cycles=3; length=999
+TC-hsa-ALB_0024	circCodAn v1.0	terminal_codon	7	9	.	.	.	.
+TC-hsa-ALB_0028	circCodAn v1.0	start_codon	10	12	.	.	.	.
+TC-hsa-ALB_0028	circCodAn v1.0	CDS	10	9	.	.	.	translation_cycles=3; length=2754
+TC-hsa-ALB_0028	circCodAn v1.0	terminal_codon	7	9	.	.	.	.
+TC-hsa-TPM1_0007	circCodAn v1.0	start_codon	139	141	.	.	.	.
+TC-hsa-TPM1_0007	circCodAn v1.0	CDS	139	5	.	.	.	translation_cycles=1; length=399
+TC-hsa-TPM1_0007	circCodAn v1.0	stop_codon	3	5	.	.	.	.
+TC-hsa-UBA1_0019	circCodAn v1.0	start_codon	66	68	.	.	.	.
+TC-hsa-UBA1_0019	circCodAn v1.0	CDS	66	4	.	.	.	translation_cycles=1; length=516
+TC-hsa-UBA1_0019	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ZNF649_0002	circCodAn v1.0	start_codon	188	190	.	.	.	.
+TC-hsa-ZNF649_0002	circCodAn v1.0	CDS	188	35	.	.	.	translation_cycles=1; length=273
+TC-hsa-ZNF649_0002	circCodAn v1.0	stop_codon	33	35	.	.	.	.
+TC-hsa-CSDE1_0062	circCodAn v1.0	start_codon	99	101	.	.	.	.
+TC-hsa-CSDE1_0062	circCodAn v1.0	CDS	99	66	.	.	.	translation_cycles=1; length=819
+TC-hsa-CSDE1_0062	circCodAn v1.0	stop_codon	64	66	.	.	.	.
+TC-hsa-DCAF6_0017	circCodAn v1.0	start_codon	190	192	.	.	.	.
+TC-hsa-DCAF6_0017	circCodAn v1.0	CDS	190	189	.	.	.	translation_cycles=3; length=1953
+TC-hsa-DCAF6_0017	circCodAn v1.0	terminal_codon	187	189	.	.	.	.
+TC-hsa-ETFDH_0012	circCodAn v1.0	start_codon	150	152	.	.	.	.
+TC-hsa-ETFDH_0012	circCodAn v1.0	CDS	150	149	.	.	.	translation_cycles=3; length=3753
+TC-hsa-ETFDH_0012	circCodAn v1.0	terminal_codon	147	149	.	.	.	.
+TC-hsa-OCRL_0024	circCodAn v1.0	start_codon	56	58	.	.	.	.
+TC-hsa-OCRL_0024	circCodAn v1.0	CDS	56	12	.	.	.	translation_cycles=1; length=999
+TC-hsa-OCRL_0024	circCodAn v1.0	stop_codon	10	12	.	.	.	.
+TC-hsa-PHKB_0065	circCodAn v1.0	start_codon	40	42	.	.	.	.
+TC-hsa-PHKB_0065	circCodAn v1.0	CDS	40	4	.	.	.	translation_cycles=1; length=2217
+TC-hsa-PHKB_0065	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-RABGAP1_0028	circCodAn v1.0	start_codon	50	52	.	.	.	.
+TC-hsa-RABGAP1_0028	circCodAn v1.0	CDS	50	18	.	.	.	translation_cycles=1; length=2646
+TC-hsa-RABGAP1_0028	circCodAn v1.0	stop_codon	16	18	.	.	.	.
+TC-hsa-SMARCC1_0134	circCodAn v1.0	start_codon	133	135	.	.	.	.
+TC-hsa-SMARCC1_0134	circCodAn v1.0	CDS	133	265	.	.	.	translation_cycles=1; length=1509
+TC-hsa-SMARCC1_0134	circCodAn v1.0	stop_codon	263	265	.	.	.	.
+TC-hsa-USP34_0308	circCodAn v1.0	start_codon	206	208	.	.	.	.
+TC-hsa-USP34_0308	circCodAn v1.0	CDS	206	44	.	.	.	translation_cycles=1; length=726
+TC-hsa-USP34_0308	circCodAn v1.0	stop_codon	42	44	.	.	.	.
+TC-hsa-ACTN2_0032	circCodAn v1.0	start_codon	79	81	.	.	.	.
+TC-hsa-ACTN2_0032	circCodAn v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=918
+TC-hsa-ACTN2_0032	circCodAn v1.0	terminal_codon	76	78	.	.	.	.
+TC-hsa-CALR_0009	circCodAn v1.0	start_codon	277	279	.	.	.	.
+TC-hsa-CALR_0009	circCodAn v1.0	CDS	277	276	.	.	.	translation_cycles=3; length=1404
+TC-hsa-CALR_0009	circCodAn v1.0	terminal_codon	274	276	.	.	.	.
+TC-hsa-COL6A3_0016	circCodAn v1.0	start_codon	21	23	.	.	.	.
+TC-hsa-COL6A3_0016	circCodAn v1.0	CDS	21	210	.	.	.	translation_cycles=1; length=2022
+TC-hsa-COL6A3_0016	circCodAn v1.0	stop_codon	208	210	.	.	.	.
+TC-hsa-FUBP1_0023	circCodAn v1.0	start_codon	35	37	.	.	.	.
+TC-hsa-FUBP1_0023	circCodAn v1.0	CDS	35	125	.	.	.	translation_cycles=2; length=963
+TC-hsa-FUBP1_0023	circCodAn v1.0	stop_codon	123	125	.	.	.	.
+TC-hsa-ATP5B_0023	circCodAn v1.0	start_codon	43	45	.	.	.	.
+TC-hsa-ATP5B_0023	circCodAn v1.0	CDS	43	20	.	.	.	translation_cycles=1; length=279
+TC-hsa-ATP5B_0023	circCodAn v1.0	stop_codon	18	20	.	.	.	.
+TC-hsa-MACF1_0270	circCodAn v1.0	start_codon	833	835	.	.	.	.
+TC-hsa-MACF1_0270	circCodAn v1.0	CDS	833	48	.	.	.	translation_cycles=1; length=3975
+TC-hsa-MACF1_0270	circCodAn v1.0	stop_codon	46	48	.	.	.	.
+TC-hsa-MLLT4_0059	circCodAn v1.0	start_codon	38	40	.	.	.	.
+TC-hsa-MLLT4_0059	circCodAn v1.0	CDS	38	3	.	.	.	translation_cycles=1; length=993
+TC-hsa-MLLT4_0059	circCodAn v1.0	stop_codon	1	3	.	.	.	.
+TC-hsa-SPG20_0003	circCodAn v1.0	start_codon	171	173	.	.	.	.
+TC-hsa-SPG20_0003	circCodAn v1.0	CDS	171	10	.	.	.	translation_cycles=1; length=864
+TC-hsa-SPG20_0003	circCodAn v1.0	stop_codon	8	10	.	.	.	.
+TC-hsa-ANK2_0151	circCodAn v1.0	start_codon	12	14	.	.	.	.
+TC-hsa-ANK2_0151	circCodAn v1.0	CDS	12	4	.	.	.	translation_cycles=1; length=606
+TC-hsa-ANK2_0151	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ANK3_0109	circCodAn v1.0	start_codon	334	336	.	.	.	.
+TC-hsa-ANK3_0109	circCodAn v1.0	CDS	334	67	.	.	.	translation_cycles=1; length=1959
+TC-hsa-ANK3_0109	circCodAn v1.0	stop_codon	65	67	.	.	.	.
+TC-hsa-ARMC9_0076	circCodAn v1.0	start_codon	39	41	.	.	.	.
+TC-hsa-ARMC9_0076	circCodAn v1.0	CDS	39	57	.	.	.	translation_cycles=1; length=582
+TC-hsa-ARMC9_0076	circCodAn v1.0	stop_codon	55	57	.	.	.	.
+TC-hsa-ASAP1_0009	circCodAn v1.0	start_codon	69	71	.	.	.	.
+TC-hsa-ASAP1_0009	circCodAn v1.0	CDS	69	36	.	.	.	translation_cycles=1; length=1902
+TC-hsa-ASAP1_0009	circCodAn v1.0	stop_codon	34	36	.	.	.	.
+TC-hsa-COL6A3_0065	circCodAn v1.0	start_codon	3	5	.	.	.	.
+TC-hsa-COL6A3_0065	circCodAn v1.0	CDS	3	144	.	.	.	translation_cycles=1; length=954
+TC-hsa-COL6A3_0065	circCodAn v1.0	stop_codon	142	144	.	.	.	.
+TC-hsa-SEMA6B_0004	circCodAn v1.0	start_codon	33	35	.	.	.	.
+TC-hsa-SEMA6B_0004	circCodAn v1.0	CDS	33	118	.	.	.	translation_cycles=1; length=1107
+TC-hsa-SEMA6B_0004	circCodAn v1.0	stop_codon	116	118	.	.	.	.
+TC-hsa-TRIOBP_0019	circCodAn v1.0	start_codon	78	80	.	.	.	.
+TC-hsa-TRIOBP_0019	circCodAn v1.0	CDS	78	15	.	.	.	translation_cycles=1; length=207
+TC-hsa-TRIOBP_0019	circCodAn v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-AP2A2_0020	circCodAn v1.0	start_codon	8	10	.	.	.	.
+TC-hsa-AP2A2_0020	circCodAn v1.0	CDS	8	120	.	.	.	translation_cycles=1; length=1599
+TC-hsa-AP2A2_0020	circCodAn v1.0	stop_codon	118	120	.	.	.	.
+TC-hsa-PHKB_0097	circCodAn v1.0	start_codon	78	80	.	.	.	.
+TC-hsa-PHKB_0097	circCodAn v1.0	CDS	78	4	.	.	.	translation_cycles=1; length=1194
+TC-hsa-PHKB_0097	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-RAPGEF6_0057	circCodAn v1.0	start_codon	166	168	.	.	.	.
+TC-hsa-RAPGEF6_0057	circCodAn v1.0	CDS	166	4	.	.	.	translation_cycles=1; length=2352
+TC-hsa-RAPGEF6_0057	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ATP2B1_0032	circCodAn v1.0	start_codon	591	593	.	.	.	.
+TC-hsa-ATP2B1_0032	circCodAn v1.0	CDS	591	6	.	.	.	translation_cycles=1; length=1650
+TC-hsa-ATP2B1_0032	circCodAn v1.0	stop_codon	4	6	.	.	.	.
+TC-hsa-CAPRIN2_0015	circCodAn v1.0	start_codon	177	179	.	.	.	.
+TC-hsa-CAPRIN2_0015	circCodAn v1.0	CDS	177	12	.	.	.	translation_cycles=1; length=1545
+TC-hsa-CAPRIN2_0015	circCodAn v1.0	stop_codon	10	12	.	.	.	.
+TC-hsa-FOCAD_0112	circCodAn v1.0	start_codon	6	8	.	.	.	.
+TC-hsa-FOCAD_0112	circCodAn v1.0	CDS	6	46	.	.	.	translation_cycles=1; length=1419
+TC-hsa-FOCAD_0112	circCodAn v1.0	stop_codon	44	46	.	.	.	.
+TC-hsa-LRGUK_0055	circCodAn v1.0	start_codon	115	117	.	.	.	.
+TC-hsa-LRGUK_0055	circCodAn v1.0	CDS	115	114	.	.	.	translation_cycles=3; length=3132
+TC-hsa-LRGUK_0055	circCodAn v1.0	terminal_codon	112	114	.	.	.	.
+TC-hsa-AHNAK_0007	circCodAn v1.0	start_codon	100	102	.	.	.	.
+TC-hsa-AHNAK_0007	circCodAn v1.0	CDS	100	33	.	.	.	translation_cycles=1; length=375
+TC-hsa-AHNAK_0007	circCodAn v1.0	stop_codon	31	33	.	.	.	.
+TC-hsa-ACTG1_0007	circCodAn v1.0	start_codon	16	18	.	.	.	.
+TC-hsa-ACTG1_0007	circCodAn v1.0	CDS	16	15	.	.	.	translation_cycles=3; length=720
+TC-hsa-ACTG1_0007	circCodAn v1.0	terminal_codon	13	15	.	.	.	.
+TC-hsa-C3_0036	circCodAn v1.0	start_codon	18	20	.	.	.	.
+TC-hsa-C3_0036	circCodAn v1.0	CDS	18	17	.	.	.	translation_cycles=3; length=612
+TC-hsa-C3_0036	circCodAn v1.0	terminal_codon	15	17	.	.	.	.
+TC-hsa-GAPDH_0001	circCodAn v1.0	start_codon	24	26	.	.	.	.
+TC-hsa-GAPDH_0001	circCodAn v1.0	CDS	24	94	.	.	.	translation_cycles=1; length=330
+TC-hsa-GAPDH_0001	circCodAn v1.0	stop_codon	92	94	.	.	.	.
+TC-hsa-GRHPR_0006	circCodAn v1.0	start_codon	158	160	.	.	.	.
+TC-hsa-GRHPR_0006	circCodAn v1.0	CDS	158	53	.	.	.	translation_cycles=1; length=678
+TC-hsa-GRHPR_0006	circCodAn v1.0	stop_codon	51	53	.	.	.	.
+TC-hsa-GSN_0014	circCodAn v1.0	start_codon	81	83	.	.	.	.
+TC-hsa-GSN_0014	circCodAn v1.0	CDS	81	132	.	.	.	translation_cycles=1; length=576
+TC-hsa-GSN_0014	circCodAn v1.0	stop_codon	130	132	.	.	.	.
+TC-hsa-NFASC_0002	circCodAn v1.0	start_codon	183	185	.	.	.	.
+TC-hsa-NFASC_0002	circCodAn v1.0	CDS	183	182	.	.	.	translation_cycles=3; length=8784
+TC-hsa-NFASC_0002	circCodAn v1.0	terminal_codon	180	182	.	.	.	.
+TC-hsa-PTPRS_0035	circCodAn v1.0	start_codon	36	38	.	.	.	.
+TC-hsa-PTPRS_0035	circCodAn v1.0	CDS	36	35	.	.	.	translation_cycles=3; length=900
+TC-hsa-PTPRS_0035	circCodAn v1.0	terminal_codon	33	35	.	.	.	.
+TC-hsa-CAMK2G_0029	circCodAn v1.0	start_codon	153	155	.	.	.	.
+TC-hsa-CAMK2G_0029	circCodAn v1.0	CDS	153	123	.	.	.	translation_cycles=1; length=423
+TC-hsa-CAMK2G_0029	circCodAn v1.0	stop_codon	121	123	.	.	.	.
+TC-hsa-PCNT_0072	circCodAn v1.0	start_codon	355	357	.	.	.	.
+TC-hsa-PCNT_0072	circCodAn v1.0	CDS	355	161	.	.	.	translation_cycles=1; length=1443
+TC-hsa-PCNT_0072	circCodAn v1.0	stop_codon	159	161	.	.	.	.
+TC-hsa-PKP4_0070	circCodAn v1.0	start_codon	38	40	.	.	.	.
+TC-hsa-PKP4_0070	circCodAn v1.0	CDS	38	62	.	.	.	translation_cycles=1; length=660
+TC-hsa-PKP4_0070	circCodAn v1.0	stop_codon	60	62	.	.	.	.
+TC-hsa-COL1A2_0086	circCodAn v1.0	start_codon	7	9	.	.	.	.
+TC-hsa-COL1A2_0086	circCodAn v1.0	CDS	7	6	.	.	.	translation_cycles=3; length=1296
+TC-hsa-COL1A2_0086	circCodAn v1.0	terminal_codon	4	6	.	.	.	.
+TC-hsa-MED24_0006	circCodAn v1.0	start_codon	48	50	.	.	.	.
+TC-hsa-MED24_0006	circCodAn v1.0	CDS	48	132	.	.	.	translation_cycles=1; length=255
+TC-hsa-MED24_0006	circCodAn v1.0	stop_codon	130	132	.	.	.	.
+TC-hsa-AP2A2_0007	circCodAn v1.0	start_codon	162	164	.	.	.	.
+TC-hsa-AP2A2_0007	circCodAn v1.0	CDS	162	4	.	.	.	translation_cycles=1; length=1902
+TC-hsa-AP2A2_0007	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-COL6A1_0007	circCodAn v1.0	start_codon	178	180	.	.	.	.
+TC-hsa-COL6A1_0007	circCodAn v1.0	CDS	178	177	.	.	.	translation_cycles=3; length=1944
+TC-hsa-COL6A1_0007	circCodAn v1.0	terminal_codon	175	177	.	.	.	.
+TC-hsa-RASAL1_0005	circCodAn v1.0	start_codon	58	60	.	.	.	.
+TC-hsa-RASAL1_0005	circCodAn v1.0	CDS	58	57	.	.	.	translation_cycles=3; length=954
+TC-hsa-RASAL1_0005	circCodAn v1.0	terminal_codon	55	57	.	.	.	.
+TC-hsa-KIFC1_0005	circCodAn v1.0	start_codon	18	20	.	.	.	.
+TC-hsa-KIFC1_0005	circCodAn v1.0	CDS	18	63	.	.	.	translation_cycles=1; length=447
+TC-hsa-KIFC1_0005	circCodAn v1.0	stop_codon	61	63	.	.	.	.
+TC-hsa-SIDT2_0003	circCodAn v1.0	start_codon	146	148	.	.	.	.
+TC-hsa-SIDT2_0003	circCodAn v1.0	CDS	146	66	.	.	.	translation_cycles=1; length=1938
+TC-hsa-SIDT2_0003	circCodAn v1.0	stop_codon	64	66	.	.	.	.
+TC-hsa-SPTAN1_0082	circCodAn v1.0	start_codon	68	70	.	.	.	.
+TC-hsa-SPTAN1_0082	circCodAn v1.0	CDS	68	67	.	.	.	translation_cycles=3; length=10431
+TC-hsa-SPTAN1_0082	circCodAn v1.0	terminal_codon	65	67	.	.	.	.
+TC-hsa-ADARB2_0008	circCodAn v1.0	start_codon	348	350	.	.	.	.
+TC-hsa-ADARB2_0008	circCodAn v1.0	CDS	348	21	.	.	.	translation_cycles=1; length=564
+TC-hsa-ADARB2_0008	circCodAn v1.0	stop_codon	19	21	.	.	.	.
+TC-hsa-ACOX1_0026	circCodAn v1.0	start_codon	294	296	.	.	.	.
+TC-hsa-ACOX1_0026	circCodAn v1.0	CDS	294	40	.	.	.	translation_cycles=1; length=615
+TC-hsa-ACOX1_0026	circCodAn v1.0	stop_codon	38	40	.	.	.	.
+TC-hsa-ANK2_0099	circCodAn v1.0	start_codon	73	75	.	.	.	.
+TC-hsa-ANK2_0099	circCodAn v1.0	CDS	73	190	.	.	.	translation_cycles=1; length=1533
+TC-hsa-ANK2_0099	circCodAn v1.0	stop_codon	188	190	.	.	.	.
+TC-hsa-ANK2_0150	circCodAn v1.0	start_codon	12	14	.	.	.	.
+TC-hsa-ANK2_0150	circCodAn v1.0	CDS	12	4	.	.	.	translation_cycles=1; length=381
+TC-hsa-ANK2_0150	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ANK2_0154	circCodAn v1.0	start_codon	12	14	.	.	.	.
+TC-hsa-ANK2_0154	circCodAn v1.0	CDS	12	4	.	.	.	translation_cycles=1; length=1374
+TC-hsa-ANK2_0154	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-AP2A2_0004	circCodAn v1.0	start_codon	162	164	.	.	.	.
+TC-hsa-AP2A2_0004	circCodAn v1.0	CDS	162	4	.	.	.	translation_cycles=1; length=741
+TC-hsa-AP2A2_0004	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ATP2B4_0034	circCodAn v1.0	start_codon	193	195	.	.	.	.
+TC-hsa-ATP2B4_0034	circCodAn v1.0	CDS	193	192	.	.	.	translation_cycles=3; length=3294
+TC-hsa-ATP2B4_0034	circCodAn v1.0	terminal_codon	190	192	.	.	.	.
+TC-hsa-COL6A3_0066	circCodAn v1.0	start_codon	60	62	.	.	.	.
+TC-hsa-COL6A3_0066	circCodAn v1.0	CDS	60	15	.	.	.	translation_cycles=1; length=939
+TC-hsa-COL6A3_0066	circCodAn v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-VCL_0042	circCodAn v1.0	start_codon	245	247	.	.	.	.
+TC-hsa-VCL_0042	circCodAn v1.0	CDS	245	248	.	.	.	translation_cycles=1; length=1086
+TC-hsa-VCL_0042	circCodAn v1.0	stop_codon	246	248	.	.	.	.
+TC-hsa-ACTG2_0009	circCodAn v1.0	start_codon	78	80	.	.	.	.
+TC-hsa-ACTG2_0009	circCodAn v1.0	CDS	78	77	.	.	.	translation_cycles=3; length=1062
+TC-hsa-ACTG2_0009	circCodAn v1.0	terminal_codon	75	77	.	.	.	.
+TC-hsa-PLEKHA5_0095	circCodAn v1.0	start_codon	56	58	.	.	.	.
+TC-hsa-PLEKHA5_0095	circCodAn v1.0	CDS	56	5	.	.	.	translation_cycles=1; length=1299
+TC-hsa-PLEKHA5_0095	circCodAn v1.0	stop_codon	3	5	.	.	.	.
+TC-hsa-RIMS2_0041	circCodAn v1.0	start_codon	92	94	.	.	.	.
+TC-hsa-RIMS2_0041	circCodAn v1.0	CDS	92	170	.	.	.	translation_cycles=1; length=999
+TC-hsa-RIMS2_0041	circCodAn v1.0	stop_codon	168	170	.	.	.	.
+TC-hsa-SEPT2_0033	circCodAn v1.0	start_codon	372	374	.	.	.	.
+TC-hsa-SEPT2_0033	circCodAn v1.0	CDS	372	4	.	.	.	translation_cycles=1; length=429
+TC-hsa-SEPT2_0033	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-FBN1_0036	circCodAn v1.0	start_codon	144	146	.	.	.	.
+TC-hsa-FBN1_0036	circCodAn v1.0	CDS	144	143	.	.	.	translation_cycles=3; length=4977
+TC-hsa-FBN1_0036	circCodAn v1.0	terminal_codon	141	143	.	.	.	.
+TC-hsa-MACF1_0262	circCodAn v1.0	start_codon	73	75	.	.	.	.
+TC-hsa-MACF1_0262	circCodAn v1.0	CDS	73	4	.	.	.	translation_cycles=1; length=1233
+TC-hsa-MACF1_0262	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-COPB1_0041	circCodAn v1.0	start_codon	68	70	.	.	.	.
+TC-hsa-COPB1_0041	circCodAn v1.0	CDS	68	42	.	.	.	translation_cycles=1; length=354
+TC-hsa-COPB1_0041	circCodAn v1.0	stop_codon	40	42	.	.	.	.
+TC-hsa-MLLT4_0034	circCodAn v1.0	start_codon	312	314	.	.	.	.
+TC-hsa-MLLT4_0034	circCodAn v1.0	CDS	312	311	.	.	.	translation_cycles=3; length=4446
+TC-hsa-MLLT4_0034	circCodAn v1.0	terminal_codon	309	311	.	.	.	.
+TC-hsa-ORC3_0054	circCodAn v1.0	start_codon	2	4	.	.	.	.
+TC-hsa-ORC3_0054	circCodAn v1.0	CDS	2	18	.	.	.	translation_cycles=1; length=585
+TC-hsa-ORC3_0054	circCodAn v1.0	stop_codon	16	18	.	.	.	.
+TC-hsa-SPG20_0004	circCodAn v1.0	start_codon	3	5	.	.	.	.
+TC-hsa-SPG20_0004	circCodAn v1.0	CDS	3	37	.	.	.	translation_cycles=1; length=1770
+TC-hsa-SPG20_0004	circCodAn v1.0	stop_codon	35	37	.	.	.	.
+TC-hsa-TLN2_0026	circCodAn v1.0	start_codon	113	115	.	.	.	.
+TC-hsa-TLN2_0026	circCodAn v1.0	CDS	113	57	.	.	.	translation_cycles=1; length=1170
+TC-hsa-TLN2_0026	circCodAn v1.0	stop_codon	55	57	.	.	.	.
+TC-hsa-AP2B1_0005	circCodAn v1.0	start_codon	84	86	.	.	.	.
+TC-hsa-AP2B1_0005	circCodAn v1.0	CDS	84	18	.	.	.	translation_cycles=1; length=2310
+TC-hsa-AP2B1_0005	circCodAn v1.0	stop_codon	16	18	.	.	.	.
+TC-hsa-IQCA1_0010	circCodAn v1.0	start_codon	138	140	.	.	.	.
+TC-hsa-IQCA1_0010	circCodAn v1.0	CDS	138	141	.	.	.	translation_cycles=1; length=372
+TC-hsa-IQCA1_0010	circCodAn v1.0	stop_codon	139	141	.	.	.	.
+TC-hsa-HECTD4_0215	circCodAn v1.0	start_codon	83	85	.	.	.	.
+TC-hsa-HECTD4_0215	circCodAn v1.0	CDS	83	62	.	.	.	translation_cycles=1; length=723
+TC-hsa-HECTD4_0215	circCodAn v1.0	stop_codon	60	62	.	.	.	.
+TC-hsa-HERC1_0045	circCodAn v1.0	start_codon	45	47	.	.	.	.
+TC-hsa-HERC1_0045	circCodAn v1.0	CDS	45	54	.	.	.	translation_cycles=1; length=3654
+TC-hsa-HERC1_0045	circCodAn v1.0	stop_codon	52	54	.	.	.	.
+TC-hsa-SLC1A2_0017	circCodAn v1.0	start_codon	36	38	.	.	.	.
+TC-hsa-SLC1A2_0017	circCodAn v1.0	CDS	36	94	.	.	.	translation_cycles=1; length=750
+TC-hsa-SLC1A2_0017	circCodAn v1.0	stop_codon	92	94	.	.	.	.
+TC-hsa-ATP1A1_0006	circCodAn v1.0	start_codon	54	56	.	.	.	.
+TC-hsa-ATP1A1_0006	circCodAn v1.0	CDS	54	66	.	.	.	translation_cycles=1; length=474
+TC-hsa-ATP1A1_0006	circCodAn v1.0	stop_codon	64	66	.	.	.	.
+TC-hsa-MLLT4_0102	circCodAn v1.0	start_codon	37	39	.	.	.	.
+TC-hsa-MLLT4_0102	circCodAn v1.0	CDS	37	53	.	.	.	translation_cycles=1; length=867
+TC-hsa-MLLT4_0102	circCodAn v1.0	stop_codon	51	53	.	.	.	.

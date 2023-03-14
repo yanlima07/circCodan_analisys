@@ -1,0 +1,318 @@
+mmu_circMorf4l1_001	circCodAn v1.0	start_codon	292	294	.	.	.	.
+mmu_circMorf4l1_001	circCodAn v1.0	CDS	292	291	.	.	.	translation_cycles=3; length=1701
+mmu_circMorf4l1_001	circCodAn v1.0	terminal_codon	289	291	.	.	.	.
+mmu_circPtprd_002	circCodAn v1.0	start_codon	51	53	.	.	.	.
+mmu_circPtprd_002	circCodAn v1.0	CDS	51	50	.	.	.	translation_cycles=3; length=3393
+mmu_circPtprd_002	circCodAn v1.0	terminal_codon	48	50	.	.	.	.
+mmu_circEzh2_001	circCodAn v1.0	start_codon	37	39	.	.	.	.
+mmu_circEzh2_001	circCodAn v1.0	CDS	37	26	.	.	.	translation_cycles=1; length=252
+mmu_circEzh2_001	circCodAn v1.0	stop_codon	24	26	.	.	.	.
+mmu_circRbm4_001	circCodAn v1.0	start_codon	206	208	.	.	.	.
+mmu_circRbm4_001	circCodAn v1.0	CDS	206	20	.	.	.	translation_cycles=1; length=432
+mmu_circRbm4_001	circCodAn v1.0	stop_codon	18	20	.	.	.	.
+mmu_circCdyl_001	circCodAn v1.0	start_codon	373	375	.	.	.	.
+mmu_circCdyl_001	circCodAn v1.0	CDS	373	17	.	.	.	translation_cycles=1; length=312
+mmu_circCdyl_001	circCodAn v1.0	stop_codon	15	17	.	.	.	.
+mmu_circCsf2rb2_001	circCodAn v1.0	start_codon	162	164	.	.	.	.
+mmu_circCsf2rb2_001	circCodAn v1.0	CDS	162	100	.	.	.	translation_cycles=1; length=303
+mmu_circCsf2rb2_001	circCodAn v1.0	stop_codon	98	100	.	.	.	.
+mmu_circGrin2b_001	circCodAn v1.0	start_codon	19	21	.	.	.	.
+mmu_circGrin2b_001	circCodAn v1.0	CDS	19	18	.	.	.	translation_cycles=3; length=1287
+mmu_circGrin2b_001	circCodAn v1.0	terminal_codon	16	18	.	.	.	.
+mmu_circH6pd_001	circCodAn v1.0	start_codon	35	37	.	.	.	.
+mmu_circH6pd_001	circCodAn v1.0	CDS	35	29	.	.	.	translation_cycles=1; length=750
+mmu_circH6pd_001	circCodAn v1.0	stop_codon	27	29	.	.	.	.
+mmu_circAp2a1_001	circCodAn v1.0	start_codon	258	260	.	.	.	.
+mmu_circAp2a1_001	circCodAn v1.0	CDS	258	19	.	.	.	translation_cycles=1; length=264
+mmu_circAp2a1_001	circCodAn v1.0	stop_codon	17	19	.	.	.	.
+mmu_circIkzf1_001	circCodAn v1.0	start_codon	15	17	.	.	.	.
+mmu_circIkzf1_001	circCodAn v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=522
+mmu_circIkzf1_001	circCodAn v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circMcph1_001	circCodAn v1.0	start_codon	19	21	.	.	.	.
+mmu_circMcph1_001	circCodAn v1.0	CDS	19	18	.	.	.	translation_cycles=3; length=837
+mmu_circMcph1_001	circCodAn v1.0	terminal_codon	16	18	.	.	.	.
+mmu_circTspan7_001	circCodAn v1.0	start_codon	178	180	.	.	.	.
+mmu_circTspan7_001	circCodAn v1.0	CDS	178	177	.	.	.	translation_cycles=3; length=1548
+mmu_circTspan7_001	circCodAn v1.0	terminal_codon	175	177	.	.	.	.
+mmu_circZfp148_001	circCodAn v1.0	start_codon	235	237	.	.	.	.
+mmu_circZfp148_001	circCodAn v1.0	CDS	235	102	.	.	.	translation_cycles=1; length=435
+mmu_circZfp148_001	circCodAn v1.0	stop_codon	100	102	.	.	.	.
+mmu_circArhgap10_003	circCodAn v1.0	start_codon	286	288	.	.	.	.
+mmu_circArhgap10_003	circCodAn v1.0	CDS	286	17	.	.	.	translation_cycles=1; length=252
+mmu_circArhgap10_003	circCodAn v1.0	stop_codon	15	17	.	.	.	.
+mmu_circCpq_001	circCodAn v1.0	start_codon	288	290	.	.	.	.
+mmu_circCpq_001	circCodAn v1.0	CDS	288	287	.	.	.	translation_cycles=3; length=1584
+mmu_circCpq_001	circCodAn v1.0	terminal_codon	285	287	.	.	.	.
+mmu_circG3bp2_001	circCodAn v1.0	start_codon	31	33	.	.	.	.
+mmu_circG3bp2_001	circCodAn v1.0	CDS	31	7	.	.	.	translation_cycles=1; length=546
+mmu_circG3bp2_001	circCodAn v1.0	stop_codon	5	7	.	.	.	.
+mmu_circPtprc_002	circCodAn v1.0	start_codon	44	46	.	.	.	.
+mmu_circPtprc_002	circCodAn v1.0	CDS	44	43	.	.	.	translation_cycles=3; length=2835
+mmu_circPtprc_002	circCodAn v1.0	terminal_codon	41	43	.	.	.	.
+mmu_circPtprd_001	circCodAn v1.0	start_codon	43	45	.	.	.	.
+mmu_circPtprd_001	circCodAn v1.0	CDS	43	42	.	.	.	translation_cycles=3; length=1116
+mmu_circPtprd_001	circCodAn v1.0	terminal_codon	40	42	.	.	.	.
+mmu_circSlc8a1_003	circCodAn v1.0	start_codon	65	67	.	.	.	.
+mmu_circSlc8a1_003	circCodAn v1.0	CDS	65	64	.	.	.	translation_cycles=3; length=5490
+mmu_circSlc8a1_003	circCodAn v1.0	terminal_codon	62	64	.	.	.	.
+mmu_circTasp1_002	circCodAn v1.0	start_codon	75	77	.	.	.	.
+mmu_circTasp1_002	circCodAn v1.0	CDS	75	5	.	.	.	translation_cycles=1; length=402
+mmu_circTasp1_002	circCodAn v1.0	stop_codon	3	5	.	.	.	.
+mmu_circArntl_001	circCodAn v1.0	start_codon	8	10	.	.	.	.
+mmu_circArntl_001	circCodAn v1.0	CDS	8	44	.	.	.	translation_cycles=1; length=717
+mmu_circArntl_001	circCodAn v1.0	stop_codon	42	44	.	.	.	.
+mmu_circDdx17_001	circCodAn v1.0	start_codon	26	28	.	.	.	.
+mmu_circDdx17_001	circCodAn v1.0	CDS	26	5	.	.	.	translation_cycles=1; length=213
+mmu_circDdx17_001	circCodAn v1.0	stop_codon	3	5	.	.	.	.
+TC-hsa-AHNAK_0007	circCodAn v1.0	start_codon	100	102	.	.	.	.
+TC-hsa-AHNAK_0007	circCodAn v1.0	CDS	100	33	.	.	.	translation_cycles=1; length=375
+TC-hsa-AHNAK_0007	circCodAn v1.0	stop_codon	31	33	.	.	.	.
+mmu_circNfatc2_002	circCodAn v1.0	start_codon	14	16	.	.	.	.
+mmu_circNfatc2_002	circCodAn v1.0	CDS	14	339	.	.	.	translation_cycles=1; length=1014
+mmu_circNfatc2_002	circCodAn v1.0	stop_codon	337	339	.	.	.	.
+mmu_circAagab_001	circCodAn v1.0	start_codon	255	257	.	.	.	.
+mmu_circAagab_001	circCodAn v1.0	CDS	255	254	.	.	.	translation_cycles=3; length=1386
+mmu_circAagab_001	circCodAn v1.0	terminal_codon	252	254	.	.	.	.
+mmu_circEri3_002	circCodAn v1.0	start_codon	43	45	.	.	.	.
+mmu_circEri3_002	circCodAn v1.0	CDS	43	42	.	.	.	translation_cycles=3; length=1026
+mmu_circEri3_002	circCodAn v1.0	terminal_codon	40	42	.	.	.	.
+mmu_circInsr_001	circCodAn v1.0	start_codon	12	14	.	.	.	.
+mmu_circInsr_001	circCodAn v1.0	CDS	12	11	.	.	.	translation_cycles=3; length=1656
+mmu_circInsr_001	circCodAn v1.0	terminal_codon	9	11	.	.	.	.
+mmu_circKat6b_001	circCodAn v1.0	start_codon	250	252	.	.	.	.
+mmu_circKat6b_001	circCodAn v1.0	CDS	250	15	.	.	.	translation_cycles=1; length=639
+mmu_circKat6b_001	circCodAn v1.0	stop_codon	13	15	.	.	.	.
+mmu_circRims1_001	circCodAn v1.0	start_codon	39	41	.	.	.	.
+mmu_circRims1_001	circCodAn v1.0	CDS	39	38	.	.	.	translation_cycles=3; length=1548
+mmu_circRims1_001	circCodAn v1.0	terminal_codon	36	38	.	.	.	.
+mmu_circSatb1_002	circCodAn v1.0	start_codon	501	503	.	.	.	.
+mmu_circSatb1_002	circCodAn v1.0	CDS	501	87	.	.	.	translation_cycles=1; length=378
+mmu_circSatb1_002	circCodAn v1.0	stop_codon	85	87	.	.	.	.
+mmu_circKdm5c_001	circCodAn v1.0	start_codon	34	36	.	.	.	.
+mmu_circKdm5c_001	circCodAn v1.0	CDS	34	33	.	.	.	translation_cycles=3; length=1035
+mmu_circKdm5c_001	circCodAn v1.0	terminal_codon	31	33	.	.	.	.
+mmu_circMacf1_001	circCodAn v1.0	start_codon	57	59	.	.	.	.
+mmu_circMacf1_001	circCodAn v1.0	CDS	57	57	.	.	.	translation_cycles=1; length=324
+mmu_circMacf1_001	circCodAn v1.0	stop_codon	55	57	.	.	.	.
+mmu_circMgam_003	circCodAn v1.0	start_codon	193	195	.	.	.	.
+mmu_circMgam_003	circCodAn v1.0	CDS	193	192	.	.	.	translation_cycles=3; length=8046
+mmu_circMgam_003	circCodAn v1.0	terminal_codon	190	192	.	.	.	.
+mmu_circNhlrc2_002	circCodAn v1.0	start_codon	27	29	.	.	.	.
+mmu_circNhlrc2_002	circCodAn v1.0	CDS	27	26	.	.	.	translation_cycles=3; length=756
+mmu_circNhlrc2_002	circCodAn v1.0	terminal_codon	24	26	.	.	.	.
+mmu_circPrim2_001	circCodAn v1.0	start_codon	40	42	.	.	.	.
+mmu_circPrim2_001	circCodAn v1.0	CDS	40	39	.	.	.	translation_cycles=3; length=702
+mmu_circPrim2_001	circCodAn v1.0	terminal_codon	37	39	.	.	.	.
+mmu_circRere_001	circCodAn v1.0	start_codon	145	147	.	.	.	.
+mmu_circRere_001	circCodAn v1.0	CDS	145	56	.	.	.	translation_cycles=1; length=381
+mmu_circRere_001	circCodAn v1.0	stop_codon	54	56	.	.	.	.
+mmu_circBtnl1_001	circCodAn v1.0	start_codon	27	29	.	.	.	.
+mmu_circBtnl1_001	circCodAn v1.0	CDS	27	26	.	.	.	translation_cycles=3; length=1674
+mmu_circBtnl1_001	circCodAn v1.0	terminal_codon	24	26	.	.	.	.
+mmu_circDnm3_001	circCodAn v1.0	start_codon	96	98	.	.	.	.
+mmu_circDnm3_001	circCodAn v1.0	CDS	96	95	.	.	.	translation_cycles=3; length=1062
+mmu_circDnm3_001	circCodAn v1.0	terminal_codon	93	95	.	.	.	.
+mmu_circGfm2_001	circCodAn v1.0	start_codon	22	24	.	.	.	.
+mmu_circGfm2_001	circCodAn v1.0	CDS	22	12	.	.	.	translation_cycles=1; length=531
+mmu_circGfm2_001	circCodAn v1.0	stop_codon	10	12	.	.	.	.
+mmu_circKidins220_001	circCodAn v1.0	start_codon	7	9	.	.	.	.
+mmu_circKidins220_001	circCodAn v1.0	CDS	7	6	.	.	.	translation_cycles=3; length=891
+mmu_circKidins220_001	circCodAn v1.0	terminal_codon	4	6	.	.	.	.
+mmu_circRere_003	circCodAn v1.0	start_codon	22	24	.	.	.	.
+mmu_circRere_003	circCodAn v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=1746
+mmu_circRere_003	circCodAn v1.0	terminal_codon	19	21	.	.	.	.
+mmu_circAW554918_001	circCodAn v1.0	start_codon	37	39	.	.	.	.
+mmu_circAW554918_001	circCodAn v1.0	CDS	37	4	.	.	.	translation_cycles=1; length=738
+mmu_circAW554918_001	circCodAn v1.0	stop_codon	2	4	.	.	.	.
+mmu_circLrch3_001	circCodAn v1.0	start_codon	33	35	.	.	.	.
+mmu_circLrch3_001	circCodAn v1.0	CDS	33	1	.	.	.	translation_cycles=1; length=594
+mmu_circLrch3_001	circCodAn v1.0	stop_codon	624	1	.	.	.	.
+mmu_circNbea_003	circCodAn v1.0	start_codon	28	30	.	.	.	.
+mmu_circNbea_003	circCodAn v1.0	CDS	28	27	.	.	.	translation_cycles=3; length=2835
+mmu_circNbea_003	circCodAn v1.0	terminal_codon	25	27	.	.	.	.
+mmu_circSobp_001	circCodAn v1.0	start_codon	19	21	.	.	.	.
+mmu_circSobp_001	circCodAn v1.0	CDS	19	26	.	.	.	translation_cycles=1; length=333
+mmu_circSobp_001	circCodAn v1.0	stop_codon	24	26	.	.	.	.
+mmu_circBcl11b_001	circCodAn v1.0	start_codon	129	131	.	.	.	.
+mmu_circBcl11b_001	circCodAn v1.0	CDS	129	128	.	.	.	translation_cycles=3; length=1746
+mmu_circBcl11b_001	circCodAn v1.0	terminal_codon	126	128	.	.	.	.
+mmu_circWapl_001	circCodAn v1.0	start_codon	303	305	.	.	.	.
+mmu_circWapl_001	circCodAn v1.0	CDS	303	213	.	.	.	translation_cycles=1; length=1065
+mmu_circWapl_001	circCodAn v1.0	stop_codon	211	213	.	.	.	.
+mmu_circCpne8_002	circCodAn v1.0	start_codon	107	109	.	.	.	.
+mmu_circCpne8_002	circCodAn v1.0	CDS	107	19	.	.	.	translation_cycles=1; length=372
+mmu_circCpne8_002	circCodAn v1.0	stop_codon	17	19	.	.	.	.
+mmu_circMettl9_001	circCodAn v1.0	start_codon	169	171	.	.	.	.
+mmu_circMettl9_001	circCodAn v1.0	CDS	169	68	.	.	.	translation_cycles=1; length=486
+mmu_circMettl9_001	circCodAn v1.0	stop_codon	66	68	.	.	.	.
+mmu_circPtbp3_001	circCodAn v1.0	start_codon	52	54	.	.	.	.
+mmu_circPtbp3_001	circCodAn v1.0	CDS	52	51	.	.	.	translation_cycles=3; length=1197
+mmu_circPtbp3_001	circCodAn v1.0	terminal_codon	49	51	.	.	.	.
+mmu_circTrpc6_001	circCodAn v1.0	start_codon	79	81	.	.	.	.
+mmu_circTrpc6_001	circCodAn v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=4068
+mmu_circTrpc6_001	circCodAn v1.0	terminal_codon	76	78	.	.	.	.
+mmu_circBnc2_001	circCodAn v1.0	start_codon	37	39	.	.	.	.
+mmu_circBnc2_001	circCodAn v1.0	CDS	37	112	.	.	.	translation_cycles=1; length=2046
+mmu_circBnc2_001	circCodAn v1.0	stop_codon	110	112	.	.	.	.
+mmu_circDgki_001	circCodAn v1.0	start_codon	158	160	.	.	.	.
+mmu_circDgki_001	circCodAn v1.0	CDS	158	26	.	.	.	translation_cycles=1; length=477
+mmu_circDgki_001	circCodAn v1.0	stop_codon	24	26	.	.	.	.
+mmu_circElf2_001	circCodAn v1.0	start_codon	247	249	.	.	.	.
+mmu_circElf2_001	circCodAn v1.0	CDS	247	26	.	.	.	translation_cycles=1; length=264
+mmu_circElf2_001	circCodAn v1.0	stop_codon	24	26	.	.	.	.
+mmu_circEts1_001	circCodAn v1.0	start_codon	48	50	.	.	.	.
+mmu_circEts1_001	circCodAn v1.0	CDS	48	47	.	.	.	translation_cycles=3; length=1944
+mmu_circEts1_001	circCodAn v1.0	terminal_codon	45	47	.	.	.	.
+mmu_circKlhl2_001	circCodAn v1.0	start_codon	89	91	.	.	.	.
+mmu_circKlhl2_001	circCodAn v1.0	CDS	89	54	.	.	.	translation_cycles=1; length=321
+mmu_circKlhl2_001	circCodAn v1.0	stop_codon	52	54	.	.	.	.
+mmu_circEp400_003	circCodAn v1.0	start_codon	36	38	.	.	.	.
+mmu_circEp400_003	circCodAn v1.0	CDS	36	33	.	.	.	translation_cycles=1; length=1368
+mmu_circEp400_003	circCodAn v1.0	stop_codon	31	33	.	.	.	.
+mmu_circHectd1_001	circCodAn v1.0	start_codon	74	76	.	.	.	.
+mmu_circHectd1_001	circCodAn v1.0	CDS	74	68	.	.	.	translation_cycles=1; length=339
+mmu_circHectd1_001	circCodAn v1.0	stop_codon	66	68	.	.	.	.
+mmu_circKmt2a_001	circCodAn v1.0	start_codon	8	10	.	.	.	.
+mmu_circKmt2a_001	circCodAn v1.0	CDS	8	42	.	.	.	translation_cycles=1; length=336
+mmu_circKmt2a_001	circCodAn v1.0	stop_codon	40	42	.	.	.	.
+mmu_circPtk2b_001	circCodAn v1.0	start_codon	85	87	.	.	.	.
+mmu_circPtk2b_001	circCodAn v1.0	CDS	85	25	.	.	.	translation_cycles=1; length=288
+mmu_circPtk2b_001	circCodAn v1.0	stop_codon	23	25	.	.	.	.
+mmu_circRunx1t1_001	circCodAn v1.0	start_codon	24	26	.	.	.	.
+mmu_circRunx1t1_001	circCodAn v1.0	CDS	24	61	.	.	.	translation_cycles=1; length=690
+mmu_circRunx1t1_001	circCodAn v1.0	stop_codon	59	61	.	.	.	.
+mmu_circNfatc2_003	circCodAn v1.0	start_codon	234	236	.	.	.	.
+mmu_circNfatc2_003	circCodAn v1.0	CDS	234	147	.	.	.	translation_cycles=1; length=1122
+mmu_circNfatc2_003	circCodAn v1.0	stop_codon	145	147	.	.	.	.
+mmu_circDcaf5_001	circCodAn v1.0	start_codon	33	35	.	.	.	.
+mmu_circDcaf5_001	circCodAn v1.0	CDS	33	151	.	.	.	translation_cycles=1; length=570
+mmu_circDcaf5_001	circCodAn v1.0	stop_codon	149	151	.	.	.	.
+mmu_circEri3_001	circCodAn v1.0	start_codon	43	45	.	.	.	.
+mmu_circEri3_001	circCodAn v1.0	CDS	43	25	.	.	.	translation_cycles=1; length=252
+mmu_circEri3_001	circCodAn v1.0	stop_codon	23	25	.	.	.	.
+mmu_circPcdh19_001	circCodAn v1.0	start_codon	309	311	.	.	.	.
+mmu_circPcdh19_001	circCodAn v1.0	CDS	309	110	.	.	.	translation_cycles=1; length=300
+mmu_circPcdh19_001	circCodAn v1.0	stop_codon	108	110	.	.	.	.
+mmu_circSipa1l1_001	circCodAn v1.0	start_codon	341	343	.	.	.	.
+mmu_circSipa1l1_001	circCodAn v1.0	CDS	341	68	.	.	.	translation_cycles=1; length=1566
+mmu_circSipa1l1_001	circCodAn v1.0	stop_codon	66	68	.	.	.	.
+mmu_circStrn3_001	circCodAn v1.0	start_codon	76	78	.	.	.	.
+mmu_circStrn3_001	circCodAn v1.0	CDS	76	152	.	.	.	translation_cycles=1; length=780
+mmu_circStrn3_001	circCodAn v1.0	stop_codon	150	152	.	.	.	.
+mmu_circZfp644_001	circCodAn v1.0	start_codon	32	34	.	.	.	.
+mmu_circZfp644_001	circCodAn v1.0	CDS	32	5	.	.	.	translation_cycles=1; length=936
+mmu_circZfp644_001	circCodAn v1.0	stop_codon	3	5	.	.	.	.
+mmu_circZfx_001	circCodAn v1.0	start_codon	30	32	.	.	.	.
+mmu_circZfx_001	circCodAn v1.0	CDS	30	29	.	.	.	translation_cycles=3; length=1980
+mmu_circZfx_001	circCodAn v1.0	terminal_codon	27	29	.	.	.	.
+mmu_circPpp3cc_001	circCodAn v1.0	start_codon	66	68	.	.	.	.
+mmu_circPpp3cc_001	circCodAn v1.0	CDS	66	65	.	.	.	translation_cycles=3; length=1305
+mmu_circPpp3cc_001	circCodAn v1.0	terminal_codon	63	65	.	.	.	.
+mmu_circKhdrbs3_001	circCodAn v1.0	start_codon	72	74	.	.	.	.
+mmu_circKhdrbs3_001	circCodAn v1.0	CDS	72	52	.	.	.	translation_cycles=1; length=783
+mmu_circKhdrbs3_001	circCodAn v1.0	stop_codon	50	52	.	.	.	.
+mmu_circNhlrc2_001	circCodAn v1.0	start_codon	483	485	.	.	.	.
+mmu_circNhlrc2_001	circCodAn v1.0	CDS	483	482	.	.	.	translation_cycles=3; length=2124
+mmu_circNhlrc2_001	circCodAn v1.0	terminal_codon	480	482	.	.	.	.
+mmu_circReps1_001	circCodAn v1.0	start_codon	4	6	.	.	.	.
+mmu_circReps1_001	circCodAn v1.0	CDS	4	167	.	.	.	translation_cycles=1; length=1146
+mmu_circReps1_001	circCodAn v1.0	stop_codon	165	167	.	.	.	.
+mmu_circSh3rf3_001	circCodAn v1.0	start_codon	142	144	.	.	.	.
+mmu_circSh3rf3_001	circCodAn v1.0	CDS	142	141	.	.	.	translation_cycles=3; length=1116
+mmu_circSh3rf3_001	circCodAn v1.0	terminal_codon	139	141	.	.	.	.
+mmu_circTcf20_001	circCodAn v1.0	start_codon	37	39	.	.	.	.
+mmu_circTcf20_001	circCodAn v1.0	CDS	37	36	.	.	.	translation_cycles=3; length=17316
+mmu_circTcf20_001	circCodAn v1.0	terminal_codon	34	36	.	.	.	.
+mmu_circUvssa_001	circCodAn v1.0	start_codon	3	5	.	.	.	.
+mmu_circUvssa_001	circCodAn v1.0	CDS	3	2	.	.	.	translation_cycles=3; length=1656
+mmu_circUvssa_001	circCodAn v1.0	terminal_codon	552	2	.	.	.	.
+mmu_circZfp532_001	circCodAn v1.0	start_codon	22	24	.	.	.	.
+mmu_circZfp532_001	circCodAn v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=2412
+mmu_circZfp532_001	circCodAn v1.0	terminal_codon	19	21	.	.	.	.
+mmu_circFxr2_001	circCodAn v1.0	start_codon	114	116	.	.	.	.
+mmu_circFxr2_001	circCodAn v1.0	CDS	114	113	.	.	.	translation_cycles=3; length=2475
+mmu_circFxr2_001	circCodAn v1.0	terminal_codon	111	113	.	.	.	.
+mmu_circGlis3_001	circCodAn v1.0	start_codon	233	235	.	.	.	.
+mmu_circGlis3_001	circCodAn v1.0	CDS	233	165	.	.	.	translation_cycles=1; length=1047
+mmu_circGlis3_001	circCodAn v1.0	stop_codon	163	165	.	.	.	.
+mmu_circMlxipl_001	circCodAn v1.0	start_codon	132	134	.	.	.	.
+mmu_circMlxipl_001	circCodAn v1.0	CDS	132	131	.	.	.	translation_cycles=3; length=1503
+mmu_circMlxipl_001	circCodAn v1.0	terminal_codon	129	131	.	.	.	.
+mmu_circNfatc2_001	circCodAn v1.0	start_codon	21	23	.	.	.	.
+mmu_circNfatc2_001	circCodAn v1.0	CDS	21	20	.	.	.	translation_cycles=3; length=2619
+mmu_circNfatc2_001	circCodAn v1.0	terminal_codon	18	20	.	.	.	.
+mmu_circNfix_002	circCodAn v1.0	start_codon	115	117	.	.	.	.
+mmu_circNfix_002	circCodAn v1.0	CDS	115	5	.	.	.	translation_cycles=1; length=423
+mmu_circNfix_002	circCodAn v1.0	stop_codon	3	5	.	.	.	.
+mmu_circSipa1l3_001	circCodAn v1.0	start_codon	253	255	.	.	.	.
+mmu_circSipa1l3_001	circCodAn v1.0	CDS	253	82	.	.	.	translation_cycles=1; length=456
+mmu_circSipa1l3_001	circCodAn v1.0	stop_codon	80	82	.	.	.	.
+mmu_circPank1_001	circCodAn v1.0	start_codon	18	20	.	.	.	.
+mmu_circPank1_001	circCodAn v1.0	CDS	18	108	.	.	.	translation_cycles=1; length=444
+mmu_circPank1_001	circCodAn v1.0	stop_codon	106	108	.	.	.	.
+mmu_circPphln1_001	circCodAn v1.0	start_codon	67	69	.	.	.	.
+mmu_circPphln1_001	circCodAn v1.0	CDS	67	66	.	.	.	translation_cycles=3; length=2016
+mmu_circPphln1_001	circCodAn v1.0	terminal_codon	64	66	.	.	.	.
+mmu_circHibadh_001	circCodAn v1.0	start_codon	15	17	.	.	.	.
+mmu_circHibadh_001	circCodAn v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=1179
+mmu_circHibadh_001	circCodAn v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circLamp2_001	circCodAn v1.0	start_codon	75	77	.	.	.	.
+mmu_circLamp2_001	circCodAn v1.0	CDS	75	74	.	.	.	translation_cycles=3; length=3159
+mmu_circLamp2_001	circCodAn v1.0	terminal_codon	72	74	.	.	.	.
+mmu_circSecisbp2_001	circCodAn v1.0	start_codon	14	16	.	.	.	.
+mmu_circSecisbp2_001	circCodAn v1.0	CDS	14	32	.	.	.	translation_cycles=1; length=585
+mmu_circSecisbp2_001	circCodAn v1.0	stop_codon	30	32	.	.	.	.
+mmu_circSpecc1_001	circCodAn v1.0	start_codon	242	244	.	.	.	.
+mmu_circSpecc1_001	circCodAn v1.0	CDS	242	12	.	.	.	translation_cycles=1; length=357
+mmu_circSpecc1_001	circCodAn v1.0	stop_codon	10	12	.	.	.	.
+mmu_circDnaic1_001	circCodAn v1.0	start_codon	9	11	.	.	.	.
+mmu_circDnaic1_001	circCodAn v1.0	CDS	9	12	.	.	.	translation_cycles=1; length=252
+mmu_circDnaic1_001	circCodAn v1.0	stop_codon	10	12	.	.	.	.
+mmu_circIkzf1_002	circCodAn v1.0	start_codon	15	17	.	.	.	.
+mmu_circIkzf1_002	circCodAn v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=1431
+mmu_circIkzf1_002	circCodAn v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circArhgap10_002	circCodAn v1.0	start_codon	190	192	.	.	.	.
+mmu_circArhgap10_002	circCodAn v1.0	CDS	190	6	.	.	.	translation_cycles=1; length=309
+mmu_circArhgap10_002	circCodAn v1.0	stop_codon	4	6	.	.	.	.
+mmu_circFoxn2_001	circCodAn v1.0	start_codon	15	17	.	.	.	.
+mmu_circFoxn2_001	circCodAn v1.0	CDS	15	27	.	.	.	translation_cycles=1; length=564
+mmu_circFoxn2_001	circCodAn v1.0	stop_codon	25	27	.	.	.	.
+mmu_circGlcci1_001	circCodAn v1.0	start_codon	132	134	.	.	.	.
+mmu_circGlcci1_001	circCodAn v1.0	CDS	132	131	.	.	.	translation_cycles=3; length=2151
+mmu_circGlcci1_001	circCodAn v1.0	terminal_codon	129	131	.	.	.	.
+mmu_circMrc1_001	circCodAn v1.0	start_codon	24	26	.	.	.	.
+mmu_circMrc1_001	circCodAn v1.0	CDS	24	23	.	.	.	translation_cycles=3; length=1683
+mmu_circMrc1_001	circCodAn v1.0	terminal_codon	21	23	.	.	.	.
+mmu_circNbea_002	circCodAn v1.0	start_codon	140	142	.	.	.	.
+mmu_circNbea_002	circCodAn v1.0	CDS	140	139	.	.	.	translation_cycles=3; length=1593
+mmu_circNbea_002	circCodAn v1.0	terminal_codon	137	139	.	.	.	.
+mmu_circRprd1b_001	circCodAn v1.0	start_codon	234	236	.	.	.	.
+mmu_circRprd1b_001	circCodAn v1.0	CDS	234	36	.	.	.	translation_cycles=1; length=480
+mmu_circRprd1b_001	circCodAn v1.0	stop_codon	34	36	.	.	.	.
+mmu_circTtc8_001	circCodAn v1.0	start_codon	67	69	.	.	.	.
+mmu_circTtc8_001	circCodAn v1.0	CDS	67	66	.	.	.	translation_cycles=3; length=1530
+mmu_circTtc8_001	circCodAn v1.0	terminal_codon	64	66	.	.	.	.
+mmu_circAuh_001	circCodAn v1.0	start_codon	66	68	.	.	.	.
+mmu_circAuh_001	circCodAn v1.0	CDS	66	65	.	.	.	translation_cycles=3; length=1179
+mmu_circAuh_001	circCodAn v1.0	terminal_codon	63	65	.	.	.	.
+mmu_circCep112_001	circCodAn v1.0	start_codon	9	11	.	.	.	.
+mmu_circCep112_001	circCodAn v1.0	CDS	9	25	.	.	.	translation_cycles=1; length=495
+mmu_circCep112_001	circCodAn v1.0	stop_codon	23	25	.	.	.	.
+mmu_circDtnb_001	circCodAn v1.0	start_codon	41	43	.	.	.	.
+mmu_circDtnb_001	circCodAn v1.0	CDS	41	3	.	.	.	translation_cycles=1; length=477
+mmu_circDtnb_001	circCodAn v1.0	stop_codon	1	3	.	.	.	.
+mmu_circEpb41_001	circCodAn v1.0	start_codon	8	10	.	.	.	.
+mmu_circEpb41_001	circCodAn v1.0	CDS	8	11	.	.	.	translation_cycles=1; length=1650
+mmu_circEpb41_001	circCodAn v1.0	stop_codon	9	11	.	.	.	.
+mmu_circHltf_001	circCodAn v1.0	start_codon	215	217	.	.	.	.
+mmu_circHltf_001	circCodAn v1.0	CDS	215	214	.	.	.	translation_cycles=3; length=2709
+mmu_circHltf_001	circCodAn v1.0	terminal_codon	212	214	.	.	.	.
+mmu_circTtc3_001	circCodAn v1.0	start_codon	12	14	.	.	.	.
+mmu_circTtc3_001	circCodAn v1.0	CDS	12	19	.	.	.	translation_cycles=1; length=864
+mmu_circTtc3_001	circCodAn v1.0	stop_codon	17	19	.	.	.	.
+mmu_circTtc3_002	circCodAn v1.0	start_codon	12	14	.	.	.	.
+mmu_circTtc3_002	circCodAn v1.0	CDS	12	132	.	.	.	translation_cycles=1; length=1032
+mmu_circTtc3_002	circCodAn v1.0	stop_codon	130	132	.	.	.	.
+mmu_circTut4_001	circCodAn v1.0	start_codon	92	94	.	.	.	.
+mmu_circTut4_001	circCodAn v1.0	CDS	92	18	.	.	.	translation_cycles=1; length=960
+mmu_circTut4_001	circCodAn v1.0	stop_codon	16	18	.	.	.	.

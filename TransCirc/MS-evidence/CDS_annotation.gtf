@@ -1,0 +1,618 @@
+TC-hsa-CLSTN1_0036	TransCirc v1.0	start_codon	21	23	.	.	.	.
+TC-hsa-CLSTN1_0036	TransCirc v1.0	CDS	21	4	.	.	.	translation_cycles=1; length=333
+TC-hsa-CLSTN1_0036	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-GNB1_0007	TransCirc v1.0	start_codon	124	126	.	.	.	.
+TC-hsa-GNB1_0007	TransCirc v1.0	CDS	124	23	.	.	.	translation_cycles=1; length=156
+TC-hsa-GNB1_0007	TransCirc v1.0	stop_codon	21	23	.	.	.	.
+TC-hsa-GNB1_0007	TransCirc v1.0	start_codon	150	152	.	.	.	.
+TC-hsa-GNB1_0007	TransCirc v1.0	CDS	150	127	.	.	.	translation_cycles=1; length=234
+TC-hsa-GNB1_0007	TransCirc v1.0	stop_codon	125	127	.	.	.	.
+TC-hsa-MACF1_0262	TransCirc v1.0	start_codon	73	75	.	.	.	.
+TC-hsa-MACF1_0262	TransCirc v1.0	CDS	73	4	.	.	.	translation_cycles=1; length=1233
+TC-hsa-MACF1_0262	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-MACF1_0270	TransCirc v1.0	start_codon	833	835	.	.	.	.
+TC-hsa-MACF1_0270	TransCirc v1.0	CDS	833	48	.	.	.	translation_cycles=1; length=3975
+TC-hsa-MACF1_0270	TransCirc v1.0	stop_codon	46	48	.	.	.	.
+TC-hsa-MACF1_0270	TransCirc v1.0	start_codon	4635	4637	.	.	.	.
+TC-hsa-MACF1_0270	TransCirc v1.0	CDS	4635	48	.	.	.	translation_cycles=2; length=4932
+TC-hsa-MACF1_0270	TransCirc v1.0	stop_codon	46	48	.	.	.	.
+TC-hsa-FUBP1_0023	TransCirc v1.0	start_codon	97	99	.	.	.	.
+TC-hsa-FUBP1_0023	TransCirc v1.0	CDS	97	125	.	.	.	translation_cycles=1; length=465
+TC-hsa-FUBP1_0023	TransCirc v1.0	stop_codon	123	125	.	.	.	.
+TC-hsa-CSDE1_0062	TransCirc v1.0	start_codon	99	101	.	.	.	.
+TC-hsa-CSDE1_0062	TransCirc v1.0	CDS	99	66	.	.	.	translation_cycles=1; length=819
+TC-hsa-CSDE1_0062	TransCirc v1.0	stop_codon	64	66	.	.	.	.
+TC-hsa-ATP1A1_0006	TransCirc v1.0	start_codon	388	390	.	.	.	.
+TC-hsa-ATP1A1_0006	TransCirc v1.0	CDS	388	19	.	.	.	translation_cycles=1; length=93
+TC-hsa-ATP1A1_0006	TransCirc v1.0	stop_codon	17	19	.	.	.	.
+TC-hsa-ATP1A1_0006	TransCirc v1.0	start_codon	54	56	.	.	.	.
+TC-hsa-ATP1A1_0006	TransCirc v1.0	CDS	54	66	.	.	.	translation_cycles=1; length=474
+TC-hsa-ATP1A1_0006	TransCirc v1.0	stop_codon	64	66	.	.	.	.
+TC-hsa-DCAF6_0017	TransCirc v1.0	start_codon	190	192	.	.	.	.
+TC-hsa-DCAF6_0017	TransCirc v1.0	CDS	190	189	.	.	.	translation_cycles=3; length=1953
+TC-hsa-DCAF6_0017	TransCirc v1.0	terminal_codon	187	189	.	.	.	.
+TC-hsa-ATP2B4_0034	TransCirc v1.0	start_codon	193	195	.	.	.	.
+TC-hsa-ATP2B4_0034	TransCirc v1.0	CDS	193	192	.	.	.	translation_cycles=3; length=3294
+TC-hsa-ATP2B4_0034	TransCirc v1.0	terminal_codon	190	192	.	.	.	.
+TC-hsa-NMNAT2_0024	TransCirc v1.0	start_codon	178	180	.	.	.	.
+TC-hsa-NMNAT2_0024	TransCirc v1.0	CDS	178	100	.	.	.	translation_cycles=1; length=111
+TC-hsa-NMNAT2_0024	TransCirc v1.0	stop_codon	98	100	.	.	.	.
+TC-hsa-NMNAT2_0024	TransCirc v1.0	start_codon	15	17	.	.	.	.
+TC-hsa-NMNAT2_0024	TransCirc v1.0	CDS	15	18	.	.	.	translation_cycles=1; length=192
+TC-hsa-NMNAT2_0024	TransCirc v1.0	stop_codon	16	18	.	.	.	.
+TC-hsa-NFASC_0002	TransCirc v1.0	start_codon	183	185	.	.	.	.
+TC-hsa-NFASC_0002	TransCirc v1.0	CDS	183	182	.	.	.	translation_cycles=3; length=8784
+TC-hsa-NFASC_0002	TransCirc v1.0	terminal_codon	180	182	.	.	.	.
+TC-hsa-DNAH14_0320	TransCirc v1.0	start_codon	536	538	.	.	.	.
+TC-hsa-DNAH14_0320	TransCirc v1.0	CDS	536	15	.	.	.	translation_cycles=2; length=564
+TC-hsa-DNAH14_0320	TransCirc v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-DNAH14_0320	TransCirc v1.0	start_codon	144	146	.	.	.	.
+TC-hsa-DNAH14_0320	TransCirc v1.0	CDS	144	15	.	.	.	translation_cycles=1; length=414
+TC-hsa-DNAH14_0320	TransCirc v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-ACTN2_0032	TransCirc v1.0	start_codon	79	81	.	.	.	.
+TC-hsa-ACTN2_0032	TransCirc v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=918
+TC-hsa-ACTN2_0032	TransCirc v1.0	terminal_codon	76	78	.	.	.	.
+TC-hsa-HNRNPU_0066	TransCirc v1.0	start_codon	94	96	.	.	.	.
+TC-hsa-HNRNPU_0066	TransCirc v1.0	CDS	94	106	.	.	.	translation_cycles=1; length=276
+TC-hsa-HNRNPU_0066	TransCirc v1.0	stop_codon	104	106	.	.	.	.
+TC-hsa-HNRNPU_0066	TransCirc v1.0	start_codon	218	220	.	.	.	.
+TC-hsa-HNRNPU_0066	TransCirc v1.0	CDS	218	185	.	.	.	translation_cycles=1; length=231
+TC-hsa-HNRNPU_0066	TransCirc v1.0	stop_codon	183	185	.	.	.	.
+TC-hsa-ADARB2_0008	TransCirc v1.0	start_codon	161	163	.	.	.	.
+TC-hsa-ADARB2_0008	TransCirc v1.0	CDS	161	21	.	.	.	translation_cycles=2; length=1641
+TC-hsa-ADARB2_0008	TransCirc v1.0	stop_codon	19	21	.	.	.	.
+TC-hsa-ADARB2_0008	TransCirc v1.0	start_codon	348	350	.	.	.	.
+TC-hsa-ADARB2_0008	TransCirc v1.0	CDS	348	21	.	.	.	translation_cycles=1; length=564
+TC-hsa-ADARB2_0008	TransCirc v1.0	stop_codon	19	21	.	.	.	.
+TC-hsa-NEBL_0031	TransCirc v1.0	start_codon	79	81	.	.	.	.
+TC-hsa-NEBL_0031	TransCirc v1.0	CDS	79	23	.	.	.	translation_cycles=1; length=225
+TC-hsa-NEBL_0031	TransCirc v1.0	stop_codon	21	23	.	.	.	.
+TC-hsa-NEBL_0033	TransCirc v1.0	start_codon	79	81	.	.	.	.
+TC-hsa-NEBL_0033	TransCirc v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=324
+TC-hsa-NEBL_0033	TransCirc v1.0	terminal_codon	76	78	.	.	.	.
+TC-hsa-NEBL_0004	TransCirc v1.0	start_codon	145	147	.	.	.	.
+TC-hsa-NEBL_0004	TransCirc v1.0	CDS	145	144	.	.	.	translation_cycles=3; length=837
+TC-hsa-NEBL_0004	TransCirc v1.0	terminal_codon	142	144	.	.	.	.
+TC-hsa-NEBL_0035	TransCirc v1.0	start_codon	56	58	.	.	.	.
+TC-hsa-NEBL_0035	TransCirc v1.0	CDS	56	45	.	.	.	translation_cycles=1; length=183
+TC-hsa-NEBL_0035	TransCirc v1.0	stop_codon	43	45	.	.	.	.
+TC-hsa-ANK3_0109	TransCirc v1.0	start_codon	334	336	.	.	.	.
+TC-hsa-ANK3_0109	TransCirc v1.0	CDS	334	67	.	.	.	translation_cycles=1; length=1959
+TC-hsa-ANK3_0109	TransCirc v1.0	stop_codon	65	67	.	.	.	.
+TC-hsa-ANK3_0109	TransCirc v1.0	start_codon	2168	2170	.	.	.	.
+TC-hsa-ANK3_0109	TransCirc v1.0	CDS	2168	74	.	.	.	translation_cycles=1; length=132
+TC-hsa-ANK3_0109	TransCirc v1.0	stop_codon	72	74	.	.	.	.
+TC-hsa-CAMK2G_0029	TransCirc v1.0	start_codon	439	441	.	.	.	.
+TC-hsa-CAMK2G_0029	TransCirc v1.0	CDS	439	49	.	.	.	translation_cycles=1; length=63
+TC-hsa-CAMK2G_0029	TransCirc v1.0	stop_codon	47	49	.	.	.	.
+TC-hsa-CAMK2G_0029	TransCirc v1.0	start_codon	215	217	.	.	.	.
+TC-hsa-CAMK2G_0029	TransCirc v1.0	CDS	215	123	.	.	.	translation_cycles=2; length=813
+TC-hsa-CAMK2G_0029	TransCirc v1.0	stop_codon	121	123	.	.	.	.
+TC-hsa-CAMK2G_0029	TransCirc v1.0	start_codon	153	155	.	.	.	.
+TC-hsa-CAMK2G_0029	TransCirc v1.0	CDS	153	123	.	.	.	translation_cycles=1; length=423
+TC-hsa-CAMK2G_0029	TransCirc v1.0	stop_codon	121	123	.	.	.	.
+TC-hsa-VCL_0042	TransCirc v1.0	start_codon	245	247	.	.	.	.
+TC-hsa-VCL_0042	TransCirc v1.0	CDS	245	248	.	.	.	translation_cycles=1; length=1086
+TC-hsa-VCL_0042	TransCirc v1.0	stop_codon	246	248	.	.	.	.
+TC-hsa-VCL_0042	TransCirc v1.0	start_codon	1047	1049	.	.	.	.
+TC-hsa-VCL_0042	TransCirc v1.0	CDS	1047	129	.	.	.	translation_cycles=1; length=165
+TC-hsa-VCL_0042	TransCirc v1.0	stop_codon	127	129	.	.	.	.
+TC-hsa-XPNPEP1_0014	TransCirc v1.0	start_codon	98	100	.	.	.	.
+TC-hsa-XPNPEP1_0014	TransCirc v1.0	CDS	98	45	.	.	.	translation_cycles=1; length=162
+TC-hsa-XPNPEP1_0014	TransCirc v1.0	stop_codon	43	45	.	.	.	.
+TC-hsa-XPNPEP1_0014	TransCirc v1.0	start_codon	204	206	.	.	.	.
+TC-hsa-XPNPEP1_0014	TransCirc v1.0	CDS	204	45	.	.	.	translation_cycles=2; length=270
+TC-hsa-XPNPEP1_0014	TransCirc v1.0	stop_codon	43	45	.	.	.	.
+TC-hsa-AP2A2_0004	TransCirc v1.0	start_codon	892	894	.	.	.	.
+TC-hsa-AP2A2_0004	TransCirc v1.0	CDS	892	4	.	.	.	translation_cycles=2; length=909
+TC-hsa-AP2A2_0004	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-AP2A2_0004	TransCirc v1.0	start_codon	162	164	.	.	.	.
+TC-hsa-AP2A2_0004	TransCirc v1.0	CDS	162	4	.	.	.	translation_cycles=1; length=741
+TC-hsa-AP2A2_0004	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-AP2A2_0020	TransCirc v1.0	start_codon	8	10	.	.	.	.
+TC-hsa-AP2A2_0020	TransCirc v1.0	CDS	8	120	.	.	.	translation_cycles=1; length=1599
+TC-hsa-AP2A2_0020	TransCirc v1.0	stop_codon	118	120	.	.	.	.
+TC-hsa-AP2A2_0007	TransCirc v1.0	start_codon	1861	1863	.	.	.	.
+TC-hsa-AP2A2_0007	TransCirc v1.0	CDS	1861	4	.	.	.	translation_cycles=2; length=2262
+TC-hsa-AP2A2_0007	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-AP2A2_0007	TransCirc v1.0	start_codon	162	164	.	.	.	.
+TC-hsa-AP2A2_0007	TransCirc v1.0	CDS	162	4	.	.	.	translation_cycles=1; length=1902
+TC-hsa-AP2A2_0007	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-COPB1_0041	TransCirc v1.0	start_codon	68	70	.	.	.	.
+TC-hsa-COPB1_0041	TransCirc v1.0	CDS	68	42	.	.	.	translation_cycles=1; length=354
+TC-hsa-COPB1_0041	TransCirc v1.0	stop_codon	40	42	.	.	.	.
+TC-hsa-COPB1_0041	TransCirc v1.0	start_codon	378	1	.	.	.	.
+TC-hsa-COPB1_0041	TransCirc v1.0	CDS	378	42	.	.	.	translation_cycles=2; length=423
+TC-hsa-COPB1_0041	TransCirc v1.0	stop_codon	40	42	.	.	.	.
+TC-hsa-SLC1A2_0017	TransCirc v1.0	start_codon	676	678	.	.	.	.
+TC-hsa-SLC1A2_0017	TransCirc v1.0	CDS	676	94	.	.	.	translation_cycles=2; length=801
+TC-hsa-SLC1A2_0017	TransCirc v1.0	stop_codon	92	94	.	.	.	.
+TC-hsa-SLC1A2_0017	TransCirc v1.0	start_codon	36	38	.	.	.	.
+TC-hsa-SLC1A2_0017	TransCirc v1.0	CDS	36	94	.	.	.	translation_cycles=1; length=750
+TC-hsa-SLC1A2_0017	TransCirc v1.0	stop_codon	92	94	.	.	.	.
+TC-hsa-CLPB_0010	TransCirc v1.0	start_codon	14	16	.	.	.	.
+TC-hsa-CLPB_0010	TransCirc v1.0	CDS	14	179	.	.	.	translation_cycles=1; length=489
+TC-hsa-CLPB_0010	TransCirc v1.0	stop_codon	177	179	.	.	.	.
+TC-hsa-CLPB_0010	TransCirc v1.0	start_codon	273	275	.	.	.	.
+TC-hsa-CLPB_0010	TransCirc v1.0	CDS	273	33	.	.	.	translation_cycles=1; length=84
+TC-hsa-CLPB_0010	TransCirc v1.0	stop_codon	31	33	.	.	.	.
+TC-hsa-ACAT1_0016	TransCirc v1.0	start_codon	199	201	.	.	.	.
+TC-hsa-ACAT1_0016	TransCirc v1.0	CDS	199	198	.	.	.	translation_cycles=3; length=2799
+TC-hsa-ACAT1_0016	TransCirc v1.0	terminal_codon	196	198	.	.	.	.
+TC-hsa-SIDT2_0003	TransCirc v1.0	start_codon	1864	1866	.	.	.	.
+TC-hsa-SIDT2_0003	TransCirc v1.0	CDS	1864	251	.	.	.	translation_cycles=1; length=405
+TC-hsa-SIDT2_0003	TransCirc v1.0	stop_codon	249	251	.	.	.	.
+TC-hsa-SIDT2_0003	TransCirc v1.0	start_codon	146	148	.	.	.	.
+TC-hsa-SIDT2_0003	TransCirc v1.0	CDS	146	66	.	.	.	translation_cycles=1; length=1938
+TC-hsa-SIDT2_0003	TransCirc v1.0	stop_codon	64	66	.	.	.	.
+TC-hsa-SIDT2_0003	TransCirc v1.0	start_codon	1914	1916	.	.	.	.
+TC-hsa-SIDT2_0003	TransCirc v1.0	CDS	1914	66	.	.	.	translation_cycles=2; length=2187
+TC-hsa-SIDT2_0003	TransCirc v1.0	stop_codon	64	66	.	.	.	.
+TC-hsa-CHEK1_0007	TransCirc v1.0	start_codon	899	901	.	.	.	.
+TC-hsa-CHEK1_0007	TransCirc v1.0	CDS	899	902	.	.	.	translation_cycles=1; length=933
+TC-hsa-CHEK1_0007	TransCirc v1.0	stop_codon	900	902	.	.	.	.
+TC-hsa-GAPDH_0001	TransCirc v1.0	start_codon	124	126	.	.	.	.
+TC-hsa-GAPDH_0001	TransCirc v1.0	CDS	124	94	.	.	.	translation_cycles=2; length=489
+TC-hsa-GAPDH_0001	TransCirc v1.0	stop_codon	92	94	.	.	.	.
+TC-hsa-GAPDH_0001	TransCirc v1.0	start_codon	24	26	.	.	.	.
+TC-hsa-GAPDH_0001	TransCirc v1.0	CDS	24	94	.	.	.	translation_cycles=1; length=330
+TC-hsa-GAPDH_0001	TransCirc v1.0	stop_codon	92	94	.	.	.	.
+TC-hsa-TPI1_0003	TransCirc v1.0	start_codon	130	132	.	.	.	.
+TC-hsa-TPI1_0003	TransCirc v1.0	CDS	130	129	.	.	.	translation_cycles=3; length=468
+TC-hsa-TPI1_0003	TransCirc v1.0	terminal_codon	127	129	.	.	.	.
+TC-hsa-PLEKHA5_0095	TransCirc v1.0	start_codon	32	34	.	.	.	.
+TC-hsa-PLEKHA5_0095	TransCirc v1.0	CDS	32	5	.	.	.	translation_cycles=1; length=1323
+TC-hsa-PLEKHA5_0095	TransCirc v1.0	stop_codon	3	5	.	.	.	.
+TC-hsa-CAPRIN2_0015	TransCirc v1.0	start_codon	1645	1647	.	.	.	.
+TC-hsa-CAPRIN2_0015	TransCirc v1.0	CDS	1645	28	.	.	.	translation_cycles=1; length=93
+TC-hsa-CAPRIN2_0015	TransCirc v1.0	stop_codon	26	28	.	.	.	.
+TC-hsa-CAPRIN2_0015	TransCirc v1.0	start_codon	108	110	.	.	.	.
+TC-hsa-CAPRIN2_0015	TransCirc v1.0	CDS	108	12	.	.	.	translation_cycles=1; length=1614
+TC-hsa-CAPRIN2_0015	TransCirc v1.0	stop_codon	10	12	.	.	.	.
+TC-hsa-KIF21A_0068	TransCirc v1.0	start_codon	151	153	.	.	.	.
+TC-hsa-KIF21A_0068	TransCirc v1.0	CDS	151	76	.	.	.	translation_cycles=1; length=1149
+TC-hsa-KIF21A_0068	TransCirc v1.0	stop_codon	74	76	.	.	.	.
+TC-hsa-ATP5B_0023	TransCirc v1.0	start_codon	43	45	.	.	.	.
+TC-hsa-ATP5B_0023	TransCirc v1.0	CDS	43	20	.	.	.	translation_cycles=1; length=279
+TC-hsa-ATP5B_0023	TransCirc v1.0	stop_codon	18	20	.	.	.	.
+TC-hsa-ATP2B1_0032	TransCirc v1.0	start_codon	2218	2220	.	.	.	.
+TC-hsa-ATP2B1_0032	TransCirc v1.0	CDS	2218	70	.	.	.	translation_cycles=1; length=87
+TC-hsa-ATP2B1_0032	TransCirc v1.0	stop_codon	68	70	.	.	.	.
+TC-hsa-ATP2B1_0032	TransCirc v1.0	start_codon	591	593	.	.	.	.
+TC-hsa-ATP2B1_0032	TransCirc v1.0	CDS	591	6	.	.	.	translation_cycles=1; length=1650
+TC-hsa-ATP2B1_0032	TransCirc v1.0	stop_codon	4	6	.	.	.	.
+TC-hsa-FDX1_0004	TransCirc v1.0	start_codon	224	226	.	.	.	.
+TC-hsa-FDX1_0004	TransCirc v1.0	CDS	224	223	.	.	.	translation_cycles=3; length=765
+TC-hsa-FDX1_0004	TransCirc v1.0	terminal_codon	221	223	.	.	.	.
+TC-hsa-HECTD4_0215	TransCirc v1.0	start_codon	83	85	.	.	.	.
+TC-hsa-HECTD4_0215	TransCirc v1.0	CDS	83	62	.	.	.	translation_cycles=1; length=723
+TC-hsa-HECTD4_0215	TransCirc v1.0	stop_codon	60	62	.	.	.	.
+TC-hsa-RASAL1_0005	TransCirc v1.0	start_codon	58	60	.	.	.	.
+TC-hsa-RASAL1_0005	TransCirc v1.0	CDS	58	57	.	.	.	translation_cycles=3; length=954
+TC-hsa-RASAL1_0005	TransCirc v1.0	terminal_codon	55	57	.	.	.	.
+TC-hsa-HECTD4_0181	TransCirc v1.0	start_codon	889	891	.	.	.	.
+TC-hsa-HECTD4_0181	TransCirc v1.0	CDS	889	25	.	.	.	translation_cycles=1; length=69
+TC-hsa-HECTD4_0181	TransCirc v1.0	stop_codon	23	25	.	.	.	.
+TC-hsa-HECTD4_0181	TransCirc v1.0	start_codon	141	143	.	.	.	.
+TC-hsa-HECTD4_0181	TransCirc v1.0	CDS	141	6	.	.	.	translation_cycles=1; length=798
+TC-hsa-HECTD4_0181	TransCirc v1.0	stop_codon	4	6	.	.	.	.
+TC-hsa-SPG20_0003	TransCirc v1.0	start_codon	988	990	.	.	.	.
+TC-hsa-SPG20_0003	TransCirc v1.0	CDS	988	10	.	.	.	translation_cycles=2; length=1071
+TC-hsa-SPG20_0003	TransCirc v1.0	stop_codon	8	10	.	.	.	.
+TC-hsa-SPG20_0003	TransCirc v1.0	start_codon	171	173	.	.	.	.
+TC-hsa-SPG20_0003	TransCirc v1.0	CDS	171	10	.	.	.	translation_cycles=1; length=864
+TC-hsa-SPG20_0003	TransCirc v1.0	stop_codon	8	10	.	.	.	.
+TC-hsa-SPG20_0004	TransCirc v1.0	start_codon	1699	1701	.	.	.	.
+TC-hsa-SPG20_0004	TransCirc v1.0	CDS	1699	37	.	.	.	translation_cycles=2; length=1809
+TC-hsa-SPG20_0004	TransCirc v1.0	stop_codon	35	37	.	.	.	.
+TC-hsa-SPG20_0004	TransCirc v1.0	start_codon	3	5	.	.	.	.
+TC-hsa-SPG20_0004	TransCirc v1.0	CDS	3	37	.	.	.	translation_cycles=1; length=1770
+TC-hsa-SPG20_0004	TransCirc v1.0	stop_codon	35	37	.	.	.	.
+TC-hsa-LRRC63_0011	TransCirc v1.0	start_codon	379	381	.	.	.	.
+TC-hsa-LRRC63_0011	TransCirc v1.0	CDS	379	16	.	.	.	translation_cycles=2; length=426
+TC-hsa-LRRC63_0011	TransCirc v1.0	stop_codon	14	16	.	.	.	.
+TC-hsa-LRRC63_0011	TransCirc v1.0	start_codon	99	101	.	.	.	.
+TC-hsa-LRRC63_0011	TransCirc v1.0	CDS	99	16	.	.	.	translation_cycles=1; length=312
+TC-hsa-LRRC63_0011	TransCirc v1.0	stop_codon	14	16	.	.	.	.
+TC-hsa-HNRNPC_0015	TransCirc v1.0	start_codon	97	99	.	.	.	.
+TC-hsa-HNRNPC_0015	TransCirc v1.0	CDS	97	7	.	.	.	translation_cycles=2; length=159
+TC-hsa-HNRNPC_0015	TransCirc v1.0	stop_codon	5	7	.	.	.	.
+TC-hsa-HNRNPC_0015	TransCirc v1.0	start_codon	69	71	.	.	.	.
+TC-hsa-HNRNPC_0015	TransCirc v1.0	CDS	69	7	.	.	.	translation_cycles=1; length=63
+TC-hsa-HNRNPC_0015	TransCirc v1.0	stop_codon	5	7	.	.	.	.
+TC-hsa-ARHGEF7_0001	TransCirc v1.0	start_codon	94	96	.	.	.	.
+TC-hsa-ARHGEF7_0001	TransCirc v1.0	CDS	94	93	.	.	.	translation_cycles=3; length=648
+TC-hsa-ARHGEF7_0001	TransCirc v1.0	terminal_codon	91	93	.	.	.	.
+TC-hsa-FBN1_0036	TransCirc v1.0	start_codon	144	146	.	.	.	.
+TC-hsa-FBN1_0036	TransCirc v1.0	CDS	144	143	.	.	.	translation_cycles=3; length=4977
+TC-hsa-FBN1_0036	TransCirc v1.0	terminal_codon	141	143	.	.	.	.
+TC-hsa-TPM1_0007	TransCirc v1.0	start_codon	139	141	.	.	.	.
+TC-hsa-TPM1_0007	TransCirc v1.0	CDS	139	5	.	.	.	translation_cycles=1; length=399
+TC-hsa-TPM1_0007	TransCirc v1.0	stop_codon	3	5	.	.	.	.
+TC-hsa-PKM_0003	TransCirc v1.0	start_codon	25	27	.	.	.	.
+TC-hsa-PKM_0003	TransCirc v1.0	CDS	25	4	.	.	.	translation_cycles=1; length=147
+TC-hsa-PKM_0003	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-TLN2_0026	TransCirc v1.0	start_codon	1195	1197	.	.	.	.
+TC-hsa-TLN2_0026	TransCirc v1.0	CDS	1195	89	.	.	.	translation_cycles=1; length=120
+TC-hsa-TLN2_0026	TransCirc v1.0	stop_codon	87	89	.	.	.	.
+TC-hsa-TLN2_0026	TransCirc v1.0	start_codon	113	115	.	.	.	.
+TC-hsa-TLN2_0026	TransCirc v1.0	CDS	113	57	.	.	.	translation_cycles=1; length=1170
+TC-hsa-TLN2_0026	TransCirc v1.0	stop_codon	55	57	.	.	.	.
+TC-hsa-TLN2_0026	TransCirc v1.0	start_codon	1143	1145	.	.	.	.
+TC-hsa-TLN2_0026	TransCirc v1.0	CDS	1143	67	.	.	.	translation_cycles=1; length=150
+TC-hsa-TLN2_0026	TransCirc v1.0	stop_codon	65	67	.	.	.	.
+TC-hsa-HERC1_0045	TransCirc v1.0	start_codon	45	47	.	.	.	.
+TC-hsa-HERC1_0045	TransCirc v1.0	CDS	45	54	.	.	.	translation_cycles=1; length=3654
+TC-hsa-HERC1_0045	TransCirc v1.0	stop_codon	52	54	.	.	.	.
+TC-hsa-PRSS22_0001	TransCirc v1.0	start_codon	293	295	.	.	.	.
+TC-hsa-PRSS22_0001	TransCirc v1.0	CDS	293	27	.	.	.	translation_cycles=2; length=471
+TC-hsa-PRSS22_0001	TransCirc v1.0	stop_codon	25	27	.	.	.	.
+TC-hsa-PRSS22_0001	TransCirc v1.0	start_codon	6	8	.	.	.	.
+TC-hsa-PRSS22_0001	TransCirc v1.0	CDS	6	27	.	.	.	translation_cycles=1; length=390
+TC-hsa-PRSS22_0001	TransCirc v1.0	stop_codon	25	27	.	.	.	.
+TC-hsa-PHKB_0097	TransCirc v1.0	start_codon	78	80	.	.	.	.
+TC-hsa-PHKB_0097	TransCirc v1.0	CDS	78	4	.	.	.	translation_cycles=1; length=1194
+TC-hsa-PHKB_0097	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-PHKB_0065	TransCirc v1.0	start_codon	40	42	.	.	.	.
+TC-hsa-PHKB_0065	TransCirc v1.0	CDS	40	4	.	.	.	translation_cycles=1; length=2217
+TC-hsa-PHKB_0065	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-PHKB_0065	TransCirc v1.0	start_codon	2129	2131	.	.	.	.
+TC-hsa-PHKB_0065	TransCirc v1.0	CDS	2129	77	.	.	.	translation_cycles=1; length=201
+TC-hsa-PHKB_0065	TransCirc v1.0	stop_codon	75	77	.	.	.	.
+TC-hsa-CYB5B_0006	TransCirc v1.0	start_codon	94	96	.	.	.	.
+TC-hsa-CYB5B_0006	TransCirc v1.0	CDS	94	93	.	.	.	translation_cycles=3; length=477
+TC-hsa-CYB5B_0006	TransCirc v1.0	terminal_codon	91	93	.	.	.	.
+TC-hsa-CYB5B_0007	TransCirc v1.0	start_codon	94	96	.	.	.	.
+TC-hsa-CYB5B_0007	TransCirc v1.0	CDS	94	93	.	.	.	translation_cycles=3; length=387
+TC-hsa-CYB5B_0007	TransCirc v1.0	terminal_codon	91	93	.	.	.	.
+TC-hsa-CRK_0002	TransCirc v1.0	start_codon	221	223	.	.	.	.
+TC-hsa-CRK_0002	TransCirc v1.0	CDS	221	29	.	.	.	translation_cycles=1; length=93
+TC-hsa-CRK_0002	TransCirc v1.0	stop_codon	27	29	.	.	.	.
+TC-hsa-CRK_0002	TransCirc v1.0	start_codon	273	275	.	.	.	.
+TC-hsa-CRK_0002	TransCirc v1.0	CDS	273	219	.	.	.	translation_cycles=1; length=231
+TC-hsa-CRK_0002	TransCirc v1.0	stop_codon	217	219	.	.	.	.
+TC-hsa-RP11-566K11_0003	TransCirc v1.0	start_codon	130	132	.	.	.	.
+TC-hsa-RP11-566K11_0003	TransCirc v1.0	CDS	130	129	.	.	.	translation_cycles=3; length=639
+TC-hsa-RP11-566K11_0003	TransCirc v1.0	terminal_codon	127	129	.	.	.	.
+TC-hsa-PRPF8_0009	TransCirc v1.0	start_codon	97	99	.	.	.	.
+TC-hsa-PRPF8_0009	TransCirc v1.0	CDS	97	96	.	.	.	translation_cycles=3; length=342
+TC-hsa-PRPF8_0009	TransCirc v1.0	terminal_codon	94	96	.	.	.	.
+TC-hsa-AP2B1_0005	TransCirc v1.0	start_codon	84	86	.	.	.	.
+TC-hsa-AP2B1_0005	TransCirc v1.0	CDS	84	18	.	.	.	translation_cycles=1; length=2310
+TC-hsa-AP2B1_0005	TransCirc v1.0	stop_codon	16	18	.	.	.	.
+TC-hsa-MED24_0006	TransCirc v1.0	start_codon	48	50	.	.	.	.
+TC-hsa-MED24_0006	TransCirc v1.0	CDS	48	132	.	.	.	translation_cycles=1; length=255
+TC-hsa-MED24_0006	TransCirc v1.0	stop_codon	130	132	.	.	.	.
+TC-hsa-COL1A1_0059	TransCirc v1.0	start_codon	43	45	.	.	.	.
+TC-hsa-COL1A1_0059	TransCirc v1.0	CDS	43	42	.	.	.	translation_cycles=3; length=1323
+TC-hsa-COL1A1_0059	TransCirc v1.0	terminal_codon	40	42	.	.	.	.
+TC-hsa-COL1A1_0059	TransCirc v1.0	start_codon	26	28	.	.	.	.
+TC-hsa-COL1A1_0059	TransCirc v1.0	CDS	26	25	.	.	.	translation_cycles=3; length=1323
+TC-hsa-COL1A1_0059	TransCirc v1.0	terminal_codon	23	25	.	.	.	.
+TC-hsa-ACOX1_0026	TransCirc v1.0	start_codon	294	296	.	.	.	.
+TC-hsa-ACOX1_0026	TransCirc v1.0	CDS	294	40	.	.	.	translation_cycles=1; length=615
+TC-hsa-ACOX1_0026	TransCirc v1.0	stop_codon	38	40	.	.	.	.
+TC-hsa-ACTG1_0007	TransCirc v1.0	start_codon	7	9	.	.	.	.
+TC-hsa-ACTG1_0007	TransCirc v1.0	CDS	7	6	.	.	.	translation_cycles=3; length=720
+TC-hsa-ACTG1_0007	TransCirc v1.0	terminal_codon	4	6	.	.	.	.
+TC-hsa-EPB41L3_0028	TransCirc v1.0	start_codon	118	120	.	.	.	.
+TC-hsa-EPB41L3_0028	TransCirc v1.0	CDS	118	117	.	.	.	translation_cycles=3; length=846
+TC-hsa-EPB41L3_0028	TransCirc v1.0	terminal_codon	115	117	.	.	.	.
+TC-hsa-C3_0036	TransCirc v1.0	start_codon	18	20	.	.	.	.
+TC-hsa-C3_0036	TransCirc v1.0	CDS	18	17	.	.	.	translation_cycles=3; length=612
+TC-hsa-C3_0036	TransCirc v1.0	terminal_codon	15	17	.	.	.	.
+TC-hsa-LONP1_0006	TransCirc v1.0	start_codon	157	159	.	.	.	.
+TC-hsa-LONP1_0006	TransCirc v1.0	CDS	157	55	.	.	.	translation_cycles=1; length=120
+TC-hsa-LONP1_0006	TransCirc v1.0	stop_codon	53	55	.	.	.	.
+TC-hsa-PTPRS_0035	TransCirc v1.0	start_codon	36	38	.	.	.	.
+TC-hsa-PTPRS_0035	TransCirc v1.0	CDS	36	35	.	.	.	translation_cycles=3; length=900
+TC-hsa-PTPRS_0035	TransCirc v1.0	terminal_codon	33	35	.	.	.	.
+TC-hsa-SEMA6B_0004	TransCirc v1.0	start_codon	910	912	.	.	.	.
+TC-hsa-SEMA6B_0004	TransCirc v1.0	CDS	910	118	.	.	.	translation_cycles=2; length=1251
+TC-hsa-SEMA6B_0004	TransCirc v1.0	stop_codon	116	118	.	.	.	.
+TC-hsa-SEMA6B_0004	TransCirc v1.0	start_codon	905	907	.	.	.	.
+TC-hsa-SEMA6B_0004	TransCirc v1.0	CDS	905	159	.	.	.	translation_cycles=1; length=276
+TC-hsa-SEMA6B_0004	TransCirc v1.0	stop_codon	157	159	.	.	.	.
+TC-hsa-SEMA6B_0004	TransCirc v1.0	start_codon	33	35	.	.	.	.
+TC-hsa-SEMA6B_0004	TransCirc v1.0	CDS	33	118	.	.	.	translation_cycles=1; length=1107
+TC-hsa-SEMA6B_0004	TransCirc v1.0	stop_codon	116	118	.	.	.	.
+TC-hsa-CALR_0009	TransCirc v1.0	start_codon	277	279	.	.	.	.
+TC-hsa-CALR_0009	TransCirc v1.0	CDS	277	276	.	.	.	translation_cycles=3; length=1404
+TC-hsa-CALR_0009	TransCirc v1.0	terminal_codon	274	276	.	.	.	.
+TC-hsa-ZNF649_0002	TransCirc v1.0	start_codon	188	190	.	.	.	.
+TC-hsa-ZNF649_0002	TransCirc v1.0	CDS	188	35	.	.	.	translation_cycles=1; length=273
+TC-hsa-ZNF649_0002	TransCirc v1.0	stop_codon	33	35	.	.	.	.
+TC-hsa-ZNF649_0002	TransCirc v1.0	start_codon	399	401	.	.	.	.
+TC-hsa-ZNF649_0002	TransCirc v1.0	CDS	399	351	.	.	.	translation_cycles=1; length=378
+TC-hsa-ZNF649_0002	TransCirc v1.0	stop_codon	349	351	.	.	.	.
+TC-hsa-GRHL1_0018	TransCirc v1.0	start_codon	94	96	.	.	.	.
+TC-hsa-GRHL1_0018	TransCirc v1.0	CDS	94	8	.	.	.	translation_cycles=2; length=375
+TC-hsa-GRHL1_0018	TransCirc v1.0	stop_codon	6	8	.	.	.	.
+TC-hsa-GRHL1_0018	TransCirc v1.0	start_codon	23	25	.	.	.	.
+TC-hsa-GRHL1_0018	TransCirc v1.0	CDS	23	8	.	.	.	translation_cycles=1; length=216
+TC-hsa-GRHL1_0018	TransCirc v1.0	stop_codon	6	8	.	.	.	.
+TC-hsa-RAB10_0016	TransCirc v1.0	start_codon	2	4	.	.	.	.
+TC-hsa-RAB10_0016	TransCirc v1.0	CDS	2	24	.	.	.	translation_cycles=1; length=192
+TC-hsa-RAB10_0016	TransCirc v1.0	stop_codon	22	24	.	.	.	.
+TC-hsa-RAB10_0016	TransCirc v1.0	start_codon	150	152	.	.	.	.
+TC-hsa-RAB10_0016	TransCirc v1.0	CDS	150	24	.	.	.	translation_cycles=2; length=213
+TC-hsa-RAB10_0016	TransCirc v1.0	stop_codon	22	24	.	.	.	.
+TC-hsa-USP34_0308	TransCirc v1.0	start_codon	200	202	.	.	.	.
+TC-hsa-USP34_0308	TransCirc v1.0	CDS	200	44	.	.	.	translation_cycles=1; length=732
+TC-hsa-USP34_0308	TransCirc v1.0	stop_codon	42	44	.	.	.	.
+TC-hsa-ACTG2_0009	TransCirc v1.0	start_codon	78	80	.	.	.	.
+TC-hsa-ACTG2_0009	TransCirc v1.0	CDS	78	77	.	.	.	translation_cycles=3; length=1062
+TC-hsa-ACTG2_0009	TransCirc v1.0	terminal_codon	75	77	.	.	.	.
+TC-hsa-CLASP1_0108	TransCirc v1.0	start_codon	87	89	.	.	.	.
+TC-hsa-CLASP1_0108	TransCirc v1.0	CDS	87	86	.	.	.	translation_cycles=3; length=900
+TC-hsa-CLASP1_0108	TransCirc v1.0	terminal_codon	84	86	.	.	.	.
+TC-hsa-PKP4_0070	TransCirc v1.0	start_codon	38	40	.	.	.	.
+TC-hsa-PKP4_0070	TransCirc v1.0	CDS	38	62	.	.	.	translation_cycles=1; length=660
+TC-hsa-PKP4_0070	TransCirc v1.0	stop_codon	60	62	.	.	.	.
+TC-hsa-SPAG16_0048	TransCirc v1.0	start_codon	53	55	.	.	.	.
+TC-hsa-SPAG16_0048	TransCirc v1.0	CDS	53	52	.	.	.	translation_cycles=3; length=324
+TC-hsa-SPAG16_0048	TransCirc v1.0	terminal_codon	50	52	.	.	.	.
+TC-hsa-FN1_0064	TransCirc v1.0	start_codon	516	518	.	.	.	.
+TC-hsa-FN1_0064	TransCirc v1.0	CDS	516	515	.	.	.	translation_cycles=3; length=1944
+TC-hsa-FN1_0064	TransCirc v1.0	terminal_codon	513	515	.	.	.	.
+TC-hsa-IQCA1_0010	TransCirc v1.0	start_codon	111	113	.	.	.	.
+TC-hsa-IQCA1_0010	TransCirc v1.0	CDS	111	141	.	.	.	translation_cycles=1; length=399
+TC-hsa-IQCA1_0010	TransCirc v1.0	stop_codon	139	141	.	.	.	.
+TC-hsa-COL6A3_0016	TransCirc v1.0	start_codon	1775	1777	.	.	.	.
+TC-hsa-COL6A3_0016	TransCirc v1.0	CDS	1775	210	.	.	.	translation_cycles=2; length=2100
+TC-hsa-COL6A3_0016	TransCirc v1.0	stop_codon	208	210	.	.	.	.
+TC-hsa-COL6A3_0016	TransCirc v1.0	start_codon	21	23	.	.	.	.
+TC-hsa-COL6A3_0016	TransCirc v1.0	CDS	21	210	.	.	.	translation_cycles=1; length=2022
+TC-hsa-COL6A3_0016	TransCirc v1.0	stop_codon	208	210	.	.	.	.
+TC-hsa-COL6A3_0065	TransCirc v1.0	start_codon	802	804	.	.	.	.
+TC-hsa-COL6A3_0065	TransCirc v1.0	CDS	802	52	.	.	.	translation_cycles=1; length=63
+TC-hsa-COL6A3_0065	TransCirc v1.0	stop_codon	50	52	.	.	.	.
+TC-hsa-COL6A3_0065	TransCirc v1.0	start_codon	3	5	.	.	.	.
+TC-hsa-COL6A3_0065	TransCirc v1.0	CDS	3	144	.	.	.	translation_cycles=1; length=954
+TC-hsa-COL6A3_0065	TransCirc v1.0	stop_codon	142	144	.	.	.	.
+TC-hsa-FN1_0063	TransCirc v1.0	start_codon	433	435	.	.	.	.
+TC-hsa-FN1_0063	TransCirc v1.0	CDS	433	17	.	.	.	translation_cycles=1; length=150
+TC-hsa-FN1_0063	TransCirc v1.0	stop_codon	15	17	.	.	.	.
+TC-hsa-COL6A3_0066	TransCirc v1.0	start_codon	60	62	.	.	.	.
+TC-hsa-COL6A3_0066	TransCirc v1.0	CDS	60	15	.	.	.	translation_cycles=1; length=939
+TC-hsa-COL6A3_0066	TransCirc v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-ARMC9_0076	TransCirc v1.0	start_codon	520	522	.	.	.	.
+TC-hsa-ARMC9_0076	TransCirc v1.0	CDS	520	178	.	.	.	translation_cycles=1; length=222
+TC-hsa-ARMC9_0076	TransCirc v1.0	stop_codon	176	178	.	.	.	.
+TC-hsa-ARMC9_0076	TransCirc v1.0	start_codon	39	41	.	.	.	.
+TC-hsa-ARMC9_0076	TransCirc v1.0	CDS	39	57	.	.	.	translation_cycles=1; length=582
+TC-hsa-ARMC9_0076	TransCirc v1.0	stop_codon	55	57	.	.	.	.
+TC-hsa-SEPT2_0033	TransCirc v1.0	start_codon	757	759	.	.	.	.
+TC-hsa-SEPT2_0033	TransCirc v1.0	CDS	757	4	.	.	.	translation_cycles=2; length=840
+TC-hsa-SEPT2_0033	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-SEPT2_0033	TransCirc v1.0	start_codon	372	374	.	.	.	.
+TC-hsa-SEPT2_0033	TransCirc v1.0	CDS	372	4	.	.	.	translation_cycles=1; length=429
+TC-hsa-SEPT2_0033	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-COL6A1_0007	TransCirc v1.0	start_codon	178	180	.	.	.	.
+TC-hsa-COL6A1_0007	TransCirc v1.0	CDS	178	177	.	.	.	translation_cycles=3; length=1944
+TC-hsa-COL6A1_0007	TransCirc v1.0	terminal_codon	175	177	.	.	.	.
+TC-hsa-PCNT_0072	TransCirc v1.0	start_codon	355	357	.	.	.	.
+TC-hsa-PCNT_0072	TransCirc v1.0	CDS	355	161	.	.	.	translation_cycles=1; length=1443
+TC-hsa-PCNT_0072	TransCirc v1.0	stop_codon	159	161	.	.	.	.
+TC-hsa-PCNT_0072	TransCirc v1.0	start_codon	1581	1583	.	.	.	.
+TC-hsa-PCNT_0072	TransCirc v1.0	CDS	1581	61	.	.	.	translation_cycles=1; length=117
+TC-hsa-PCNT_0072	TransCirc v1.0	stop_codon	59	61	.	.	.	.
+TC-hsa-TRIOBP_0019	TransCirc v1.0	start_codon	116	118	.	.	.	.
+TC-hsa-TRIOBP_0019	TransCirc v1.0	CDS	116	15	.	.	.	translation_cycles=2; length=438
+TC-hsa-TRIOBP_0019	TransCirc v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-TRIOBP_0019	TransCirc v1.0	start_codon	78	80	.	.	.	.
+TC-hsa-TRIOBP_0019	TransCirc v1.0	CDS	78	15	.	.	.	translation_cycles=1; length=207
+TC-hsa-TRIOBP_0019	TransCirc v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-SBF1_0025	TransCirc v1.0	start_codon	167	169	.	.	.	.
+TC-hsa-SBF1_0025	TransCirc v1.0	CDS	167	166	.	.	.	translation_cycles=3; length=603
+TC-hsa-SBF1_0025	TransCirc v1.0	terminal_codon	164	166	.	.	.	.
+TC-hsa-SMARCC1_0134	TransCirc v1.0	start_codon	133	135	.	.	.	.
+TC-hsa-SMARCC1_0134	TransCirc v1.0	CDS	133	265	.	.	.	translation_cycles=1; length=1509
+TC-hsa-SMARCC1_0134	TransCirc v1.0	stop_codon	263	265	.	.	.	.
+TC-hsa-FLNB_0076	TransCirc v1.0	start_codon	7	9	.	.	.	.
+TC-hsa-FLNB_0076	TransCirc v1.0	CDS	7	6	.	.	.	translation_cycles=3; length=117
+TC-hsa-FLNB_0076	TransCirc v1.0	terminal_codon	4	6	.	.	.	.
+TC-hsa-FLNB_0076	TransCirc v1.0	start_codon	12	14	.	.	.	.
+TC-hsa-FLNB_0076	TransCirc v1.0	CDS	12	11	.	.	.	translation_cycles=3; length=117
+TC-hsa-FLNB_0076	TransCirc v1.0	terminal_codon	9	11	.	.	.	.
+TC-hsa-ADD1_0055	TransCirc v1.0	start_codon	7	9	.	.	.	.
+TC-hsa-ADD1_0055	TransCirc v1.0	CDS	7	1	.	.	.	translation_cycles=1; length=285
+TC-hsa-ADD1_0055	TransCirc v1.0	stop_codon	289	1	.	.	.	.
+TC-hsa-ADD1_0055	TransCirc v1.0	start_codon	152	154	.	.	.	.
+TC-hsa-ADD1_0055	TransCirc v1.0	CDS	152	35	.	.	.	translation_cycles=1; length=174
+TC-hsa-ADD1_0055	TransCirc v1.0	stop_codon	33	35	.	.	.	.
+TC-hsa-SLIT2_0055	TransCirc v1.0	start_codon	143	145	.	.	.	.
+TC-hsa-SLIT2_0055	TransCirc v1.0	CDS	143	142	.	.	.	translation_cycles=3; length=3789
+TC-hsa-SLIT2_0055	TransCirc v1.0	terminal_codon	140	142	.	.	.	.
+TC-hsa-CNGA1_0003	TransCirc v1.0	start_codon	109	111	.	.	.	.
+TC-hsa-CNGA1_0003	TransCirc v1.0	CDS	109	85	.	.	.	translation_cycles=2; length=453
+TC-hsa-CNGA1_0003	TransCirc v1.0	stop_codon	83	85	.	.	.	.
+TC-hsa-CNGA1_0003	TransCirc v1.0	start_codon	3	5	.	.	.	.
+TC-hsa-CNGA1_0003	TransCirc v1.0	CDS	3	85	.	.	.	translation_cycles=1; length=321
+TC-hsa-CNGA1_0003	TransCirc v1.0	stop_codon	83	85	.	.	.	.
+TC-hsa-UCHL1_0002	TransCirc v1.0	start_codon	118	120	.	.	.	.
+TC-hsa-UCHL1_0002	TransCirc v1.0	CDS	118	117	.	.	.	translation_cycles=3; length=477
+TC-hsa-UCHL1_0002	TransCirc v1.0	terminal_codon	115	117	.	.	.	.
+TC-hsa-ALB_0028	TransCirc v1.0	start_codon	10	12	.	.	.	.
+TC-hsa-ALB_0028	TransCirc v1.0	CDS	10	9	.	.	.	translation_cycles=3; length=2754
+TC-hsa-ALB_0028	TransCirc v1.0	terminal_codon	7	9	.	.	.	.
+TC-hsa-ALB_0010	TransCirc v1.0	start_codon	49	51	.	.	.	.
+TC-hsa-ALB_0010	TransCirc v1.0	CDS	49	48	.	.	.	translation_cycles=3; length=423
+TC-hsa-ALB_0010	TransCirc v1.0	terminal_codon	46	48	.	.	.	.
+TC-hsa-ALB_0032	TransCirc v1.0	start_codon	112	114	.	.	.	.
+TC-hsa-ALB_0032	TransCirc v1.0	CDS	112	111	.	.	.	translation_cycles=3; length=684
+TC-hsa-ALB_0032	TransCirc v1.0	terminal_codon	109	111	.	.	.	.
+TC-hsa-ALB_0057	TransCirc v1.0	start_codon	286	288	.	.	.	.
+TC-hsa-ALB_0057	TransCirc v1.0	CDS	286	285	.	.	.	translation_cycles=3; length=1071
+TC-hsa-ALB_0057	TransCirc v1.0	terminal_codon	283	285	.	.	.	.
+TC-hsa-ALB_0024	TransCirc v1.0	start_codon	10	12	.	.	.	.
+TC-hsa-ALB_0024	TransCirc v1.0	CDS	10	9	.	.	.	translation_cycles=3; length=999
+TC-hsa-ALB_0024	TransCirc v1.0	terminal_codon	7	9	.	.	.	.
+TC-hsa-PDLIM5_0024	TransCirc v1.0	start_codon	6	8	.	.	.	.
+TC-hsa-PDLIM5_0024	TransCirc v1.0	CDS	6	5	.	.	.	translation_cycles=3; length=648
+TC-hsa-PDLIM5_0024	TransCirc v1.0	terminal_codon	3	5	.	.	.	.
+TC-hsa-ANK2_0151	TransCirc v1.0	start_codon	595	597	.	.	.	.
+TC-hsa-ANK2_0151	TransCirc v1.0	CDS	595	4	.	.	.	translation_cycles=2; length=636
+TC-hsa-ANK2_0151	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ANK2_0151	TransCirc v1.0	start_codon	437	439	.	.	.	.
+TC-hsa-ANK2_0151	TransCirc v1.0	CDS	437	15	.	.	.	translation_cycles=1; length=192
+TC-hsa-ANK2_0151	TransCirc v1.0	stop_codon	13	15	.	.	.	.
+TC-hsa-ANK2_0151	TransCirc v1.0	start_codon	12	14	.	.	.	.
+TC-hsa-ANK2_0151	TransCirc v1.0	CDS	12	4	.	.	.	translation_cycles=1; length=606
+TC-hsa-ANK2_0151	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ANK2_0099	TransCirc v1.0	start_codon	73	75	.	.	.	.
+TC-hsa-ANK2_0099	TransCirc v1.0	CDS	73	190	.	.	.	translation_cycles=1; length=1533
+TC-hsa-ANK2_0099	TransCirc v1.0	stop_codon	188	190	.	.	.	.
+TC-hsa-ANK2_0154	TransCirc v1.0	start_codon	1345	1347	.	.	.	.
+TC-hsa-ANK2_0154	TransCirc v1.0	CDS	1345	4	.	.	.	translation_cycles=2; length=1422
+TC-hsa-ANK2_0154	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ANK2_0154	TransCirc v1.0	start_codon	12	14	.	.	.	.
+TC-hsa-ANK2_0154	TransCirc v1.0	CDS	12	4	.	.	.	translation_cycles=1; length=1374
+TC-hsa-ANK2_0154	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ANK2_0166	TransCirc v1.0	start_codon	56	58	.	.	.	.
+TC-hsa-ANK2_0166	TransCirc v1.0	CDS	56	55	.	.	.	translation_cycles=3; length=684
+TC-hsa-ANK2_0166	TransCirc v1.0	terminal_codon	53	55	.	.	.	.
+TC-hsa-ANK2_0150	TransCirc v1.0	start_codon	376	378	.	.	.	.
+TC-hsa-ANK2_0150	TransCirc v1.0	CDS	376	4	.	.	.	translation_cycles=2; length=405
+TC-hsa-ANK2_0150	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ANK2_0150	TransCirc v1.0	start_codon	12	14	.	.	.	.
+TC-hsa-ANK2_0150	TransCirc v1.0	CDS	12	4	.	.	.	translation_cycles=1; length=381
+TC-hsa-ANK2_0150	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-ETFDH_0012	TransCirc v1.0	start_codon	150	152	.	.	.	.
+TC-hsa-ETFDH_0012	TransCirc v1.0	CDS	150	149	.	.	.	translation_cycles=3; length=3753
+TC-hsa-ETFDH_0012	TransCirc v1.0	terminal_codon	147	149	.	.	.	.
+TC-hsa-FGB_0027	TransCirc v1.0	start_codon	168	170	.	.	.	.
+TC-hsa-FGB_0027	TransCirc v1.0	CDS	168	167	.	.	.	translation_cycles=3; length=1026
+TC-hsa-FGB_0027	TransCirc v1.0	terminal_codon	165	167	.	.	.	.
+TC-hsa-FGG_0012	TransCirc v1.0	start_codon	412	414	.	.	.	.
+TC-hsa-FGG_0012	TransCirc v1.0	CDS	412	19	.	.	.	translation_cycles=1; length=63
+TC-hsa-FGG_0012	TransCirc v1.0	stop_codon	17	19	.	.	.	.
+TC-hsa-FGG_0012	TransCirc v1.0	start_codon	437	439	.	.	.	.
+TC-hsa-FGG_0012	TransCirc v1.0	CDS	437	48	.	.	.	translation_cycles=2; length=522
+TC-hsa-FGG_0012	TransCirc v1.0	stop_codon	46	48	.	.	.	.
+TC-hsa-FGG_0012	TransCirc v1.0	start_codon	99	101	.	.	.	.
+TC-hsa-FGG_0012	TransCirc v1.0	CDS	99	48	.	.	.	translation_cycles=1; length=405
+TC-hsa-FGG_0012	TransCirc v1.0	stop_codon	46	48	.	.	.	.
+TC-hsa-RAPGEF6_0057	TransCirc v1.0	start_codon	166	168	.	.	.	.
+TC-hsa-RAPGEF6_0057	TransCirc v1.0	CDS	166	4	.	.	.	translation_cycles=1; length=2352
+TC-hsa-RAPGEF6_0057	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-KIFC1_0005	TransCirc v1.0	start_codon	278	280	.	.	.	.
+TC-hsa-KIFC1_0005	TransCirc v1.0	CDS	278	63	.	.	.	translation_cycles=2; length=588
+TC-hsa-KIFC1_0005	TransCirc v1.0	stop_codon	61	63	.	.	.	.
+TC-hsa-KIFC1_0005	TransCirc v1.0	start_codon	18	20	.	.	.	.
+TC-hsa-KIFC1_0005	TransCirc v1.0	CDS	18	63	.	.	.	translation_cycles=1; length=447
+TC-hsa-KIFC1_0005	TransCirc v1.0	stop_codon	61	63	.	.	.	.
+TC-hsa-SNAP91_0069	TransCirc v1.0	start_codon	45	47	.	.	.	.
+TC-hsa-SNAP91_0069	TransCirc v1.0	CDS	45	6	.	.	.	translation_cycles=1; length=378
+TC-hsa-SNAP91_0069	TransCirc v1.0	stop_codon	4	6	.	.	.	.
+TC-hsa-ORC3_0054	TransCirc v1.0	start_codon	2	4	.	.	.	.
+TC-hsa-ORC3_0054	TransCirc v1.0	CDS	2	18	.	.	.	translation_cycles=1; length=585
+TC-hsa-ORC3_0054	TransCirc v1.0	stop_codon	16	18	.	.	.	.
+TC-hsa-GJA1_0003	TransCirc v1.0	start_codon	185	187	.	.	.	.
+TC-hsa-GJA1_0003	TransCirc v1.0	CDS	185	252	.	.	.	translation_cycles=2; length=660
+TC-hsa-GJA1_0003	TransCirc v1.0	stop_codon	250	252	.	.	.	.
+TC-hsa-GJA1_0003	TransCirc v1.0	start_codon	252	254	.	.	.	.
+TC-hsa-GJA1_0003	TransCirc v1.0	CDS	252	252	.	.	.	translation_cycles=1; length=297
+TC-hsa-GJA1_0003	TransCirc v1.0	stop_codon	250	252	.	.	.	.
+TC-hsa-MLLT4_0034	TransCirc v1.0	start_codon	312	314	.	.	.	.
+TC-hsa-MLLT4_0034	TransCirc v1.0	CDS	312	311	.	.	.	translation_cycles=3; length=4446
+TC-hsa-MLLT4_0034	TransCirc v1.0	terminal_codon	309	311	.	.	.	.
+TC-hsa-MLLT4_0102	TransCirc v1.0	start_codon	37	39	.	.	.	.
+TC-hsa-MLLT4_0102	TransCirc v1.0	CDS	37	53	.	.	.	translation_cycles=1; length=867
+TC-hsa-MLLT4_0102	TransCirc v1.0	stop_codon	51	53	.	.	.	.
+TC-hsa-MLLT4_0102	TransCirc v1.0	start_codon	840	842	.	.	.	.
+TC-hsa-MLLT4_0102	TransCirc v1.0	CDS	840	121	.	.	.	translation_cycles=1; length=132
+TC-hsa-MLLT4_0102	TransCirc v1.0	stop_codon	119	121	.	.	.	.
+TC-hsa-MLLT4_0059	TransCirc v1.0	start_codon	1027	2	.	.	.	.
+TC-hsa-MLLT4_0059	TransCirc v1.0	CDS	1027	89	.	.	.	translation_cycles=1; length=90
+TC-hsa-MLLT4_0059	TransCirc v1.0	stop_codon	87	89	.	.	.	.
+TC-hsa-MLLT4_0059	TransCirc v1.0	start_codon	38	40	.	.	.	.
+TC-hsa-MLLT4_0059	TransCirc v1.0	CDS	38	3	.	.	.	translation_cycles=1; length=993
+TC-hsa-MLLT4_0059	TransCirc v1.0	stop_codon	1	3	.	.	.	.
+TC-hsa-MLLT4_0059	TransCirc v1.0	start_codon	954	956	.	.	.	.
+TC-hsa-MLLT4_0059	TransCirc v1.0	CDS	954	3	.	.	.	translation_cycles=2; length=1104
+TC-hsa-MLLT4_0059	TransCirc v1.0	stop_codon	1	3	.	.	.	.
+TC-hsa-COL1A2_0086	TransCirc v1.0	start_codon	7	9	.	.	.	.
+TC-hsa-COL1A2_0086	TransCirc v1.0	CDS	7	6	.	.	.	translation_cycles=3; length=1296
+TC-hsa-COL1A2_0086	TransCirc v1.0	terminal_codon	4	6	.	.	.	.
+TC-hsa-COL1A2_0086	TransCirc v1.0	start_codon	102	104	.	.	.	.
+TC-hsa-COL1A2_0086	TransCirc v1.0	CDS	102	101	.	.	.	translation_cycles=3; length=1296
+TC-hsa-COL1A2_0086	TransCirc v1.0	terminal_codon	99	101	.	.	.	.
+TC-hsa-COL1A2_0096	TransCirc v1.0	start_codon	192	194	.	.	.	.
+TC-hsa-COL1A2_0096	TransCirc v1.0	CDS	192	191	.	.	.	translation_cycles=3; length=1485
+TC-hsa-COL1A2_0096	TransCirc v1.0	terminal_codon	189	191	.	.	.	.
+TC-hsa-AZGP1_0001	TransCirc v1.0	start_codon	208	210	.	.	.	.
+TC-hsa-AZGP1_0001	TransCirc v1.0	CDS	208	14	.	.	.	translation_cycles=1; length=108
+TC-hsa-AZGP1_0001	TransCirc v1.0	stop_codon	12	14	.	.	.	.
+TC-hsa-AZGP1_0001	TransCirc v1.0	start_codon	281	283	.	.	.	.
+TC-hsa-AZGP1_0001	TransCirc v1.0	CDS	281	165	.	.	.	translation_cycles=1; length=186
+TC-hsa-AZGP1_0001	TransCirc v1.0	stop_codon	163	165	.	.	.	.
+TC-hsa-LRGUK_0055	TransCirc v1.0	start_codon	115	117	.	.	.	.
+TC-hsa-LRGUK_0055	TransCirc v1.0	CDS	115	114	.	.	.	translation_cycles=3; length=3132
+TC-hsa-LRGUK_0055	TransCirc v1.0	terminal_codon	112	114	.	.	.	.
+TC-hsa-DPYSL2_0016	TransCirc v1.0	start_codon	141	143	.	.	.	.
+TC-hsa-DPYSL2_0016	TransCirc v1.0	CDS	141	140	.	.	.	translation_cycles=3; length=495
+TC-hsa-DPYSL2_0016	TransCirc v1.0	terminal_codon	138	140	.	.	.	.
+TC-hsa-ASAP1_0009	TransCirc v1.0	start_codon	1928	1930	.	.	.	.
+TC-hsa-ASAP1_0009	TransCirc v1.0	CDS	1928	36	.	.	.	translation_cycles=2; length=1977
+TC-hsa-ASAP1_0009	TransCirc v1.0	stop_codon	34	36	.	.	.	.
+TC-hsa-ASAP1_0009	TransCirc v1.0	start_codon	69	71	.	.	.	.
+TC-hsa-ASAP1_0009	TransCirc v1.0	CDS	69	36	.	.	.	translation_cycles=1; length=1902
+TC-hsa-ASAP1_0009	TransCirc v1.0	stop_codon	34	36	.	.	.	.
+TC-hsa-RIMS2_0041	TransCirc v1.0	start_codon	92	94	.	.	.	.
+TC-hsa-RIMS2_0041	TransCirc v1.0	CDS	92	170	.	.	.	translation_cycles=1; length=999
+TC-hsa-RIMS2_0041	TransCirc v1.0	stop_codon	168	170	.	.	.	.
+TC-hsa-FOCAD_0112	TransCirc v1.0	start_codon	1354	1356	.	.	.	.
+TC-hsa-FOCAD_0112	TransCirc v1.0	CDS	1354	46	.	.	.	translation_cycles=2; length=1449
+TC-hsa-FOCAD_0112	TransCirc v1.0	stop_codon	44	46	.	.	.	.
+TC-hsa-FOCAD_0112	TransCirc v1.0	start_codon	6	8	.	.	.	.
+TC-hsa-FOCAD_0112	TransCirc v1.0	CDS	6	46	.	.	.	translation_cycles=1; length=1419
+TC-hsa-FOCAD_0112	TransCirc v1.0	stop_codon	44	46	.	.	.	.
+TC-hsa-GRHPR_0006	TransCirc v1.0	start_codon	778	780	.	.	.	.
+TC-hsa-GRHPR_0006	TransCirc v1.0	CDS	778	53	.	.	.	translation_cycles=2; length=840
+TC-hsa-GRHPR_0006	TransCirc v1.0	stop_codon	51	53	.	.	.	.
+TC-hsa-GRHPR_0006	TransCirc v1.0	start_codon	158	160	.	.	.	.
+TC-hsa-GRHPR_0006	TransCirc v1.0	CDS	158	53	.	.	.	translation_cycles=1; length=678
+TC-hsa-GRHPR_0006	TransCirc v1.0	stop_codon	51	53	.	.	.	.
+TC-hsa-GSN_0014	TransCirc v1.0	start_codon	169	171	.	.	.	.
+TC-hsa-GSN_0014	TransCirc v1.0	CDS	169	103	.	.	.	translation_cycles=1; length=459
+TC-hsa-GSN_0014	TransCirc v1.0	stop_codon	101	103	.	.	.	.
+TC-hsa-GSN_0014	TransCirc v1.0	start_codon	500	502	.	.	.	.
+TC-hsa-GSN_0014	TransCirc v1.0	CDS	500	132	.	.	.	translation_cycles=2; length=681
+TC-hsa-GSN_0014	TransCirc v1.0	stop_codon	130	132	.	.	.	.
+TC-hsa-GSN_0014	TransCirc v1.0	start_codon	81	83	.	.	.	.
+TC-hsa-GSN_0014	TransCirc v1.0	CDS	81	132	.	.	.	translation_cycles=1; length=576
+TC-hsa-GSN_0014	TransCirc v1.0	stop_codon	130	132	.	.	.	.
+TC-hsa-ALDOB_0009	TransCirc v1.0	start_codon	133	135	.	.	.	.
+TC-hsa-ALDOB_0009	TransCirc v1.0	CDS	133	132	.	.	.	translation_cycles=3; length=504
+TC-hsa-ALDOB_0009	TransCirc v1.0	terminal_codon	130	132	.	.	.	.
+TC-hsa-RABGAP1_0028	TransCirc v1.0	start_codon	50	52	.	.	.	.
+TC-hsa-RABGAP1_0028	TransCirc v1.0	CDS	50	18	.	.	.	translation_cycles=1; length=2646
+TC-hsa-RABGAP1_0028	TransCirc v1.0	stop_codon	16	18	.	.	.	.
+TC-hsa-STXBP1_0055	TransCirc v1.0	start_codon	187	189	.	.	.	.
+TC-hsa-STXBP1_0055	TransCirc v1.0	CDS	187	186	.	.	.	translation_cycles=3; length=693
+TC-hsa-STXBP1_0055	TransCirc v1.0	terminal_codon	184	186	.	.	.	.
+TC-hsa-SPTAN1_0082	TransCirc v1.0	start_codon	41	43	.	.	.	.
+TC-hsa-SPTAN1_0082	TransCirc v1.0	CDS	41	40	.	.	.	translation_cycles=3; length=10431
+TC-hsa-SPTAN1_0082	TransCirc v1.0	terminal_codon	38	40	.	.	.	.
+TC-hsa-MXRA5_0002	TransCirc v1.0	start_codon	1906	1908	.	.	.	.
+TC-hsa-MXRA5_0002	TransCirc v1.0	CDS	1906	1909	.	.	.	translation_cycles=1; length=1959
+TC-hsa-MXRA5_0002	TransCirc v1.0	stop_codon	1907	1909	.	.	.	.
+TC-hsa-MXRA5_0002	TransCirc v1.0	start_codon	1940	1942	.	.	.	.
+TC-hsa-MXRA5_0002	TransCirc v1.0	CDS	1940	47	.	.	.	translation_cycles=1; length=63
+TC-hsa-MXRA5_0002	TransCirc v1.0	stop_codon	45	47	.	.	.	.
+TC-hsa-UBA1_0019	TransCirc v1.0	start_codon	547	549	.	.	.	.
+TC-hsa-UBA1_0019	TransCirc v1.0	CDS	547	4	.	.	.	translation_cycles=2; length=612
+TC-hsa-UBA1_0019	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-UBA1_0019	TransCirc v1.0	start_codon	66	68	.	.	.	.
+TC-hsa-UBA1_0019	TransCirc v1.0	CDS	66	4	.	.	.	translation_cycles=1; length=516
+TC-hsa-UBA1_0019	TransCirc v1.0	stop_codon	2	4	.	.	.	.
+TC-hsa-USP9X_0058	TransCirc v1.0	start_codon	193	195	.	.	.	.
+TC-hsa-USP9X_0058	TransCirc v1.0	CDS	193	192	.	.	.	translation_cycles=3; length=7110
+TC-hsa-USP9X_0058	TransCirc v1.0	terminal_codon	190	192	.	.	.	.
+TC-hsa-OCRL_0024	TransCirc v1.0	start_codon	56	58	.	.	.	.
+TC-hsa-OCRL_0024	TransCirc v1.0	CDS	56	12	.	.	.	translation_cycles=1; length=999
+TC-hsa-OCRL_0024	TransCirc v1.0	stop_codon	10	12	.	.	.	.
+TC-hsa-OCRL_0024	TransCirc v1.0	start_codon	1017	1019	.	.	.	.
+TC-hsa-OCRL_0024	TransCirc v1.0	CDS	1017	12	.	.	.	translation_cycles=2; length=1080
+TC-hsa-OCRL_0024	TransCirc v1.0	stop_codon	10	12	.	.	.	.

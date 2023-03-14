@@ -1,0 +1,1365 @@
+mmu_circRims1_001	riboCirc v1.0	start_codon	33	35	.	.	.	.
+mmu_circRims1_001	riboCirc v1.0	CDS	33	32	.	.	.	translation_cycles=3; length=1548
+mmu_circRims1_001	riboCirc v1.0	terminal_codon	30	32	.	.	.	.
+mmu_circRims1_001	riboCirc v1.0	start_codon	33	35	.	.	.	.
+mmu_circRims1_001	riboCirc v1.0	CDS	33	32	.	.	.	translation_cycles=3; length=1548
+mmu_circRims1_001	riboCirc v1.0	terminal_codon	30	32	.	.	.	.
+mmu_circPrim2_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circPrim2_001	riboCirc v1.0	CDS	40	39	.	.	.	translation_cycles=3; length=702
+mmu_circPrim2_001	riboCirc v1.0	terminal_codon	37	39	.	.	.	.
+mmu_circPrim2_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circPrim2_001	riboCirc v1.0	CDS	40	39	.	.	.	translation_cycles=3; length=702
+mmu_circPrim2_001	riboCirc v1.0	terminal_codon	37	39	.	.	.	.
+mmu_circUxs1_001	riboCirc v1.0	start_codon	24	26	.	.	.	.
+mmu_circUxs1_001	riboCirc v1.0	CDS	24	27	.	.	.	translation_cycles=1; length=186
+mmu_circUxs1_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circNdufs1_001	riboCirc v1.0	start_codon	27	29	.	.	.	.
+mmu_circNdufs1_001	riboCirc v1.0	CDS	27	117	.	.	.	translation_cycles=1; length=267
+mmu_circNdufs1_001	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+mmu_circNdufs1_001	riboCirc v1.0	start_codon	27	29	.	.	.	.
+mmu_circNdufs1_001	riboCirc v1.0	CDS	27	117	.	.	.	translation_cycles=1; length=267
+mmu_circNdufs1_001	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+mmu_circPid1_001	riboCirc v1.0	start_codon	13	15	.	.	.	.
+mmu_circPid1_001	riboCirc v1.0	CDS	13	12	.	.	.	translation_cycles=3; length=441
+mmu_circPid1_001	riboCirc v1.0	terminal_codon	10	12	.	.	.	.
+mmu_circPid1_001	riboCirc v1.0	start_codon	13	15	.	.	.	.
+mmu_circPid1_001	riboCirc v1.0	CDS	13	12	.	.	.	translation_cycles=3; length=441
+mmu_circPid1_001	riboCirc v1.0	terminal_codon	10	12	.	.	.	.
+mmu_circGigyf2_002	riboCirc v1.0	start_codon	101	103	.	.	.	.
+mmu_circGigyf2_002	riboCirc v1.0	CDS	101	74	.	.	.	translation_cycles=1; length=468
+mmu_circGigyf2_002	riboCirc v1.0	stop_codon	72	74	.	.	.	.
+mmu_circGigyf2_002	riboCirc v1.0	start_codon	101	103	.	.	.	.
+mmu_circGigyf2_002	riboCirc v1.0	CDS	101	74	.	.	.	translation_cycles=1; length=468
+mmu_circGigyf2_002	riboCirc v1.0	stop_codon	72	74	.	.	.	.
+mmu_circPtprc_002	riboCirc v1.0	start_codon	811	813	.	.	.	.
+mmu_circPtprc_002	riboCirc v1.0	CDS	811	39	.	.	.	translation_cycles=1; length=174
+mmu_circPtprc_002	riboCirc v1.0	stop_codon	37	39	.	.	.	.
+mmu_circPtprc_002	riboCirc v1.0	start_codon	44	46	.	.	.	.
+mmu_circPtprc_002	riboCirc v1.0	CDS	44	43	.	.	.	translation_cycles=3; length=2835
+mmu_circPtprc_002	riboCirc v1.0	terminal_codon	41	43	.	.	.	.
+mmu_circPtprc_002	riboCirc v1.0	start_codon	921	923	.	.	.	.
+mmu_circPtprc_002	riboCirc v1.0	CDS	921	104	.	.	.	translation_cycles=1; length=129
+mmu_circPtprc_002	riboCirc v1.0	stop_codon	102	104	.	.	.	.
+mmu_circDhx9_002	riboCirc v1.0	start_codon	23	25	.	.	.	.
+mmu_circDhx9_002	riboCirc v1.0	CDS	23	6	.	.	.	translation_cycles=1; length=258
+mmu_circDhx9_002	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circDhx9_002	riboCirc v1.0	start_codon	23	25	.	.	.	.
+mmu_circDhx9_002	riboCirc v1.0	CDS	23	6	.	.	.	translation_cycles=1; length=258
+mmu_circDhx9_002	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circDnm3_001	riboCirc v1.0	start_codon	96	98	.	.	.	.
+mmu_circDnm3_001	riboCirc v1.0	CDS	96	95	.	.	.	translation_cycles=3; length=1062
+mmu_circDnm3_001	riboCirc v1.0	terminal_codon	93	95	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	start_codon	352	354	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	CDS	352	17	.	.	.	translation_cycles=1; length=66
+mmu_circUck2_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	start_codon	374	376	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	CDS	374	17	.	.	.	translation_cycles=2; length=444
+mmu_circUck2_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	start_codon	352	354	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	CDS	352	17	.	.	.	translation_cycles=1; length=66
+mmu_circUck2_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	start_codon	374	376	.	.	.	.
+mmu_circUck2_001	riboCirc v1.0	CDS	374	17	.	.	.	translation_cycles=2; length=444
+mmu_circUck2_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	start_codon	511	513	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	CDS	511	27	.	.	.	translation_cycles=1; length=78
+mmu_circMrc1_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	start_codon	24	26	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	CDS	24	23	.	.	.	translation_cycles=3; length=1683
+mmu_circMrc1_001	riboCirc v1.0	terminal_codon	21	23	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	start_codon	511	513	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	CDS	511	27	.	.	.	translation_cycles=1; length=78
+mmu_circMrc1_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	start_codon	24	26	.	.	.	.
+mmu_circMrc1_001	riboCirc v1.0	CDS	24	23	.	.	.	translation_cycles=3; length=1683
+mmu_circMrc1_001	riboCirc v1.0	terminal_codon	21	23	.	.	.	.
+mmu_circTlk1_001	riboCirc v1.0	start_codon	6	8	.	.	.	.
+mmu_circTlk1_001	riboCirc v1.0	CDS	6	165	.	.	.	translation_cycles=1; length=351
+mmu_circTlk1_001	riboCirc v1.0	stop_codon	163	165	.	.	.	.
+mmu_circTlk1_001	riboCirc v1.0	start_codon	6	8	.	.	.	.
+mmu_circTlk1_001	riboCirc v1.0	CDS	6	165	.	.	.	translation_cycles=1; length=351
+mmu_circTlk1_001	riboCirc v1.0	stop_codon	163	165	.	.	.	.
+mmu_circPhf21a_001	riboCirc v1.0	start_codon	244	246	.	.	.	.
+mmu_circPhf21a_001	riboCirc v1.0	CDS	244	60	.	.	.	translation_cycles=1; length=213
+mmu_circPhf21a_001	riboCirc v1.0	stop_codon	58	60	.	.	.	.
+mmu_circPhf21a_001	riboCirc v1.0	start_codon	244	246	.	.	.	.
+mmu_circPhf21a_001	riboCirc v1.0	CDS	244	60	.	.	.	translation_cycles=1; length=213
+mmu_circPhf21a_001	riboCirc v1.0	stop_codon	58	60	.	.	.	.
+mmu_circTasp1_002	riboCirc v1.0	start_codon	69	71	.	.	.	.
+mmu_circTasp1_002	riboCirc v1.0	CDS	69	5	.	.	.	translation_cycles=1; length=408
+mmu_circTasp1_002	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circTasp1_002	riboCirc v1.0	start_codon	69	71	.	.	.	.
+mmu_circTasp1_002	riboCirc v1.0	CDS	69	5	.	.	.	translation_cycles=1; length=408
+mmu_circTasp1_002	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circTasp1_003	riboCirc v1.0	start_codon	402	404	.	.	.	.
+mmu_circTasp1_003	riboCirc v1.0	CDS	402	46	.	.	.	translation_cycles=1; length=141
+mmu_circTasp1_003	riboCirc v1.0	stop_codon	44	46	.	.	.	.
+mmu_circTasp1_003	riboCirc v1.0	start_codon	850	852	.	.	.	.
+mmu_circTasp1_003	riboCirc v1.0	CDS	850	849	.	.	.	translation_cycles=3; length=1488
+mmu_circTasp1_003	riboCirc v1.0	terminal_codon	847	849	.	.	.	.
+mmu_circTasp1_003	riboCirc v1.0	start_codon	69	71	.	.	.	.
+mmu_circTasp1_003	riboCirc v1.0	CDS	69	227	.	.	.	translation_cycles=0; length=159
+mmu_circTasp1_003	riboCirc v1.0	stop_codon	225	227	.	.	.	.
+mmu_circXrn2_001	riboCirc v1.0	start_codon	26	28	.	.	.	.
+mmu_circXrn2_001	riboCirc v1.0	CDS	26	18	.	.	.	translation_cycles=1; length=276
+mmu_circXrn2_001	riboCirc v1.0	stop_codon	16	18	.	.	.	.
+mmu_circXrn2_001	riboCirc v1.0	start_codon	26	28	.	.	.	.
+mmu_circXrn2_001	riboCirc v1.0	CDS	26	18	.	.	.	translation_cycles=1; length=276
+mmu_circXrn2_001	riboCirc v1.0	stop_codon	16	18	.	.	.	.
+mmu_circRprd1b_001	riboCirc v1.0	start_codon	234	236	.	.	.	.
+mmu_circRprd1b_001	riboCirc v1.0	CDS	234	36	.	.	.	translation_cycles=1; length=480
+mmu_circRprd1b_001	riboCirc v1.0	stop_codon	34	36	.	.	.	.
+mmu_circRprd1b_001	riboCirc v1.0	start_codon	234	236	.	.	.	.
+mmu_circRprd1b_001	riboCirc v1.0	CDS	234	36	.	.	.	translation_cycles=1; length=480
+mmu_circRprd1b_001	riboCirc v1.0	stop_codon	34	36	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	start_codon	868	870	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	CDS	868	114	.	.	.	translation_cycles=1; length=120
+mmu_circNfatc2_001	riboCirc v1.0	stop_codon	112	114	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	start_codon	21	23	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	CDS	21	20	.	.	.	translation_cycles=3; length=2619
+mmu_circNfatc2_001	riboCirc v1.0	terminal_codon	18	20	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	start_codon	868	870	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	CDS	868	114	.	.	.	translation_cycles=1; length=120
+mmu_circNfatc2_001	riboCirc v1.0	stop_codon	112	114	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	start_codon	21	23	.	.	.	.
+mmu_circNfatc2_001	riboCirc v1.0	CDS	21	20	.	.	.	translation_cycles=3; length=2619
+mmu_circNfatc2_001	riboCirc v1.0	terminal_codon	18	20	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	start_codon	14	16	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	CDS	14	339	.	.	.	translation_cycles=1; length=1014
+mmu_circNfatc2_002	riboCirc v1.0	stop_codon	337	339	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	start_codon	579	581	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	CDS	579	339	.	.	.	translation_cycles=2; length=1137
+mmu_circNfatc2_002	riboCirc v1.0	stop_codon	337	339	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	start_codon	14	16	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	CDS	14	339	.	.	.	translation_cycles=1; length=1014
+mmu_circNfatc2_002	riboCirc v1.0	stop_codon	337	339	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	start_codon	579	581	.	.	.	.
+mmu_circNfatc2_002	riboCirc v1.0	CDS	579	339	.	.	.	translation_cycles=2; length=1137
+mmu_circNfatc2_002	riboCirc v1.0	stop_codon	337	339	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	start_codon	1099	1101	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	CDS	1099	19	.	.	.	translation_cycles=1; length=129
+mmu_circNfatc2_003	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	start_codon	234	236	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	CDS	234	147	.	.	.	translation_cycles=1; length=1122
+mmu_circNfatc2_003	riboCirc v1.0	stop_codon	145	147	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	start_codon	1099	1101	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	CDS	1099	19	.	.	.	translation_cycles=1; length=129
+mmu_circNfatc2_003	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	start_codon	234	236	.	.	.	.
+mmu_circNfatc2_003	riboCirc v1.0	CDS	234	147	.	.	.	translation_cycles=1; length=1122
+mmu_circNfatc2_003	riboCirc v1.0	stop_codon	145	147	.	.	.	.
+mmu_circHltf_001	riboCirc v1.0	start_codon	74	76	.	.	.	.
+mmu_circHltf_001	riboCirc v1.0	CDS	74	73	.	.	.	translation_cycles=3; length=2709
+mmu_circHltf_001	riboCirc v1.0	terminal_codon	71	73	.	.	.	.
+mmu_circHltf_001	riboCirc v1.0	start_codon	879	881	.	.	.	.
+mmu_circHltf_001	riboCirc v1.0	CDS	879	77	.	.	.	translation_cycles=1; length=102
+mmu_circHltf_001	riboCirc v1.0	stop_codon	75	77	.	.	.	.
+mmu_circElf2_001	riboCirc v1.0	start_codon	247	249	.	.	.	.
+mmu_circElf2_001	riboCirc v1.0	CDS	247	26	.	.	.	translation_cycles=1; length=264
+mmu_circElf2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circElf2_001	riboCirc v1.0	start_codon	247	249	.	.	.	.
+mmu_circElf2_001	riboCirc v1.0	CDS	247	26	.	.	.	translation_cycles=1; length=264
+mmu_circElf2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circNbea_002	riboCirc v1.0	start_codon	140	142	.	.	.	.
+mmu_circNbea_002	riboCirc v1.0	CDS	140	139	.	.	.	translation_cycles=3; length=1593
+mmu_circNbea_002	riboCirc v1.0	terminal_codon	137	139	.	.	.	.
+mmu_circNbea_003	riboCirc v1.0	start_codon	28	30	.	.	.	.
+mmu_circNbea_003	riboCirc v1.0	CDS	28	27	.	.	.	translation_cycles=3; length=2835
+mmu_circNbea_003	riboCirc v1.0	terminal_codon	25	27	.	.	.	.
+mmu_circNbea_003	riboCirc v1.0	start_codon	28	30	.	.	.	.
+mmu_circNbea_003	riboCirc v1.0	CDS	28	27	.	.	.	translation_cycles=3; length=2835
+mmu_circNbea_003	riboCirc v1.0	terminal_codon	25	27	.	.	.	.
+mmu_circRunx1t1_001	riboCirc v1.0	start_codon	24	26	.	.	.	.
+mmu_circRunx1t1_001	riboCirc v1.0	CDS	24	61	.	.	.	translation_cycles=1; length=690
+mmu_circRunx1t1_001	riboCirc v1.0	stop_codon	59	61	.	.	.	.
+mmu_circRunx1t1_001	riboCirc v1.0	start_codon	24	26	.	.	.	.
+mmu_circRunx1t1_001	riboCirc v1.0	CDS	24	61	.	.	.	translation_cycles=1; length=690
+mmu_circRunx1t1_001	riboCirc v1.0	stop_codon	59	61	.	.	.	.
+mmu_circEpha7_002	riboCirc v1.0	start_codon	333	335	.	.	.	.
+mmu_circEpha7_002	riboCirc v1.0	CDS	333	332	.	.	.	translation_cycles=3; length=1476
+mmu_circEpha7_002	riboCirc v1.0	terminal_codon	330	332	.	.	.	.
+mmu_circEpha7_002	riboCirc v1.0	start_codon	333	335	.	.	.	.
+mmu_circEpha7_002	riboCirc v1.0	CDS	333	332	.	.	.	translation_cycles=3; length=1476
+mmu_circEpha7_002	riboCirc v1.0	terminal_codon	330	332	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	start_codon	148	150	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	CDS	148	4	.	.	.	translation_cycles=1; length=105
+mmu_circDnaic1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	start_codon	242	244	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	CDS	242	12	.	.	.	translation_cycles=2; length=267
+mmu_circDnaic1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	start_codon	9	11	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	CDS	9	12	.	.	.	translation_cycles=1; length=252
+mmu_circDnaic1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	start_codon	148	150	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	CDS	148	4	.	.	.	translation_cycles=1; length=105
+mmu_circDnaic1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	start_codon	242	244	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	CDS	242	12	.	.	.	translation_cycles=2; length=267
+mmu_circDnaic1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	start_codon	9	11	.	.	.	.
+mmu_circDnaic1_001	riboCirc v1.0	CDS	9	12	.	.	.	translation_cycles=1; length=252
+mmu_circDnaic1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circAbca1_001	riboCirc v1.0	start_codon	115	117	.	.	.	.
+mmu_circAbca1_001	riboCirc v1.0	CDS	115	92	.	.	.	translation_cycles=1; length=333
+mmu_circAbca1_001	riboCirc v1.0	stop_codon	90	92	.	.	.	.
+mmu_circAbca1_001	riboCirc v1.0	start_codon	115	117	.	.	.	.
+mmu_circAbca1_001	riboCirc v1.0	CDS	115	92	.	.	.	translation_cycles=1; length=333
+mmu_circAbca1_001	riboCirc v1.0	stop_codon	90	92	.	.	.	.
+mmu_circSlc44a1_001	riboCirc v1.0	start_codon	88	90	.	.	.	.
+mmu_circSlc44a1_001	riboCirc v1.0	CDS	88	115	.	.	.	translation_cycles=1; length=261
+mmu_circSlc44a1_001	riboCirc v1.0	stop_codon	113	115	.	.	.	.
+mmu_circSlc44a1_001	riboCirc v1.0	start_codon	158	160	.	.	.	.
+mmu_circSlc44a1_001	riboCirc v1.0	CDS	158	38	.	.	.	translation_cycles=1; length=114
+mmu_circSlc44a1_001	riboCirc v1.0	stop_codon	36	38	.	.	.	.
+mmu_circSlc44a1_001	riboCirc v1.0	start_codon	54	56	.	.	.	.
+mmu_circSlc44a1_001	riboCirc v1.0	CDS	54	115	.	.	.	translation_cycles=2; length=528
+mmu_circSlc44a1_001	riboCirc v1.0	stop_codon	113	115	.	.	.	.
+mmu_circPtbp3_001	riboCirc v1.0	start_codon	52	54	.	.	.	.
+mmu_circPtbp3_001	riboCirc v1.0	CDS	52	51	.	.	.	translation_cycles=3; length=1197
+mmu_circPtbp3_001	riboCirc v1.0	terminal_codon	49	51	.	.	.	.
+mmu_circPtbp3_001	riboCirc v1.0	start_codon	52	54	.	.	.	.
+mmu_circPtbp3_001	riboCirc v1.0	CDS	52	51	.	.	.	translation_cycles=3; length=1197
+mmu_circPtbp3_001	riboCirc v1.0	terminal_codon	49	51	.	.	.	.
+mmu_circTle1_002	riboCirc v1.0	start_codon	112	114	.	.	.	.
+mmu_circTle1_002	riboCirc v1.0	CDS	112	111	.	.	.	translation_cycles=3; length=414
+mmu_circTle1_002	riboCirc v1.0	terminal_codon	109	111	.	.	.	.
+mmu_circTle1_002	riboCirc v1.0	start_codon	112	114	.	.	.	.
+mmu_circTle1_002	riboCirc v1.0	CDS	112	111	.	.	.	translation_cycles=3; length=414
+mmu_circTle1_002	riboCirc v1.0	terminal_codon	109	111	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	start_codon	4	6	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	CDS	4	3	.	.	.	translation_cycles=3; length=1116
+mmu_circPtprd_001	riboCirc v1.0	terminal_codon	1	3	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	start_codon	368	370	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	CDS	368	88	.	.	.	translation_cycles=1; length=93
+mmu_circPtprd_001	riboCirc v1.0	stop_codon	86	88	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	start_codon	4	6	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	CDS	4	3	.	.	.	translation_cycles=3; length=1116
+mmu_circPtprd_001	riboCirc v1.0	terminal_codon	1	3	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	start_codon	368	370	.	.	.	.
+mmu_circPtprd_001	riboCirc v1.0	CDS	368	88	.	.	.	translation_cycles=1; length=93
+mmu_circPtprd_001	riboCirc v1.0	stop_codon	86	88	.	.	.	.
+mmu_circPtprd_002	riboCirc v1.0	start_codon	51	53	.	.	.	.
+mmu_circPtprd_002	riboCirc v1.0	CDS	51	50	.	.	.	translation_cycles=3; length=3393
+mmu_circPtprd_002	riboCirc v1.0	terminal_codon	48	50	.	.	.	.
+mmu_circPtprd_002	riboCirc v1.0	start_codon	51	53	.	.	.	.
+mmu_circPtprd_002	riboCirc v1.0	CDS	51	50	.	.	.	translation_cycles=3; length=3393
+mmu_circPtprd_002	riboCirc v1.0	terminal_codon	48	50	.	.	.	.
+mmu_circZdhhc21_001	riboCirc v1.0	start_codon	191	193	.	.	.	.
+mmu_circZdhhc21_001	riboCirc v1.0	CDS	191	24	.	.	.	translation_cycles=1; length=528
+mmu_circZdhhc21_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+mmu_circZdhhc21_001	riboCirc v1.0	start_codon	191	193	.	.	.	.
+mmu_circZdhhc21_001	riboCirc v1.0	CDS	191	24	.	.	.	translation_cycles=1; length=528
+mmu_circZdhhc21_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	CDS	37	112	.	.	.	translation_cycles=1; length=2046
+mmu_circBnc2_001	riboCirc v1.0	stop_codon	110	112	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	start_codon	1937	1939	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	CDS	1937	191	.	.	.	translation_cycles=1; length=225
+mmu_circBnc2_001	riboCirc v1.0	stop_codon	189	191	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	CDS	37	112	.	.	.	translation_cycles=1; length=2046
+mmu_circBnc2_001	riboCirc v1.0	stop_codon	110	112	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	start_codon	1937	1939	.	.	.	.
+mmu_circBnc2_001	riboCirc v1.0	CDS	1937	191	.	.	.	translation_cycles=1; length=225
+mmu_circBnc2_001	riboCirc v1.0	stop_codon	189	191	.	.	.	.
+mmu_circTut4_001	riboCirc v1.0	start_codon	92	94	.	.	.	.
+mmu_circTut4_001	riboCirc v1.0	CDS	92	18	.	.	.	translation_cycles=1; length=960
+mmu_circTut4_001	riboCirc v1.0	stop_codon	16	18	.	.	.	.
+mmu_circEri3_001	riboCirc v1.0	start_codon	43	45	.	.	.	.
+mmu_circEri3_001	riboCirc v1.0	CDS	43	25	.	.	.	translation_cycles=1; length=252
+mmu_circEri3_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circEri3_001	riboCirc v1.0	start_codon	43	45	.	.	.	.
+mmu_circEri3_001	riboCirc v1.0	CDS	43	25	.	.	.	translation_cycles=1; length=252
+mmu_circEri3_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circEri3_002	riboCirc v1.0	start_codon	43	45	.	.	.	.
+mmu_circEri3_002	riboCirc v1.0	CDS	43	42	.	.	.	translation_cycles=3; length=1026
+mmu_circEri3_002	riboCirc v1.0	terminal_codon	40	42	.	.	.	.
+mmu_circMacf1_001	riboCirc v1.0	start_codon	57	59	.	.	.	.
+mmu_circMacf1_001	riboCirc v1.0	CDS	57	57	.	.	.	translation_cycles=1; length=324
+mmu_circMacf1_001	riboCirc v1.0	stop_codon	55	57	.	.	.	.
+mmu_circRbbp4_001	riboCirc v1.0	start_codon	133	135	.	.	.	.
+mmu_circRbbp4_001	riboCirc v1.0	CDS	133	42	.	.	.	translation_cycles=1; length=195
+mmu_circRbbp4_001	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+mmu_circRbbp4_001	riboCirc v1.0	start_codon	87	89	.	.	.	.
+mmu_circRbbp4_001	riboCirc v1.0	CDS	87	209	.	.	.	translation_cycles=0; length=123
+mmu_circRbbp4_001	riboCirc v1.0	stop_codon	207	209	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	start_codon	400	402	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	CDS	400	103	.	.	.	translation_cycles=1; length=147
+mmu_circPum1_001	riboCirc v1.0	stop_codon	101	103	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	CDS	12	15	.	.	.	translation_cycles=1; length=447
+mmu_circPum1_001	riboCirc v1.0	stop_codon	13	15	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	start_codon	400	402	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	CDS	400	103	.	.	.	translation_cycles=1; length=147
+mmu_circPum1_001	riboCirc v1.0	stop_codon	101	103	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circPum1_001	riboCirc v1.0	CDS	12	15	.	.	.	translation_cycles=1; length=447
+mmu_circPum1_001	riboCirc v1.0	stop_codon	13	15	.	.	.	.
+mmu_circPum1_002	riboCirc v1.0	start_codon	133	135	.	.	.	.
+mmu_circPum1_002	riboCirc v1.0	CDS	133	132	.	.	.	translation_cycles=3; length=864
+mmu_circPum1_002	riboCirc v1.0	terminal_codon	130	132	.	.	.	.
+mmu_circPum1_002	riboCirc v1.0	start_codon	133	135	.	.	.	.
+mmu_circPum1_002	riboCirc v1.0	CDS	133	132	.	.	.	translation_cycles=3; length=864
+mmu_circPum1_002	riboCirc v1.0	terminal_codon	130	132	.	.	.	.
+mmu_circEpb41_001	riboCirc v1.0	start_codon	8	10	.	.	.	.
+mmu_circEpb41_001	riboCirc v1.0	CDS	8	11	.	.	.	translation_cycles=1; length=1650
+mmu_circEpb41_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	start_codon	20	22	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	CDS	20	29	.	.	.	translation_cycles=1; length=765
+mmu_circH6pd_001	riboCirc v1.0	stop_codon	27	29	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	start_codon	747	749	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	CDS	747	126	.	.	.	translation_cycles=1; length=135
+mmu_circH6pd_001	riboCirc v1.0	stop_codon	124	126	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	start_codon	20	22	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	CDS	20	29	.	.	.	translation_cycles=1; length=765
+mmu_circH6pd_001	riboCirc v1.0	stop_codon	27	29	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	start_codon	747	749	.	.	.	.
+mmu_circH6pd_001	riboCirc v1.0	CDS	747	126	.	.	.	translation_cycles=1; length=135
+mmu_circH6pd_001	riboCirc v1.0	stop_codon	124	126	.	.	.	.
+mmu_circRere_001	riboCirc v1.0	start_codon	145	147	.	.	.	.
+mmu_circRere_001	riboCirc v1.0	CDS	145	56	.	.	.	translation_cycles=1; length=381
+mmu_circRere_001	riboCirc v1.0	stop_codon	54	56	.	.	.	.
+mmu_circRere_001	riboCirc v1.0	start_codon	145	147	.	.	.	.
+mmu_circRere_001	riboCirc v1.0	CDS	145	56	.	.	.	translation_cycles=1; length=381
+mmu_circRere_001	riboCirc v1.0	stop_codon	54	56	.	.	.	.
+mmu_circRere_003	riboCirc v1.0	start_codon	22	24	.	.	.	.
+mmu_circRere_003	riboCirc v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=1746
+mmu_circRere_003	riboCirc v1.0	terminal_codon	19	21	.	.	.	.
+mmu_circRere_003	riboCirc v1.0	start_codon	22	24	.	.	.	.
+mmu_circRere_003	riboCirc v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=1746
+mmu_circRere_003	riboCirc v1.0	terminal_codon	19	21	.	.	.	.
+mmu_circCamta1_001	riboCirc v1.0	start_codon	327	329	.	.	.	.
+mmu_circCamta1_001	riboCirc v1.0	CDS	327	67	.	.	.	translation_cycles=1; length=72
+mmu_circCamta1_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+mmu_circCamta1_001	riboCirc v1.0	start_codon	327	329	.	.	.	.
+mmu_circCamta1_001	riboCirc v1.0	CDS	327	67	.	.	.	translation_cycles=1; length=72
+mmu_circCamta1_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+mmu_circGnb1_001	riboCirc v1.0	start_codon	265	267	.	.	.	.
+mmu_circGnb1_001	riboCirc v1.0	CDS	265	80	.	.	.	translation_cycles=1; length=108
+mmu_circGnb1_001	riboCirc v1.0	stop_codon	78	80	.	.	.	.
+mmu_circGnb1_001	riboCirc v1.0	start_codon	90	92	.	.	.	.
+mmu_circGnb1_001	riboCirc v1.0	CDS	90	4	.	.	.	translation_cycles=1; length=207
+mmu_circGnb1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	start_codon	343	345	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	CDS	343	156	.	.	.	translation_cycles=1; length=159
+mmu_circDnajb6_001	riboCirc v1.0	stop_codon	154	156	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	start_codon	207	209	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	CDS	207	206	.	.	.	translation_cycles=3; length=1035
+mmu_circDnajb6_001	riboCirc v1.0	terminal_codon	204	206	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	start_codon	343	345	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	CDS	343	156	.	.	.	translation_cycles=1; length=159
+mmu_circDnajb6_001	riboCirc v1.0	stop_codon	154	156	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	start_codon	207	209	.	.	.	.
+mmu_circDnajb6_001	riboCirc v1.0	CDS	207	206	.	.	.	translation_cycles=3; length=1035
+mmu_circDnajb6_001	riboCirc v1.0	terminal_codon	204	206	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	start_codon	232	234	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	CDS	232	106	.	.	.	translation_cycles=1; length=120
+mmu_circHadhb_001	riboCirc v1.0	stop_codon	104	106	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	start_codon	42	44	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	CDS	42	30	.	.	.	translation_cycles=1; length=234
+mmu_circHadhb_001	riboCirc v1.0	stop_codon	28	30	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	start_codon	232	234	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	CDS	232	106	.	.	.	translation_cycles=1; length=120
+mmu_circHadhb_001	riboCirc v1.0	stop_codon	104	106	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	start_codon	42	44	.	.	.	.
+mmu_circHadhb_001	riboCirc v1.0	CDS	42	30	.	.	.	translation_cycles=1; length=234
+mmu_circHadhb_001	riboCirc v1.0	stop_codon	28	30	.	.	.	.
+mmu_circUvssa_001	riboCirc v1.0	start_codon	451	453	.	.	.	.
+mmu_circUvssa_001	riboCirc v1.0	CDS	451	27	.	.	.	translation_cycles=1; length=129
+mmu_circUvssa_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circUvssa_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+mmu_circUvssa_001	riboCirc v1.0	CDS	3	2	.	.	.	translation_cycles=3; length=1656
+mmu_circUvssa_001	riboCirc v1.0	terminal_codon	552	2	.	.	.	.
+mmu_circUbe2k_001	riboCirc v1.0	start_codon	247	249	.	.	.	.
+mmu_circUbe2k_001	riboCirc v1.0	CDS	247	246	.	.	.	translation_cycles=3; length=1395
+mmu_circUbe2k_001	riboCirc v1.0	terminal_codon	244	246	.	.	.	.
+mmu_circUbe2k_001	riboCirc v1.0	start_codon	247	249	.	.	.	.
+mmu_circUbe2k_001	riboCirc v1.0	CDS	247	246	.	.	.	translation_cycles=3; length=1395
+mmu_circUbe2k_001	riboCirc v1.0	terminal_codon	244	246	.	.	.	.
+mmu_circG3bp2_001	riboCirc v1.0	start_codon	25	27	.	.	.	.
+mmu_circG3bp2_001	riboCirc v1.0	CDS	25	7	.	.	.	translation_cycles=1; length=552
+mmu_circG3bp2_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	start_codon	889	891	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	CDS	889	5	.	.	.	translation_cycles=2; length=1041
+mmu_circZfp644_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	start_codon	32	34	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	CDS	32	5	.	.	.	translation_cycles=1; length=936
+mmu_circZfp644_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	start_codon	889	891	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	CDS	889	5	.	.	.	translation_cycles=2; length=1041
+mmu_circZfp644_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	start_codon	32	34	.	.	.	.
+mmu_circZfp644_001	riboCirc v1.0	CDS	32	5	.	.	.	translation_cycles=1; length=936
+mmu_circZfp644_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	start_codon	1267	1269	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	CDS	1267	88	.	.	.	translation_cycles=1; length=192
+mmu_circEp400_003	riboCirc v1.0	stop_codon	86	88	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	start_codon	36	38	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	CDS	36	33	.	.	.	translation_cycles=1; length=1368
+mmu_circEp400_003	riboCirc v1.0	stop_codon	31	33	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	start_codon	1267	1269	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	CDS	1267	88	.	.	.	translation_cycles=1; length=192
+mmu_circEp400_003	riboCirc v1.0	stop_codon	86	88	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	start_codon	36	38	.	.	.	.
+mmu_circEp400_003	riboCirc v1.0	CDS	36	33	.	.	.	translation_cycles=1; length=1368
+mmu_circEp400_003	riboCirc v1.0	stop_codon	31	33	.	.	.	.
+mmu_circMed13l_001	riboCirc v1.0	start_codon	227	229	.	.	.	.
+mmu_circMed13l_001	riboCirc v1.0	CDS	227	5	.	.	.	translation_cycles=2; length=255
+mmu_circMed13l_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circMed13l_001	riboCirc v1.0	start_codon	227	229	.	.	.	.
+mmu_circMed13l_001	riboCirc v1.0	CDS	227	5	.	.	.	translation_cycles=2; length=255
+mmu_circMed13l_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circAtxn2_001	riboCirc v1.0	start_codon	71	73	.	.	.	.
+mmu_circAtxn2_001	riboCirc v1.0	CDS	71	68	.	.	.	translation_cycles=1; length=318
+mmu_circAtxn2_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circAtxn2_001	riboCirc v1.0	start_codon	71	73	.	.	.	.
+mmu_circAtxn2_001	riboCirc v1.0	CDS	71	68	.	.	.	translation_cycles=1; length=318
+mmu_circAtxn2_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circEif2b1_001	riboCirc v1.0	start_codon	263	265	.	.	.	.
+mmu_circEif2b1_001	riboCirc v1.0	CDS	263	21	.	.	.	translation_cycles=1; length=114
+mmu_circEif2b1_001	riboCirc v1.0	stop_codon	19	21	.	.	.	.
+mmu_circEif2b1_001	riboCirc v1.0	start_codon	263	265	.	.	.	.
+mmu_circEif2b1_001	riboCirc v1.0	CDS	263	21	.	.	.	translation_cycles=1; length=114
+mmu_circEif2b1_001	riboCirc v1.0	stop_codon	19	21	.	.	.	.
+mmu_circMlxipl_001	riboCirc v1.0	start_codon	132	134	.	.	.	.
+mmu_circMlxipl_001	riboCirc v1.0	CDS	132	131	.	.	.	translation_cycles=3; length=1503
+mmu_circMlxipl_001	riboCirc v1.0	terminal_codon	129	131	.	.	.	.
+mmu_circMlxipl_001	riboCirc v1.0	start_codon	132	134	.	.	.	.
+mmu_circMlxipl_001	riboCirc v1.0	CDS	132	131	.	.	.	translation_cycles=3; length=1503
+mmu_circMlxipl_001	riboCirc v1.0	terminal_codon	129	131	.	.	.	.
+mmu_circIqce_002	riboCirc v1.0	start_codon	112	114	.	.	.	.
+mmu_circIqce_002	riboCirc v1.0	CDS	112	111	.	.	.	translation_cycles=3; length=738
+mmu_circIqce_002	riboCirc v1.0	terminal_codon	109	111	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	start_codon	670	672	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	CDS	670	45	.	.	.	translation_cycles=1; length=93
+mmu_circGlcci1_001	riboCirc v1.0	stop_codon	43	45	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	start_codon	132	134	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	CDS	132	131	.	.	.	translation_cycles=3; length=2151
+mmu_circGlcci1_001	riboCirc v1.0	terminal_codon	129	131	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	start_codon	670	672	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	CDS	670	45	.	.	.	translation_cycles=1; length=93
+mmu_circGlcci1_001	riboCirc v1.0	stop_codon	43	45	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	start_codon	132	134	.	.	.	.
+mmu_circGlcci1_001	riboCirc v1.0	CDS	132	131	.	.	.	translation_cycles=3; length=2151
+mmu_circGlcci1_001	riboCirc v1.0	terminal_codon	129	131	.	.	.	.
+mmu_circAass_001	riboCirc v1.0	start_codon	455	457	.	.	.	.
+mmu_circAass_001	riboCirc v1.0	CDS	455	420	.	.	.	translation_cycles=1; length=603
+mmu_circAass_001	riboCirc v1.0	stop_codon	418	420	.	.	.	.
+mmu_circAass_001	riboCirc v1.0	start_codon	16	18	.	.	.	.
+mmu_circAass_001	riboCirc v1.0	CDS	16	420	.	.	.	translation_cycles=0; length=405
+mmu_circAass_001	riboCirc v1.0	stop_codon	418	420	.	.	.	.
+mmu_circDgki_001	riboCirc v1.0	start_codon	158	160	.	.	.	.
+mmu_circDgki_001	riboCirc v1.0	CDS	158	26	.	.	.	translation_cycles=1; length=477
+mmu_circDgki_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circDgki_001	riboCirc v1.0	start_codon	606	608	.	.	.	.
+mmu_circDgki_001	riboCirc v1.0	CDS	606	63	.	.	.	translation_cycles=1; length=66
+mmu_circDgki_001	riboCirc v1.0	stop_codon	61	63	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	start_codon	193	195	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	CDS	193	192	.	.	.	translation_cycles=3; length=8046
+mmu_circMgam_003	riboCirc v1.0	terminal_codon	190	192	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	start_codon	2663	2665	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	CDS	2663	46	.	.	.	translation_cycles=1; length=66
+mmu_circMgam_003	riboCirc v1.0	stop_codon	44	46	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	start_codon	193	195	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	CDS	193	192	.	.	.	translation_cycles=3; length=8046
+mmu_circMgam_003	riboCirc v1.0	terminal_codon	190	192	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	start_codon	2663	2665	.	.	.	.
+mmu_circMgam_003	riboCirc v1.0	CDS	2663	46	.	.	.	translation_cycles=1; length=66
+mmu_circMgam_003	riboCirc v1.0	stop_codon	44	46	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	CDS	37	26	.	.	.	translation_cycles=1; length=252
+mmu_circEzh2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	start_codon	260	262	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	CDS	260	26	.	.	.	translation_cycles=2; length=291
+mmu_circEzh2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	CDS	37	26	.	.	.	translation_cycles=1; length=252
+mmu_circEzh2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	start_codon	260	262	.	.	.	.
+mmu_circEzh2_001	riboCirc v1.0	CDS	260	26	.	.	.	translation_cycles=2; length=291
+mmu_circEzh2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circEzh2_002	riboCirc v1.0	start_codon	541	543	.	.	.	.
+mmu_circEzh2_002	riboCirc v1.0	CDS	541	33	.	.	.	translation_cycles=1; length=159
+mmu_circEzh2_002	riboCirc v1.0	stop_codon	31	33	.	.	.	.
+mmu_circEzh2_002	riboCirc v1.0	start_codon	8	10	.	.	.	.
+mmu_circEzh2_002	riboCirc v1.0	CDS	8	136	.	.	.	translation_cycles=0; length=129
+mmu_circEzh2_002	riboCirc v1.0	stop_codon	134	136	.	.	.	.
+mmu_circHibadh_001	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circHibadh_001	riboCirc v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=1179
+mmu_circHibadh_001	riboCirc v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circHibadh_001	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circHibadh_001	riboCirc v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=1179
+mmu_circHibadh_001	riboCirc v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circSnca_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circSnca_001	riboCirc v1.0	CDS	40	39	.	.	.	translation_cycles=3; length=252
+mmu_circSnca_001	riboCirc v1.0	terminal_codon	37	39	.	.	.	.
+mmu_circSnca_001	riboCirc v1.0	start_codon	68	70	.	.	.	.
+mmu_circSnca_001	riboCirc v1.0	CDS	68	67	.	.	.	translation_cycles=3; length=252
+mmu_circSnca_001	riboCirc v1.0	terminal_codon	65	67	.	.	.	.
+mmu_circEefsec_001	riboCirc v1.0	start_codon	152	154	.	.	.	.
+mmu_circEefsec_001	riboCirc v1.0	CDS	152	60	.	.	.	translation_cycles=1; length=171
+mmu_circEefsec_001	riboCirc v1.0	stop_codon	58	60	.	.	.	.
+mmu_circEefsec_001	riboCirc v1.0	start_codon	152	154	.	.	.	.
+mmu_circEefsec_001	riboCirc v1.0	CDS	152	60	.	.	.	translation_cycles=1; length=171
+mmu_circEefsec_001	riboCirc v1.0	stop_codon	58	60	.	.	.	.
+mmu_circFrmd4b_001	riboCirc v1.0	start_codon	155	157	.	.	.	.
+mmu_circFrmd4b_001	riboCirc v1.0	CDS	155	6	.	.	.	translation_cycles=1; length=147
+mmu_circFrmd4b_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circRad52_001	riboCirc v1.0	start_codon	105	107	.	.	.	.
+mmu_circRad52_001	riboCirc v1.0	CDS	105	104	.	.	.	translation_cycles=3; length=909
+mmu_circRad52_001	riboCirc v1.0	terminal_codon	102	104	.	.	.	.
+mmu_circRad52_001	riboCirc v1.0	start_codon	105	107	.	.	.	.
+mmu_circRad52_001	riboCirc v1.0	CDS	105	104	.	.	.	translation_cycles=3; length=909
+mmu_circRad52_001	riboCirc v1.0	terminal_codon	102	104	.	.	.	.
+mmu_circCd4_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circCd4_001	riboCirc v1.0	CDS	40	62	.	.	.	translation_cycles=1; length=282
+mmu_circCd4_001	riboCirc v1.0	stop_codon	60	62	.	.	.	.
+mmu_circGrin2b_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circGrin2b_001	riboCirc v1.0	CDS	19	18	.	.	.	translation_cycles=3; length=1287
+mmu_circGrin2b_001	riboCirc v1.0	terminal_codon	16	18	.	.	.	.
+mmu_circGrin2b_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circGrin2b_001	riboCirc v1.0	CDS	19	18	.	.	.	translation_cycles=3; length=1287
+mmu_circGrin2b_001	riboCirc v1.0	terminal_codon	16	18	.	.	.	.
+mmu_circLrmp_001	riboCirc v1.0	start_codon	73	75	.	.	.	.
+mmu_circLrmp_001	riboCirc v1.0	CDS	73	72	.	.	.	translation_cycles=3; length=873
+mmu_circLrmp_001	riboCirc v1.0	terminal_codon	70	72	.	.	.	.
+mmu_circLrmp_001	riboCirc v1.0	start_codon	73	75	.	.	.	.
+mmu_circLrmp_001	riboCirc v1.0	CDS	73	72	.	.	.	translation_cycles=3; length=873
+mmu_circLrmp_001	riboCirc v1.0	terminal_codon	70	72	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	start_codon	253	255	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	CDS	253	82	.	.	.	translation_cycles=1; length=456
+mmu_circSipa1l3_001	riboCirc v1.0	stop_codon	80	82	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	start_codon	614	616	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	CDS	614	182	.	.	.	translation_cycles=1; length=195
+mmu_circSipa1l3_001	riboCirc v1.0	stop_codon	180	182	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	start_codon	253	255	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	CDS	253	82	.	.	.	translation_cycles=1; length=456
+mmu_circSipa1l3_001	riboCirc v1.0	stop_codon	80	82	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	start_codon	614	616	.	.	.	.
+mmu_circSipa1l3_001	riboCirc v1.0	CDS	614	182	.	.	.	translation_cycles=1; length=195
+mmu_circSipa1l3_001	riboCirc v1.0	stop_codon	180	182	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	start_codon	382	384	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	CDS	382	19	.	.	.	translation_cycles=2; length=642
+mmu_circAp2a1_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	start_codon	258	260	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	CDS	258	19	.	.	.	translation_cycles=1; length=264
+mmu_circAp2a1_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	start_codon	382	384	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	CDS	382	19	.	.	.	translation_cycles=2; length=642
+mmu_circAp2a1_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	start_codon	258	260	.	.	.	.
+mmu_circAp2a1_001	riboCirc v1.0	CDS	258	19	.	.	.	translation_cycles=1; length=264
+mmu_circAp2a1_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circLdha_001	riboCirc v1.0	start_codon	276	278	.	.	.	.
+mmu_circLdha_001	riboCirc v1.0	CDS	276	275	.	.	.	translation_cycles=3; length=1044
+mmu_circLdha_001	riboCirc v1.0	terminal_codon	273	275	.	.	.	.
+mmu_circLdha_001	riboCirc v1.0	start_codon	276	278	.	.	.	.
+mmu_circLdha_001	riboCirc v1.0	CDS	276	275	.	.	.	translation_cycles=3; length=1044
+mmu_circLdha_001	riboCirc v1.0	terminal_codon	273	275	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	start_codon	106	108	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	CDS	106	105	.	.	.	translation_cycles=3; length=864
+mmu_circPrmt3_001	riboCirc v1.0	terminal_codon	103	105	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	start_codon	266	268	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	CDS	266	139	.	.	.	translation_cycles=1; length=162
+mmu_circPrmt3_001	riboCirc v1.0	stop_codon	137	139	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	start_codon	106	108	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	CDS	106	105	.	.	.	translation_cycles=3; length=864
+mmu_circPrmt3_001	riboCirc v1.0	terminal_codon	103	105	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	start_codon	266	268	.	.	.	.
+mmu_circPrmt3_001	riboCirc v1.0	CDS	266	139	.	.	.	translation_cycles=1; length=162
+mmu_circPrmt3_001	riboCirc v1.0	stop_codon	137	139	.	.	.	.
+mmu_circHdgfl3_001	riboCirc v1.0	start_codon	231	233	.	.	.	.
+mmu_circHdgfl3_001	riboCirc v1.0	CDS	231	18	.	.	.	translation_cycles=2; length=672
+mmu_circHdgfl3_001	riboCirc v1.0	stop_codon	16	18	.	.	.	.
+mmu_circHdgfl3_002	riboCirc v1.0	start_codon	308	310	.	.	.	.
+mmu_circHdgfl3_002	riboCirc v1.0	CDS	308	28	.	.	.	translation_cycles=1; length=240
+mmu_circHdgfl3_002	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+mmu_circHdgfl3_002	riboCirc v1.0	start_codon	308	310	.	.	.	.
+mmu_circHdgfl3_002	riboCirc v1.0	CDS	308	28	.	.	.	translation_cycles=1; length=240
+mmu_circHdgfl3_002	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+mmu_circZfand6_001	riboCirc v1.0	start_codon	18	20	.	.	.	.
+mmu_circZfand6_001	riboCirc v1.0	CDS	18	17	.	.	.	translation_cycles=3; length=1143
+mmu_circZfand6_001	riboCirc v1.0	terminal_codon	15	17	.	.	.	.
+mmu_circZfand6_001	riboCirc v1.0	start_codon	18	20	.	.	.	.
+mmu_circZfand6_001	riboCirc v1.0	CDS	18	17	.	.	.	translation_cycles=3; length=1143
+mmu_circZfand6_001	riboCirc v1.0	terminal_codon	15	17	.	.	.	.
+mmu_circAcer3_001	riboCirc v1.0	start_codon	24	26	.	.	.	.
+mmu_circAcer3_001	riboCirc v1.0	CDS	24	16	.	.	.	translation_cycles=1; length=387
+mmu_circAcer3_001	riboCirc v1.0	stop_codon	14	16	.	.	.	.
+mmu_circAcer3_001	riboCirc v1.0	start_codon	24	26	.	.	.	.
+mmu_circAcer3_001	riboCirc v1.0	CDS	24	16	.	.	.	translation_cycles=1; length=387
+mmu_circAcer3_001	riboCirc v1.0	stop_codon	14	16	.	.	.	.
+mmu_circArntl_001	riboCirc v1.0	start_codon	8	10	.	.	.	.
+mmu_circArntl_001	riboCirc v1.0	CDS	8	44	.	.	.	translation_cycles=1; length=717
+mmu_circArntl_001	riboCirc v1.0	stop_codon	42	44	.	.	.	.
+mmu_circMettl9_001	riboCirc v1.0	start_codon	169	171	.	.	.	.
+mmu_circMettl9_001	riboCirc v1.0	CDS	169	68	.	.	.	translation_cycles=1; length=486
+mmu_circMettl9_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circMettl9_001	riboCirc v1.0	start_codon	169	171	.	.	.	.
+mmu_circMettl9_001	riboCirc v1.0	CDS	169	68	.	.	.	translation_cycles=1; length=486
+mmu_circMettl9_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	start_codon	430	432	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	CDS	430	33	.	.	.	translation_cycles=1; length=156
+mmu_circInsr_001	riboCirc v1.0	stop_codon	31	33	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	start_codon	443	445	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	CDS	443	46	.	.	.	translation_cycles=1; length=156
+mmu_circInsr_001	riboCirc v1.0	stop_codon	44	46	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	CDS	12	11	.	.	.	translation_cycles=3; length=1656
+mmu_circInsr_001	riboCirc v1.0	terminal_codon	9	11	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	start_codon	430	432	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	CDS	430	33	.	.	.	translation_cycles=1; length=156
+mmu_circInsr_001	riboCirc v1.0	stop_codon	31	33	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	start_codon	443	445	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	CDS	443	46	.	.	.	translation_cycles=1; length=156
+mmu_circInsr_001	riboCirc v1.0	stop_codon	44	46	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circInsr_001	riboCirc v1.0	CDS	12	11	.	.	.	translation_cycles=3; length=1656
+mmu_circInsr_001	riboCirc v1.0	terminal_codon	9	11	.	.	.	.
+mmu_circMcph1_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circMcph1_001	riboCirc v1.0	CDS	19	18	.	.	.	translation_cycles=3; length=837
+mmu_circMcph1_001	riboCirc v1.0	terminal_codon	16	18	.	.	.	.
+mmu_circMcph1_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circMcph1_001	riboCirc v1.0	CDS	19	18	.	.	.	translation_cycles=3; length=837
+mmu_circMcph1_001	riboCirc v1.0	terminal_codon	16	18	.	.	.	.
+mmu_circAnkrd37_001	riboCirc v1.0	start_codon	325	327	.	.	.	.
+mmu_circAnkrd37_001	riboCirc v1.0	CDS	325	43	.	.	.	translation_cycles=1; length=171
+mmu_circAnkrd37_001	riboCirc v1.0	stop_codon	41	43	.	.	.	.
+mmu_circKlhl2_001	riboCirc v1.0	start_codon	89	91	.	.	.	.
+mmu_circKlhl2_001	riboCirc v1.0	CDS	89	54	.	.	.	translation_cycles=1; length=321
+mmu_circKlhl2_001	riboCirc v1.0	stop_codon	52	54	.	.	.	.
+mmu_circKlhl2_001	riboCirc v1.0	start_codon	89	91	.	.	.	.
+mmu_circKlhl2_001	riboCirc v1.0	CDS	89	54	.	.	.	translation_cycles=1; length=321
+mmu_circKlhl2_001	riboCirc v1.0	stop_codon	52	54	.	.	.	.
+mmu_circEps15l1_001	riboCirc v1.0	start_codon	718	720	.	.	.	.
+mmu_circEps15l1_001	riboCirc v1.0	CDS	718	717	.	.	.	translation_cycles=3; length=2178
+mmu_circEps15l1_001	riboCirc v1.0	terminal_codon	715	717	.	.	.	.
+mmu_circArhgap10_002	riboCirc v1.0	start_codon	190	192	.	.	.	.
+mmu_circArhgap10_002	riboCirc v1.0	CDS	190	6	.	.	.	translation_cycles=1; length=309
+mmu_circArhgap10_002	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circArhgap10_002	riboCirc v1.0	start_codon	66	68	.	.	.	.
+mmu_circArhgap10_002	riboCirc v1.0	CDS	66	254	.	.	.	translation_cycles=0; length=189
+mmu_circArhgap10_002	riboCirc v1.0	stop_codon	252	254	.	.	.	.
+mmu_circArhgap10_003	riboCirc v1.0	start_codon	286	288	.	.	.	.
+mmu_circArhgap10_003	riboCirc v1.0	CDS	286	17	.	.	.	translation_cycles=1; length=252
+mmu_circArhgap10_003	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circArhgap10_004	riboCirc v1.0	start_codon	156	158	.	.	.	.
+mmu_circArhgap10_004	riboCirc v1.0	CDS	156	96	.	.	.	translation_cycles=1; length=99
+mmu_circArhgap10_004	riboCirc v1.0	stop_codon	94	96	.	.	.	.
+mmu_circArhgap10_004	riboCirc v1.0	start_codon	156	158	.	.	.	.
+mmu_circArhgap10_004	riboCirc v1.0	CDS	156	96	.	.	.	translation_cycles=1; length=99
+mmu_circArhgap10_004	riboCirc v1.0	stop_codon	94	96	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	start_codon	115	117	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	CDS	115	5	.	.	.	translation_cycles=1; length=423
+mmu_circNfix_002	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	start_codon	410	412	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	CDS	410	5	.	.	.	translation_cycles=2; length=660
+mmu_circNfix_002	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	start_codon	115	117	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	CDS	115	5	.	.	.	translation_cycles=1; length=423
+mmu_circNfix_002	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	start_codon	410	412	.	.	.	.
+mmu_circNfix_002	riboCirc v1.0	CDS	410	5	.	.	.	translation_cycles=2; length=660
+mmu_circNfix_002	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	start_codon	83	85	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	CDS	83	8	.	.	.	translation_cycles=1; length=264
+mmu_circFarsa_001	riboCirc v1.0	stop_codon	6	8	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	start_codon	276	278	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	CDS	276	57	.	.	.	translation_cycles=1; length=120
+mmu_circFarsa_001	riboCirc v1.0	stop_codon	55	57	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	start_codon	83	85	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	CDS	83	8	.	.	.	translation_cycles=1; length=264
+mmu_circFarsa_001	riboCirc v1.0	stop_codon	6	8	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	start_codon	276	278	.	.	.	.
+mmu_circFarsa_001	riboCirc v1.0	CDS	276	57	.	.	.	translation_cycles=1; length=120
+mmu_circFarsa_001	riboCirc v1.0	stop_codon	55	57	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	start_codon	79	81	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=4068
+mmu_circTrpc6_001	riboCirc v1.0	terminal_codon	76	78	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	start_codon	1286	1288	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	CDS	1286	88	.	.	.	translation_cycles=1; length=159
+mmu_circTrpc6_001	riboCirc v1.0	stop_codon	86	88	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	start_codon	79	81	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=4068
+mmu_circTrpc6_001	riboCirc v1.0	terminal_codon	76	78	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	start_codon	1286	1288	.	.	.	.
+mmu_circTrpc6_001	riboCirc v1.0	CDS	1286	88	.	.	.	translation_cycles=1; length=159
+mmu_circTrpc6_001	riboCirc v1.0	stop_codon	86	88	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	start_codon	277	279	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	CDS	277	4	.	.	.	translation_cycles=1; length=66
+mmu_circCarm1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	start_codon	264	266	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	CDS	264	153	.	.	.	translation_cycles=1; length=228
+mmu_circCarm1_001	riboCirc v1.0	stop_codon	151	153	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	start_codon	277	279	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	CDS	277	4	.	.	.	translation_cycles=1; length=66
+mmu_circCarm1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	start_codon	264	266	.	.	.	.
+mmu_circCarm1_001	riboCirc v1.0	CDS	264	153	.	.	.	translation_cycles=1; length=228
+mmu_circCarm1_001	riboCirc v1.0	stop_codon	151	153	.	.	.	.
+mmu_circEts1_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+mmu_circEts1_001	riboCirc v1.0	CDS	3	2	.	.	.	translation_cycles=3; length=1944
+mmu_circEts1_001	riboCirc v1.0	terminal_codon	648	2	.	.	.	.
+mmu_circEts1_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+mmu_circEts1_001	riboCirc v1.0	CDS	3	2	.	.	.	translation_cycles=3; length=1944
+mmu_circEts1_001	riboCirc v1.0	terminal_codon	648	2	.	.	.	.
+mmu_circKmt2a_001	riboCirc v1.0	start_codon	8	10	.	.	.	.
+mmu_circKmt2a_001	riboCirc v1.0	CDS	8	42	.	.	.	translation_cycles=1; length=336
+mmu_circKmt2a_001	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+mmu_circKmt2a_001	riboCirc v1.0	start_codon	288	290	.	.	.	.
+mmu_circKmt2a_001	riboCirc v1.0	CDS	288	42	.	.	.	translation_cycles=2; length=357
+mmu_circKmt2a_001	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+mmu_circAagab_001	riboCirc v1.0	start_codon	255	257	.	.	.	.
+mmu_circAagab_001	riboCirc v1.0	CDS	255	254	.	.	.	translation_cycles=3; length=1386
+mmu_circAagab_001	riboCirc v1.0	terminal_codon	252	254	.	.	.	.
+mmu_circAagab_001	riboCirc v1.0	start_codon	255	257	.	.	.	.
+mmu_circAagab_001	riboCirc v1.0	CDS	255	254	.	.	.	translation_cycles=3; length=1386
+mmu_circAagab_001	riboCirc v1.0	terminal_codon	252	254	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	start_codon	265	267	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	CDS	265	111	.	.	.	translation_cycles=1; length=192
+mmu_circSenp6_001	riboCirc v1.0	stop_codon	109	111	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	start_codon	215	217	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	CDS	215	10	.	.	.	translation_cycles=1; length=141
+mmu_circSenp6_001	riboCirc v1.0	stop_codon	8	10	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	start_codon	285	287	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	CDS	285	98	.	.	.	translation_cycles=1; length=159
+mmu_circSenp6_001	riboCirc v1.0	stop_codon	96	98	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	start_codon	285	287	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	CDS	285	98	.	.	.	translation_cycles=1; length=159
+mmu_circSenp6_001	riboCirc v1.0	stop_codon	96	98	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	start_codon	265	267	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	CDS	265	111	.	.	.	translation_cycles=1; length=192
+mmu_circSenp6_001	riboCirc v1.0	stop_codon	109	111	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	start_codon	215	217	.	.	.	.
+mmu_circSenp6_001	riboCirc v1.0	CDS	215	10	.	.	.	translation_cycles=1; length=141
+mmu_circSenp6_001	riboCirc v1.0	stop_codon	8	10	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	start_codon	215	217	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	CDS	215	98	.	.	.	translation_cycles=1; length=321
+mmu_circSenp6_002	riboCirc v1.0	stop_codon	96	98	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	start_codon	423	425	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	CDS	423	111	.	.	.	translation_cycles=1; length=126
+mmu_circSenp6_002	riboCirc v1.0	stop_codon	109	111	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	start_codon	423	425	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	CDS	423	111	.	.	.	translation_cycles=1; length=126
+mmu_circSenp6_002	riboCirc v1.0	stop_codon	109	111	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	start_codon	215	217	.	.	.	.
+mmu_circSenp6_002	riboCirc v1.0	CDS	215	98	.	.	.	translation_cycles=1; length=321
+mmu_circSenp6_002	riboCirc v1.0	stop_codon	96	98	.	.	.	.
+mmu_circMorf4l1_001	riboCirc v1.0	start_codon	292	294	.	.	.	.
+mmu_circMorf4l1_001	riboCirc v1.0	CDS	292	291	.	.	.	translation_cycles=3; length=1701
+mmu_circMorf4l1_001	riboCirc v1.0	terminal_codon	289	291	.	.	.	.
+mmu_circMorf4l1_001	riboCirc v1.0	start_codon	292	294	.	.	.	.
+mmu_circMorf4l1_001	riboCirc v1.0	CDS	292	291	.	.	.	translation_cycles=3; length=1701
+mmu_circMorf4l1_001	riboCirc v1.0	terminal_codon	289	291	.	.	.	.
+mmu_circStag1_001	riboCirc v1.0	start_codon	74	76	.	.	.	.
+mmu_circStag1_001	riboCirc v1.0	CDS	74	6	.	.	.	translation_cycles=1; length=138
+mmu_circStag1_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circStag1_001	riboCirc v1.0	start_codon	114	116	.	.	.	.
+mmu_circStag1_001	riboCirc v1.0	CDS	114	22	.	.	.	translation_cycles=1; length=114
+mmu_circStag1_001	riboCirc v1.0	stop_codon	20	22	.	.	.	.
+mmu_circReps1_001	riboCirc v1.0	start_codon	4	6	.	.	.	.
+mmu_circReps1_001	riboCirc v1.0	CDS	4	167	.	.	.	translation_cycles=1; length=1146
+mmu_circReps1_001	riboCirc v1.0	stop_codon	165	167	.	.	.	.
+mmu_circReps1_001	riboCirc v1.0	start_codon	4	6	.	.	.	.
+mmu_circReps1_001	riboCirc v1.0	CDS	4	167	.	.	.	translation_cycles=1; length=1146
+mmu_circReps1_001	riboCirc v1.0	stop_codon	165	167	.	.	.	.
+mmu_circSobp_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circSobp_001	riboCirc v1.0	CDS	19	26	.	.	.	translation_cycles=1; length=333
+mmu_circSobp_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circSobp_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circSobp_001	riboCirc v1.0	CDS	19	26	.	.	.	translation_cycles=1; length=333
+mmu_circSobp_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circSh3rf3_001	riboCirc v1.0	start_codon	142	144	.	.	.	.
+mmu_circSh3rf3_001	riboCirc v1.0	CDS	142	141	.	.	.	translation_cycles=3; length=1116
+mmu_circSh3rf3_001	riboCirc v1.0	terminal_codon	139	141	.	.	.	.
+mmu_circSh3rf3_001	riboCirc v1.0	start_codon	142	144	.	.	.	.
+mmu_circSh3rf3_001	riboCirc v1.0	CDS	142	141	.	.	.	translation_cycles=3; length=1116
+mmu_circSh3rf3_001	riboCirc v1.0	terminal_codon	139	141	.	.	.	.
+mmu_circMdm2_002	riboCirc v1.0	start_codon	88	90	.	.	.	.
+mmu_circMdm2_002	riboCirc v1.0	CDS	88	87	.	.	.	translation_cycles=3; length=504
+mmu_circMdm2_002	riboCirc v1.0	terminal_codon	85	87	.	.	.	.
+mmu_circTns3_001	riboCirc v1.0	start_codon	195	197	.	.	.	.
+mmu_circTns3_001	riboCirc v1.0	CDS	195	194	.	.	.	translation_cycles=3; length=1080
+mmu_circTns3_001	riboCirc v1.0	terminal_codon	192	194	.	.	.	.
+mmu_circTns3_001	riboCirc v1.0	start_codon	195	197	.	.	.	.
+mmu_circTns3_001	riboCirc v1.0	CDS	195	194	.	.	.	translation_cycles=3; length=1080
+mmu_circTns3_001	riboCirc v1.0	terminal_codon	192	194	.	.	.	.
+mmu_circTns3_002	riboCirc v1.0	start_codon	293	295	.	.	.	.
+mmu_circTns3_002	riboCirc v1.0	CDS	293	41	.	.	.	translation_cycles=2; length=351
+mmu_circTns3_002	riboCirc v1.0	stop_codon	39	41	.	.	.	.
+mmu_circTns3_002	riboCirc v1.0	start_codon	293	295	.	.	.	.
+mmu_circTns3_002	riboCirc v1.0	CDS	293	41	.	.	.	translation_cycles=2; length=351
+mmu_circTns3_002	riboCirc v1.0	stop_codon	39	41	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	CDS	19	9	.	.	.	translation_cycles=1; length=165
+mmu_circIkzf1_001	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=522
+mmu_circIkzf1_001	riboCirc v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	CDS	19	9	.	.	.	translation_cycles=1; length=165
+mmu_circIkzf1_001	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circIkzf1_001	riboCirc v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=522
+mmu_circIkzf1_001	riboCirc v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circIkzf1_002	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circIkzf1_002	riboCirc v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=1431
+mmu_circIkzf1_002	riboCirc v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circIkzf1_002	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circIkzf1_002	riboCirc v1.0	CDS	15	14	.	.	.	translation_cycles=3; length=1431
+mmu_circIkzf1_002	riboCirc v1.0	terminal_codon	12	14	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	start_codon	242	244	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	CDS	242	12	.	.	.	translation_cycles=1; length=357
+mmu_circSpecc1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	start_codon	582	584	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	CDS	582	12	.	.	.	translation_cycles=2; length=603
+mmu_circSpecc1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	start_codon	242	244	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	CDS	242	12	.	.	.	translation_cycles=1; length=357
+mmu_circSpecc1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	start_codon	582	584	.	.	.	.
+mmu_circSpecc1_001	riboCirc v1.0	CDS	582	12	.	.	.	translation_cycles=2; length=603
+mmu_circSpecc1_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circFxr2_001	riboCirc v1.0	start_codon	114	116	.	.	.	.
+mmu_circFxr2_001	riboCirc v1.0	CDS	114	113	.	.	.	translation_cycles=3; length=2475
+mmu_circFxr2_001	riboCirc v1.0	terminal_codon	111	113	.	.	.	.
+mmu_circFxr2_001	riboCirc v1.0	start_codon	114	116	.	.	.	.
+mmu_circFxr2_001	riboCirc v1.0	CDS	114	113	.	.	.	translation_cycles=3; length=2475
+mmu_circFxr2_001	riboCirc v1.0	terminal_codon	111	113	.	.	.	.
+mmu_circNpepps_001	riboCirc v1.0	start_codon	296	298	.	.	.	.
+mmu_circNpepps_001	riboCirc v1.0	CDS	296	240	.	.	.	translation_cycles=1; length=438
+mmu_circNpepps_001	riboCirc v1.0	stop_codon	238	240	.	.	.	.
+mmu_circNpepps_001	riboCirc v1.0	start_codon	296	298	.	.	.	.
+mmu_circNpepps_001	riboCirc v1.0	CDS	296	240	.	.	.	translation_cycles=1; length=438
+mmu_circNpepps_001	riboCirc v1.0	stop_codon	238	240	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	start_codon	469	471	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	CDS	469	25	.	.	.	translation_cycles=2; length=513
+mmu_circCep112_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	start_codon	9	11	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	CDS	9	25	.	.	.	translation_cycles=1; length=495
+mmu_circCep112_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	start_codon	469	471	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	CDS	469	25	.	.	.	translation_cycles=2; length=513
+mmu_circCep112_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	start_codon	9	11	.	.	.	.
+mmu_circCep112_001	riboCirc v1.0	CDS	9	25	.	.	.	translation_cycles=1; length=495
+mmu_circCep112_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circDtnb_001	riboCirc v1.0	start_codon	364	366	.	.	.	.
+mmu_circDtnb_001	riboCirc v1.0	CDS	364	20	.	.	.	translation_cycles=1; length=171
+mmu_circDtnb_001	riboCirc v1.0	stop_codon	18	20	.	.	.	.
+mmu_circDtnb_001	riboCirc v1.0	start_codon	364	366	.	.	.	.
+mmu_circDtnb_001	riboCirc v1.0	CDS	364	20	.	.	.	translation_cycles=1; length=171
+mmu_circDtnb_001	riboCirc v1.0	stop_codon	18	20	.	.	.	.
+mmu_circKidins220_001	riboCirc v1.0	start_codon	7	9	.	.	.	.
+mmu_circKidins220_001	riboCirc v1.0	CDS	7	6	.	.	.	translation_cycles=3; length=891
+mmu_circKidins220_001	riboCirc v1.0	terminal_codon	4	6	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	start_codon	76	78	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	CDS	76	152	.	.	.	translation_cycles=1; length=780
+mmu_circStrn3_001	riboCirc v1.0	stop_codon	150	152	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	start_codon	653	655	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	CDS	653	152	.	.	.	translation_cycles=2; length=906
+mmu_circStrn3_001	riboCirc v1.0	stop_codon	150	152	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	start_codon	76	78	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	CDS	76	152	.	.	.	translation_cycles=1; length=780
+mmu_circStrn3_001	riboCirc v1.0	stop_codon	150	152	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	start_codon	653	655	.	.	.	.
+mmu_circStrn3_001	riboCirc v1.0	CDS	653	152	.	.	.	translation_cycles=2; length=906
+mmu_circStrn3_001	riboCirc v1.0	stop_codon	150	152	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	start_codon	74	76	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	CDS	74	68	.	.	.	translation_cycles=1; length=339
+mmu_circHectd1_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	start_codon	297	299	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	CDS	297	24	.	.	.	translation_cycles=1; length=72
+mmu_circHectd1_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	start_codon	74	76	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	CDS	74	68	.	.	.	translation_cycles=1; length=339
+mmu_circHectd1_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	start_codon	297	299	.	.	.	.
+mmu_circHectd1_001	riboCirc v1.0	CDS	297	24	.	.	.	translation_cycles=1; length=72
+mmu_circHectd1_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	start_codon	247	249	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	CDS	247	151	.	.	.	translation_cycles=2; length=807
+mmu_circDcaf5_001	riboCirc v1.0	stop_codon	149	151	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	start_codon	33	35	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	CDS	33	151	.	.	.	translation_cycles=1; length=570
+mmu_circDcaf5_001	riboCirc v1.0	stop_codon	149	151	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	start_codon	247	249	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	CDS	247	151	.	.	.	translation_cycles=2; length=807
+mmu_circDcaf5_001	riboCirc v1.0	stop_codon	149	151	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	start_codon	33	35	.	.	.	.
+mmu_circDcaf5_001	riboCirc v1.0	CDS	33	151	.	.	.	translation_cycles=1; length=570
+mmu_circDcaf5_001	riboCirc v1.0	stop_codon	149	151	.	.	.	.
+mmu_circSipa1l1_001	riboCirc v1.0	start_codon	341	343	.	.	.	.
+mmu_circSipa1l1_001	riboCirc v1.0	CDS	341	68	.	.	.	translation_cycles=1; length=1566
+mmu_circSipa1l1_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circSipa1l1_001	riboCirc v1.0	start_codon	341	343	.	.	.	.
+mmu_circSipa1l1_001	riboCirc v1.0	CDS	341	68	.	.	.	translation_cycles=1; length=1566
+mmu_circSipa1l1_001	riboCirc v1.0	stop_codon	66	68	.	.	.	.
+mmu_circTtc8_001	riboCirc v1.0	start_codon	67	69	.	.	.	.
+mmu_circTtc8_001	riboCirc v1.0	CDS	67	66	.	.	.	translation_cycles=3; length=1530
+mmu_circTtc8_001	riboCirc v1.0	terminal_codon	64	66	.	.	.	.
+mmu_circTtc8_001	riboCirc v1.0	start_codon	491	493	.	.	.	.
+mmu_circTtc8_001	riboCirc v1.0	CDS	491	46	.	.	.	translation_cycles=1; length=66
+mmu_circTtc8_001	riboCirc v1.0	stop_codon	44	46	.	.	.	.
+mmu_circBcl11b_001	riboCirc v1.0	start_codon	81	83	.	.	.	.
+mmu_circBcl11b_001	riboCirc v1.0	CDS	81	80	.	.	.	translation_cycles=3; length=1746
+mmu_circBcl11b_001	riboCirc v1.0	terminal_codon	78	80	.	.	.	.
+mmu_circBcl11b_001	riboCirc v1.0	start_codon	81	83	.	.	.	.
+mmu_circBcl11b_001	riboCirc v1.0	CDS	81	80	.	.	.	translation_cycles=3; length=1746
+mmu_circBcl11b_001	riboCirc v1.0	terminal_codon	78	80	.	.	.	.
+mmu_circAmph_001	riboCirc v1.0	start_codon	433	2	.	.	.	.
+mmu_circAmph_001	riboCirc v1.0	CDS	433	95	.	.	.	translation_cycles=1; length=96
+mmu_circAmph_001	riboCirc v1.0	stop_codon	93	95	.	.	.	.
+mmu_circAmph_001	riboCirc v1.0	start_codon	336	338	.	.	.	.
+mmu_circAmph_001	riboCirc v1.0	CDS	336	3	.	.	.	translation_cycles=2; length=534
+mmu_circAmph_001	riboCirc v1.0	stop_codon	1	3	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	start_codon	373	375	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	CDS	373	17	.	.	.	translation_cycles=1; length=312
+mmu_circCdyl_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	start_codon	659	661	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	CDS	659	17	.	.	.	translation_cycles=2; length=693
+mmu_circCdyl_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	start_codon	373	375	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	CDS	373	17	.	.	.	translation_cycles=1; length=312
+mmu_circCdyl_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	start_codon	659	661	.	.	.	.
+mmu_circCdyl_001	riboCirc v1.0	CDS	659	17	.	.	.	translation_cycles=2; length=693
+mmu_circCdyl_001	riboCirc v1.0	stop_codon	15	17	.	.	.	.
+mmu_circTxndc5_001	riboCirc v1.0	start_codon	62	64	.	.	.	.
+mmu_circTxndc5_001	riboCirc v1.0	CDS	62	61	.	.	.	translation_cycles=3; length=450
+mmu_circTxndc5_001	riboCirc v1.0	terminal_codon	59	61	.	.	.	.
+mmu_circTxndc5_001	riboCirc v1.0	start_codon	36	38	.	.	.	.
+mmu_circTxndc5_001	riboCirc v1.0	CDS	36	35	.	.	.	translation_cycles=3; length=450
+mmu_circTxndc5_001	riboCirc v1.0	terminal_codon	33	35	.	.	.	.
+mmu_circSecisbp2_001	riboCirc v1.0	start_codon	14	16	.	.	.	.
+mmu_circSecisbp2_001	riboCirc v1.0	CDS	14	32	.	.	.	translation_cycles=1; length=585
+mmu_circSecisbp2_001	riboCirc v1.0	stop_codon	30	32	.	.	.	.
+mmu_circAuh_001	riboCirc v1.0	start_codon	66	68	.	.	.	.
+mmu_circAuh_001	riboCirc v1.0	CDS	66	65	.	.	.	translation_cycles=3; length=1179
+mmu_circAuh_001	riboCirc v1.0	terminal_codon	63	65	.	.	.	.
+mmu_circAuh_001	riboCirc v1.0	start_codon	66	68	.	.	.	.
+mmu_circAuh_001	riboCirc v1.0	CDS	66	65	.	.	.	translation_cycles=3; length=1179
+mmu_circAuh_001	riboCirc v1.0	terminal_codon	63	65	.	.	.	.
+mmu_circSsbp2_001	riboCirc v1.0	start_codon	213	215	.	.	.	.
+mmu_circSsbp2_001	riboCirc v1.0	CDS	213	21	.	.	.	translation_cycles=2; length=249
+mmu_circSsbp2_001	riboCirc v1.0	stop_codon	19	21	.	.	.	.
+mmu_circSsbp2_001	riboCirc v1.0	start_codon	213	215	.	.	.	.
+mmu_circSsbp2_001	riboCirc v1.0	CDS	213	21	.	.	.	translation_cycles=2; length=249
+mmu_circSsbp2_001	riboCirc v1.0	stop_codon	19	21	.	.	.	.
+mmu_circGfm2_001	riboCirc v1.0	start_codon	22	24	.	.	.	.
+mmu_circGfm2_001	riboCirc v1.0	CDS	22	12	.	.	.	translation_cycles=1; length=531
+mmu_circGfm2_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circGfm2_001	riboCirc v1.0	start_codon	22	24	.	.	.	.
+mmu_circGfm2_001	riboCirc v1.0	CDS	22	12	.	.	.	translation_cycles=1; length=531
+mmu_circGfm2_001	riboCirc v1.0	stop_codon	10	12	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	start_codon	250	252	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	CDS	250	15	.	.	.	translation_cycles=1; length=639
+mmu_circKat6b_001	riboCirc v1.0	stop_codon	13	15	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	start_codon	791	793	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	CDS	791	103	.	.	.	translation_cycles=1; length=186
+mmu_circKat6b_001	riboCirc v1.0	stop_codon	101	103	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	start_codon	250	252	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	CDS	250	15	.	.	.	translation_cycles=1; length=639
+mmu_circKat6b_001	riboCirc v1.0	stop_codon	13	15	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	start_codon	791	793	.	.	.	.
+mmu_circKat6b_001	riboCirc v1.0	CDS	791	103	.	.	.	translation_cycles=1; length=186
+mmu_circKat6b_001	riboCirc v1.0	stop_codon	101	103	.	.	.	.
+mmu_circDcp1a_001	riboCirc v1.0	start_codon	137	139	.	.	.	.
+mmu_circDcp1a_001	riboCirc v1.0	CDS	137	11	.	.	.	translation_cycles=2; length=213
+mmu_circDcp1a_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+mmu_circDcp1a_001	riboCirc v1.0	start_codon	137	139	.	.	.	.
+mmu_circDcp1a_001	riboCirc v1.0	CDS	137	11	.	.	.	translation_cycles=2; length=213
+mmu_circDcp1a_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+mmu_circWapl_001	riboCirc v1.0	start_codon	303	305	.	.	.	.
+mmu_circWapl_001	riboCirc v1.0	CDS	303	213	.	.	.	translation_cycles=1; length=1065
+mmu_circWapl_001	riboCirc v1.0	stop_codon	211	213	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	start_codon	58	60	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	CDS	58	57	.	.	.	translation_cycles=3; length=720
+mmu_circTmem260_001	riboCirc v1.0	terminal_codon	55	57	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	start_codon	150	152	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	CDS	150	11	.	.	.	translation_cycles=1; length=102
+mmu_circTmem260_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	start_codon	58	60	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	CDS	58	57	.	.	.	translation_cycles=3; length=720
+mmu_circTmem260_001	riboCirc v1.0	terminal_codon	55	57	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	start_codon	150	152	.	.	.	.
+mmu_circTmem260_001	riboCirc v1.0	CDS	150	11	.	.	.	translation_cycles=1; length=102
+mmu_circTmem260_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	start_codon	85	87	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	CDS	85	25	.	.	.	translation_cycles=1; length=288
+mmu_circPtk2b_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	start_codon	275	277	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	CDS	275	59	.	.	.	translation_cycles=1; length=132
+mmu_circPtk2b_001	riboCirc v1.0	stop_codon	57	59	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	start_codon	85	87	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	CDS	85	25	.	.	.	translation_cycles=1; length=288
+mmu_circPtk2b_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	start_codon	275	277	.	.	.	.
+mmu_circPtk2b_001	riboCirc v1.0	CDS	275	59	.	.	.	translation_cycles=1; length=132
+mmu_circPtk2b_001	riboCirc v1.0	stop_codon	57	59	.	.	.	.
+mmu_circPpp3cc_001	riboCirc v1.0	start_codon	391	393	.	.	.	.
+mmu_circPpp3cc_001	riboCirc v1.0	CDS	391	30	.	.	.	translation_cycles=1; length=75
+mmu_circPpp3cc_001	riboCirc v1.0	stop_codon	28	30	.	.	.	.
+mmu_circPpp3cc_001	riboCirc v1.0	start_codon	395	397	.	.	.	.
+mmu_circPpp3cc_001	riboCirc v1.0	CDS	395	49	.	.	.	translation_cycles=1; length=90
+mmu_circPpp3cc_001	riboCirc v1.0	stop_codon	47	49	.	.	.	.
+mmu_circPpp3cc_001	riboCirc v1.0	start_codon	66	68	.	.	.	.
+mmu_circPpp3cc_001	riboCirc v1.0	CDS	66	65	.	.	.	translation_cycles=3; length=1305
+mmu_circPpp3cc_001	riboCirc v1.0	terminal_codon	63	65	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	CDS	40	26	.	.	.	translation_cycles=1; length=201
+mmu_circFndc3a_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	start_codon	191	193	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	CDS	191	26	.	.	.	translation_cycles=2; length=264
+mmu_circFndc3a_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	CDS	40	26	.	.	.	translation_cycles=1; length=201
+mmu_circFndc3a_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	start_codon	191	193	.	.	.	.
+mmu_circFndc3a_001	riboCirc v1.0	CDS	191	26	.	.	.	translation_cycles=2; length=264
+mmu_circFndc3a_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	start_codon	451	453	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	CDS	451	27	.	.	.	translation_cycles=1; length=105
+mmu_circCpq_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	start_codon	288	290	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	CDS	288	287	.	.	.	translation_cycles=3; length=1584
+mmu_circCpq_001	riboCirc v1.0	terminal_codon	285	287	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	start_codon	451	453	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	CDS	451	27	.	.	.	translation_cycles=1; length=105
+mmu_circCpq_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	start_codon	288	290	.	.	.	.
+mmu_circCpq_001	riboCirc v1.0	CDS	288	287	.	.	.	translation_cycles=3; length=1584
+mmu_circCpq_001	riboCirc v1.0	terminal_codon	285	287	.	.	.	.
+mmu_circKhdrbs3_001	riboCirc v1.0	start_codon	709	711	.	.	.	.
+mmu_circKhdrbs3_001	riboCirc v1.0	CDS	709	52	.	.	.	translation_cycles=2; length=948
+mmu_circKhdrbs3_001	riboCirc v1.0	stop_codon	50	52	.	.	.	.
+mmu_circKhdrbs3_001	riboCirc v1.0	start_codon	72	74	.	.	.	.
+mmu_circKhdrbs3_001	riboCirc v1.0	CDS	72	52	.	.	.	translation_cycles=1; length=783
+mmu_circKhdrbs3_001	riboCirc v1.0	stop_codon	50	52	.	.	.	.
+mmu_circCsf2rb2_001	riboCirc v1.0	start_codon	150	152	.	.	.	.
+mmu_circCsf2rb2_001	riboCirc v1.0	CDS	150	100	.	.	.	translation_cycles=1; length=315
+mmu_circCsf2rb2_001	riboCirc v1.0	stop_codon	98	100	.	.	.	.
+mmu_circCsf2rb2_001	riboCirc v1.0	start_codon	150	152	.	.	.	.
+mmu_circCsf2rb2_001	riboCirc v1.0	CDS	150	100	.	.	.	translation_cycles=1; length=315
+mmu_circCsf2rb2_001	riboCirc v1.0	stop_codon	98	100	.	.	.	.
+mmu_circDdx17_001	riboCirc v1.0	start_codon	14	16	.	.	.	.
+mmu_circDdx17_001	riboCirc v1.0	CDS	14	5	.	.	.	translation_cycles=1; length=225
+mmu_circDdx17_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circDdx17_001	riboCirc v1.0	start_codon	14	16	.	.	.	.
+mmu_circDdx17_001	riboCirc v1.0	CDS	14	5	.	.	.	translation_cycles=1; length=225
+mmu_circDdx17_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	CDS	37	36	.	.	.	translation_cycles=3; length=17316
+mmu_circTcf20_001	riboCirc v1.0	terminal_codon	34	36	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	start_codon	5306	5308	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	CDS	5306	31	.	.	.	translation_cycles=1; length=498
+mmu_circTcf20_001	riboCirc v1.0	stop_codon	29	31	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	CDS	37	36	.	.	.	translation_cycles=3; length=17316
+mmu_circTcf20_001	riboCirc v1.0	terminal_codon	34	36	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	start_codon	5306	5308	.	.	.	.
+mmu_circTcf20_001	riboCirc v1.0	CDS	5306	31	.	.	.	translation_cycles=1; length=498
+mmu_circTcf20_001	riboCirc v1.0	stop_codon	29	31	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	start_codon	202	204	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	CDS	202	6	.	.	.	translation_cycles=3; length=789
+mmu_circAlg12_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	start_codon	44	46	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	CDS	44	6	.	.	.	translation_cycles=1; length=291
+mmu_circAlg12_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	start_codon	303	305	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	CDS	303	6	.	.	.	translation_cycles=2; length=360
+mmu_circAlg12_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	start_codon	202	204	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	CDS	202	6	.	.	.	translation_cycles=3; length=789
+mmu_circAlg12_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	start_codon	44	46	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	CDS	44	6	.	.	.	translation_cycles=1; length=291
+mmu_circAlg12_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	start_codon	303	305	.	.	.	.
+mmu_circAlg12_001	riboCirc v1.0	CDS	303	6	.	.	.	translation_cycles=2; length=360
+mmu_circAlg12_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+mmu_circCpne8_002	riboCirc v1.0	start_codon	107	109	.	.	.	.
+mmu_circCpne8_002	riboCirc v1.0	CDS	107	19	.	.	.	translation_cycles=1; length=372
+mmu_circCpne8_002	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circCpne8_002	riboCirc v1.0	start_codon	107	109	.	.	.	.
+mmu_circCpne8_002	riboCirc v1.0	CDS	107	19	.	.	.	translation_cycles=1; length=372
+mmu_circCpne8_002	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	start_codon	67	69	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	CDS	67	66	.	.	.	translation_cycles=3; length=2016
+mmu_circPphln1_001	riboCirc v1.0	terminal_codon	64	66	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	start_codon	593	595	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	CDS	593	25	.	.	.	translation_cycles=1; length=105
+mmu_circPphln1_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	start_codon	67	69	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	CDS	67	66	.	.	.	translation_cycles=3; length=2016
+mmu_circPphln1_001	riboCirc v1.0	terminal_codon	64	66	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	start_codon	593	595	.	.	.	.
+mmu_circPphln1_001	riboCirc v1.0	CDS	593	25	.	.	.	translation_cycles=1; length=105
+mmu_circPphln1_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+mmu_circNell2_001	riboCirc v1.0	start_codon	197	199	.	.	.	.
+mmu_circNell2_001	riboCirc v1.0	CDS	197	36	.	.	.	translation_cycles=1; length=330
+mmu_circNell2_001	riboCirc v1.0	stop_codon	34	36	.	.	.	.
+mmu_circNell2_001	riboCirc v1.0	start_codon	197	199	.	.	.	.
+mmu_circNell2_001	riboCirc v1.0	CDS	197	36	.	.	.	translation_cycles=1; length=330
+mmu_circNell2_001	riboCirc v1.0	stop_codon	34	36	.	.	.	.
+mmu_circNell2_001	riboCirc v1.0	start_codon	275	277	.	.	.	.
+mmu_circNell2_001	riboCirc v1.0	CDS	275	36	.	.	.	translation_cycles=1; length=252
+mmu_circNell2_001	riboCirc v1.0	stop_codon	34	36	.	.	.	.
+mmu_circSenp1_001	riboCirc v1.0	start_codon	45	47	.	.	.	.
+mmu_circSenp1_001	riboCirc v1.0	CDS	45	33	.	.	.	translation_cycles=1; length=168
+mmu_circSenp1_001	riboCirc v1.0	stop_codon	31	33	.	.	.	.
+mmu_circSenp1_001	riboCirc v1.0	start_codon	45	47	.	.	.	.
+mmu_circSenp1_001	riboCirc v1.0	CDS	45	33	.	.	.	translation_cycles=1; length=168
+mmu_circSenp1_001	riboCirc v1.0	stop_codon	31	33	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	start_codon	136	138	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	CDS	136	32	.	.	.	translation_cycles=1; length=90
+mmu_circTmbim6_001	riboCirc v1.0	stop_codon	30	32	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	start_codon	29	31	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	CDS	29	42	.	.	.	translation_cycles=1; length=207
+mmu_circTmbim6_001	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	start_codon	120	122	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	CDS	120	13	.	.	.	translation_cycles=1; length=87
+mmu_circTmbim6_001	riboCirc v1.0	stop_codon	11	13	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	start_codon	136	138	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	CDS	136	32	.	.	.	translation_cycles=1; length=90
+mmu_circTmbim6_001	riboCirc v1.0	stop_codon	30	32	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	start_codon	29	31	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	CDS	29	42	.	.	.	translation_cycles=1; length=207
+mmu_circTmbim6_001	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	start_codon	120	122	.	.	.	.
+mmu_circTmbim6_001	riboCirc v1.0	CDS	120	13	.	.	.	translation_cycles=1; length=87
+mmu_circTmbim6_001	riboCirc v1.0	stop_codon	11	13	.	.	.	.
+mmu_circMed15_001	riboCirc v1.0	start_codon	11	13	.	.	.	.
+mmu_circMed15_001	riboCirc v1.0	CDS	11	14	.	.	.	translation_cycles=1; length=174
+mmu_circMed15_001	riboCirc v1.0	stop_codon	12	14	.	.	.	.
+mmu_circMed15_001	riboCirc v1.0	start_codon	11	13	.	.	.	.
+mmu_circMed15_001	riboCirc v1.0	CDS	11	14	.	.	.	translation_cycles=1; length=174
+mmu_circMed15_001	riboCirc v1.0	stop_codon	12	14	.	.	.	.
+mmu_circLrch3_001	riboCirc v1.0	start_codon	595	597	.	.	.	.
+mmu_circLrch3_001	riboCirc v1.0	CDS	595	1	.	.	.	translation_cycles=2; length=657
+mmu_circLrch3_001	riboCirc v1.0	stop_codon	624	1	.	.	.	.
+mmu_circLrch3_001	riboCirc v1.0	start_codon	595	597	.	.	.	.
+mmu_circLrch3_001	riboCirc v1.0	CDS	595	1	.	.	.	translation_cycles=2; length=657
+mmu_circLrch3_001	riboCirc v1.0	stop_codon	624	1	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	start_codon	235	237	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	CDS	235	102	.	.	.	translation_cycles=1; length=435
+mmu_circZfp148_001	riboCirc v1.0	stop_codon	100	102	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	start_codon	500	502	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	CDS	500	43	.	.	.	translation_cycles=1; length=111
+mmu_circZfp148_001	riboCirc v1.0	stop_codon	41	43	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	start_codon	235	237	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	CDS	235	102	.	.	.	translation_cycles=1; length=435
+mmu_circZfp148_001	riboCirc v1.0	stop_codon	100	102	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	start_codon	500	502	.	.	.	.
+mmu_circZfp148_001	riboCirc v1.0	CDS	500	43	.	.	.	translation_cycles=1; length=111
+mmu_circZfp148_001	riboCirc v1.0	stop_codon	41	43	.	.	.	.
+mmu_circCadm2_001	riboCirc v1.0	start_codon	112	114	.	.	.	.
+mmu_circCadm2_001	riboCirc v1.0	CDS	112	51	.	.	.	translation_cycles=1; length=117
+mmu_circCadm2_001	riboCirc v1.0	stop_codon	49	51	.	.	.	.
+mmu_circNrip1_001	riboCirc v1.0	start_codon	122	124	.	.	.	.
+mmu_circNrip1_001	riboCirc v1.0	CDS	122	53	.	.	.	translation_cycles=1; length=129
+mmu_circNrip1_001	riboCirc v1.0	stop_codon	51	53	.	.	.	.
+mmu_circNrip1_001	riboCirc v1.0	start_codon	122	124	.	.	.	.
+mmu_circNrip1_001	riboCirc v1.0	CDS	122	53	.	.	.	translation_cycles=1; length=129
+mmu_circNrip1_001	riboCirc v1.0	stop_codon	51	53	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	start_codon	814	816	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	CDS	814	19	.	.	.	translation_cycles=2; length=918
+mmu_circTtc3_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	CDS	12	19	.	.	.	translation_cycles=1; length=864
+mmu_circTtc3_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	start_codon	814	816	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	CDS	814	19	.	.	.	translation_cycles=2; length=918
+mmu_circTtc3_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circTtc3_001	riboCirc v1.0	CDS	12	19	.	.	.	translation_cycles=1; length=864
+mmu_circTtc3_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+mmu_circTtc3_002	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circTtc3_002	riboCirc v1.0	CDS	12	132	.	.	.	translation_cycles=1; length=1032
+mmu_circTtc3_002	riboCirc v1.0	stop_codon	130	132	.	.	.	.
+mmu_circTtc3_002	riboCirc v1.0	start_codon	12	14	.	.	.	.
+mmu_circTtc3_002	riboCirc v1.0	CDS	12	132	.	.	.	translation_cycles=1; length=1032
+mmu_circTtc3_002	riboCirc v1.0	stop_codon	130	132	.	.	.	.
+mmu_circBtnl1_001	riboCirc v1.0	start_codon	27	29	.	.	.	.
+mmu_circBtnl1_001	riboCirc v1.0	CDS	27	26	.	.	.	translation_cycles=3; length=1674
+mmu_circBtnl1_001	riboCirc v1.0	terminal_codon	24	26	.	.	.	.
+mmu_circBtnl1_001	riboCirc v1.0	start_codon	27	29	.	.	.	.
+mmu_circBtnl1_001	riboCirc v1.0	CDS	27	26	.	.	.	translation_cycles=3; length=1674
+mmu_circBtnl1_001	riboCirc v1.0	terminal_codon	24	26	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	start_codon	79	81	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=693
+mmu_circVars_001	riboCirc v1.0	terminal_codon	76	78	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	start_codon	188	190	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	CDS	188	97	.	.	.	translation_cycles=1; length=141
+mmu_circVars_001	riboCirc v1.0	stop_codon	95	97	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	start_codon	79	81	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	CDS	79	78	.	.	.	translation_cycles=3; length=693
+mmu_circVars_001	riboCirc v1.0	terminal_codon	76	78	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	start_codon	188	190	.	.	.	.
+mmu_circVars_001	riboCirc v1.0	CDS	188	97	.	.	.	translation_cycles=1; length=141
+mmu_circVars_001	riboCirc v1.0	stop_codon	95	97	.	.	.	.
+mmu_circSatb1_002	riboCirc v1.0	start_codon	501	503	.	.	.	.
+mmu_circSatb1_002	riboCirc v1.0	CDS	501	87	.	.	.	translation_cycles=1; length=378
+mmu_circSatb1_002	riboCirc v1.0	stop_codon	85	87	.	.	.	.
+mmu_circSatb1_002	riboCirc v1.0	start_codon	35	37	.	.	.	.
+mmu_circSatb1_002	riboCirc v1.0	CDS	35	436	.	.	.	translation_cycles=0; length=402
+mmu_circSatb1_002	riboCirc v1.0	stop_codon	434	436	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	CDS	40	18	.	.	.	translation_cycles=1; length=276
+mmu_circAdgre1_001	riboCirc v1.0	stop_codon	16	18	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	start_codon	230	232	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	CDS	230	4	.	.	.	translation_cycles=1; length=72
+mmu_circAdgre1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	start_codon	117	119	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	CDS	117	116	.	.	.	translation_cycles=3; length=891
+mmu_circAdgre1_001	riboCirc v1.0	terminal_codon	114	116	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	CDS	40	18	.	.	.	translation_cycles=1; length=276
+mmu_circAdgre1_001	riboCirc v1.0	stop_codon	16	18	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	start_codon	230	232	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	CDS	230	4	.	.	.	translation_cycles=1; length=72
+mmu_circAdgre1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	start_codon	117	119	.	.	.	.
+mmu_circAdgre1_001	riboCirc v1.0	CDS	117	116	.	.	.	translation_cycles=3; length=891
+mmu_circAdgre1_001	riboCirc v1.0	terminal_codon	114	116	.	.	.	.
+mmu_circAdgre1_002	riboCirc v1.0	start_codon	199	201	.	.	.	.
+mmu_circAdgre1_002	riboCirc v1.0	CDS	199	44	.	.	.	translation_cycles=1; length=108
+mmu_circAdgre1_002	riboCirc v1.0	stop_codon	42	44	.	.	.	.
+mmu_circAdgre1_002	riboCirc v1.0	start_codon	199	201	.	.	.	.
+mmu_circAdgre1_002	riboCirc v1.0	CDS	199	44	.	.	.	translation_cycles=1; length=108
+mmu_circAdgre1_002	riboCirc v1.0	stop_codon	42	44	.	.	.	.
+mmu_circCrim1_001	riboCirc v1.0	start_codon	144	146	.	.	.	.
+mmu_circCrim1_001	riboCirc v1.0	CDS	144	143	.	.	.	translation_cycles=3; length=522
+mmu_circCrim1_001	riboCirc v1.0	terminal_codon	141	143	.	.	.	.
+mmu_circCrim1_001	riboCirc v1.0	start_codon	144	146	.	.	.	.
+mmu_circCrim1_001	riboCirc v1.0	CDS	144	143	.	.	.	translation_cycles=3; length=522
+mmu_circCrim1_001	riboCirc v1.0	terminal_codon	141	143	.	.	.	.
+mmu_circMap4k3_001	riboCirc v1.0	start_codon	23	25	.	.	.	.
+mmu_circMap4k3_001	riboCirc v1.0	CDS	23	9	.	.	.	translation_cycles=1; length=156
+mmu_circMap4k3_001	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+mmu_circSlc8a1_003	riboCirc v1.0	start_codon	32	34	.	.	.	.
+mmu_circSlc8a1_003	riboCirc v1.0	CDS	32	31	.	.	.	translation_cycles=3; length=5490
+mmu_circSlc8a1_003	riboCirc v1.0	terminal_codon	29	31	.	.	.	.
+mmu_circSlc8a1_003	riboCirc v1.0	start_codon	32	34	.	.	.	.
+mmu_circSlc8a1_003	riboCirc v1.0	CDS	32	31	.	.	.	translation_cycles=3; length=5490
+mmu_circSlc8a1_003	riboCirc v1.0	terminal_codon	29	31	.	.	.	.
+mmu_circFoxn2_001	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circFoxn2_001	riboCirc v1.0	CDS	15	27	.	.	.	translation_cycles=1; length=564
+mmu_circFoxn2_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circFoxn2_001	riboCirc v1.0	start_codon	15	17	.	.	.	.
+mmu_circFoxn2_001	riboCirc v1.0	CDS	15	27	.	.	.	translation_cycles=1; length=564
+mmu_circFoxn2_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	start_codon	43	45	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	CDS	43	24	.	.	.	translation_cycles=1; length=183
+mmu_circZeb1_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	start_codon	111	113	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	CDS	111	110	.	.	.	translation_cycles=3; length=603
+mmu_circZeb1_001	riboCirc v1.0	terminal_codon	108	110	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	start_codon	43	45	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	CDS	43	24	.	.	.	translation_cycles=1; length=183
+mmu_circZeb1_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	start_codon	111	113	.	.	.	.
+mmu_circZeb1_001	riboCirc v1.0	CDS	111	110	.	.	.	translation_cycles=3; length=603
+mmu_circZeb1_001	riboCirc v1.0	terminal_codon	108	110	.	.	.	.
+mmu_circCdh2_001	riboCirc v1.0	start_codon	56	58	.	.	.	.
+mmu_circCdh2_001	riboCirc v1.0	CDS	56	23	.	.	.	translation_cycles=2; length=192
+mmu_circCdh2_001	riboCirc v1.0	stop_codon	21	23	.	.	.	.
+mmu_circCdh2_001	riboCirc v1.0	start_codon	56	58	.	.	.	.
+mmu_circCdh2_001	riboCirc v1.0	CDS	56	23	.	.	.	translation_cycles=2; length=192
+mmu_circCdh2_001	riboCirc v1.0	stop_codon	21	23	.	.	.	.
+mmu_circAW554918_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+mmu_circAW554918_001	riboCirc v1.0	CDS	37	4	.	.	.	translation_cycles=1; length=738
+mmu_circAW554918_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+mmu_circAW554918_001	riboCirc v1.0	start_codon	749	751	.	.	.	.
+mmu_circAW554918_001	riboCirc v1.0	CDS	749	107	.	.	.	translation_cycles=1; length=129
+mmu_circAW554918_001	riboCirc v1.0	stop_codon	105	107	.	.	.	.
+mmu_circSap130_001	riboCirc v1.0	start_codon	7	9	.	.	.	.
+mmu_circSap130_001	riboCirc v1.0	CDS	7	56	.	.	.	translation_cycles=1; length=168
+mmu_circSap130_001	riboCirc v1.0	stop_codon	54	56	.	.	.	.
+mmu_circSap130_001	riboCirc v1.0	start_codon	7	9	.	.	.	.
+mmu_circSap130_001	riboCirc v1.0	CDS	7	56	.	.	.	translation_cycles=1; length=168
+mmu_circSap130_001	riboCirc v1.0	stop_codon	54	56	.	.	.	.
+mmu_circUbe2d2a_001	riboCirc v1.0	start_codon	64	66	.	.	.	.
+mmu_circUbe2d2a_001	riboCirc v1.0	CDS	64	7	.	.	.	translation_cycles=1; length=318
+mmu_circUbe2d2a_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+mmu_circUbe2d2a_001	riboCirc v1.0	start_codon	64	66	.	.	.	.
+mmu_circUbe2d2a_001	riboCirc v1.0	CDS	64	7	.	.	.	translation_cycles=1; length=318
+mmu_circUbe2d2a_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+mmu_circZfp532_001	riboCirc v1.0	start_codon	22	24	.	.	.	.
+mmu_circZfp532_001	riboCirc v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=2412
+mmu_circZfp532_001	riboCirc v1.0	terminal_codon	19	21	.	.	.	.
+mmu_circZfp532_001	riboCirc v1.0	start_codon	797	799	.	.	.	.
+mmu_circZfp532_001	riboCirc v1.0	CDS	797	226	.	.	.	translation_cycles=1; length=234
+mmu_circZfp532_001	riboCirc v1.0	stop_codon	224	226	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	start_codon	206	208	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	CDS	206	20	.	.	.	translation_cycles=1; length=432
+mmu_circRbm4_001	riboCirc v1.0	stop_codon	18	20	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	start_codon	543	545	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	CDS	543	300	.	.	.	translation_cycles=1; length=375
+mmu_circRbm4_001	riboCirc v1.0	stop_codon	298	300	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	start_codon	206	208	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	CDS	206	20	.	.	.	translation_cycles=1; length=432
+mmu_circRbm4_001	riboCirc v1.0	stop_codon	18	20	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	start_codon	543	545	.	.	.	.
+mmu_circRbm4_001	riboCirc v1.0	CDS	543	300	.	.	.	translation_cycles=1; length=375
+mmu_circRbm4_001	riboCirc v1.0	stop_codon	298	300	.	.	.	.
+mmu_circLtbp3_001	riboCirc v1.0	start_codon	135	137	.	.	.	.
+mmu_circLtbp3_001	riboCirc v1.0	CDS	135	134	.	.	.	translation_cycles=3; length=414
+mmu_circLtbp3_001	riboCirc v1.0	terminal_codon	132	134	.	.	.	.
+mmu_circGlis3_001	riboCirc v1.0	start_codon	233	235	.	.	.	.
+mmu_circGlis3_001	riboCirc v1.0	CDS	233	165	.	.	.	translation_cycles=1; length=1047
+mmu_circGlis3_001	riboCirc v1.0	stop_codon	163	165	.	.	.	.
+mmu_circGlis3_001	riboCirc v1.0	start_codon	233	235	.	.	.	.
+mmu_circGlis3_001	riboCirc v1.0	CDS	233	165	.	.	.	translation_cycles=1; length=1047
+mmu_circGlis3_001	riboCirc v1.0	stop_codon	163	165	.	.	.	.
+mmu_circPank1_001	riboCirc v1.0	start_codon	18	20	.	.	.	.
+mmu_circPank1_001	riboCirc v1.0	CDS	18	108	.	.	.	translation_cycles=1; length=444
+mmu_circPank1_001	riboCirc v1.0	stop_codon	106	108	.	.	.	.
+mmu_circPank1_001	riboCirc v1.0	start_codon	18	20	.	.	.	.
+mmu_circPank1_001	riboCirc v1.0	CDS	18	108	.	.	.	translation_cycles=1; length=444
+mmu_circPank1_001	riboCirc v1.0	stop_codon	106	108	.	.	.	.
+mmu_circNhlrc2_001	riboCirc v1.0	start_codon	483	485	.	.	.	.
+mmu_circNhlrc2_001	riboCirc v1.0	CDS	483	482	.	.	.	translation_cycles=3; length=2124
+mmu_circNhlrc2_001	riboCirc v1.0	terminal_codon	480	482	.	.	.	.
+mmu_circNhlrc2_001	riboCirc v1.0	start_codon	483	485	.	.	.	.
+mmu_circNhlrc2_001	riboCirc v1.0	CDS	483	482	.	.	.	translation_cycles=3; length=2124
+mmu_circNhlrc2_001	riboCirc v1.0	terminal_codon	480	482	.	.	.	.
+mmu_circNhlrc2_002	riboCirc v1.0	start_codon	27	29	.	.	.	.
+mmu_circNhlrc2_002	riboCirc v1.0	CDS	27	26	.	.	.	translation_cycles=3; length=756
+mmu_circNhlrc2_002	riboCirc v1.0	terminal_codon	24	26	.	.	.	.
+mmu_circNhlrc2_002	riboCirc v1.0	start_codon	27	29	.	.	.	.
+mmu_circNhlrc2_002	riboCirc v1.0	CDS	27	26	.	.	.	translation_cycles=3; length=756
+mmu_circNhlrc2_002	riboCirc v1.0	terminal_codon	24	26	.	.	.	.
+mmu_circEif3a_001	riboCirc v1.0	start_codon	130	132	.	.	.	.
+mmu_circEif3a_001	riboCirc v1.0	CDS	130	28	.	.	.	translation_cycles=2; length=303
+mmu_circEif3a_001	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+mmu_circEif3a_001	riboCirc v1.0	start_codon	130	132	.	.	.	.
+mmu_circEif3a_001	riboCirc v1.0	CDS	130	28	.	.	.	translation_cycles=2; length=303
+mmu_circEif3a_001	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+mmu_circTspan7_001	riboCirc v1.0	start_codon	178	180	.	.	.	.
+mmu_circTspan7_001	riboCirc v1.0	CDS	178	177	.	.	.	translation_cycles=3; length=1548
+mmu_circTspan7_001	riboCirc v1.0	terminal_codon	175	177	.	.	.	.
+mmu_circTspan7_001	riboCirc v1.0	start_codon	178	180	.	.	.	.
+mmu_circTspan7_001	riboCirc v1.0	CDS	178	177	.	.	.	translation_cycles=3; length=1548
+mmu_circTspan7_001	riboCirc v1.0	terminal_codon	175	177	.	.	.	.
+mmu_circLamp2_001	riboCirc v1.0	start_codon	75	77	.	.	.	.
+mmu_circLamp2_001	riboCirc v1.0	CDS	75	74	.	.	.	translation_cycles=3; length=3159
+mmu_circLamp2_001	riboCirc v1.0	terminal_codon	72	74	.	.	.	.
+mmu_circLamp2_001	riboCirc v1.0	start_codon	75	77	.	.	.	.
+mmu_circLamp2_001	riboCirc v1.0	CDS	75	74	.	.	.	translation_cycles=3; length=3159
+mmu_circLamp2_001	riboCirc v1.0	terminal_codon	72	74	.	.	.	.
+mmu_circZfx_001	riboCirc v1.0	start_codon	30	32	.	.	.	.
+mmu_circZfx_001	riboCirc v1.0	CDS	30	29	.	.	.	translation_cycles=3; length=1980
+mmu_circZfx_001	riboCirc v1.0	terminal_codon	27	29	.	.	.	.
+mmu_circZfx_001	riboCirc v1.0	start_codon	30	32	.	.	.	.
+mmu_circZfx_001	riboCirc v1.0	CDS	30	29	.	.	.	translation_cycles=3; length=1980
+mmu_circZfx_001	riboCirc v1.0	terminal_codon	27	29	.	.	.	.
+mmu_circPcdh19_001	riboCirc v1.0	start_codon	309	311	.	.	.	.
+mmu_circPcdh19_001	riboCirc v1.0	CDS	309	110	.	.	.	translation_cycles=1; length=300
+mmu_circPcdh19_001	riboCirc v1.0	stop_codon	108	110	.	.	.	.
+mmu_circPcdh19_001	riboCirc v1.0	start_codon	107	109	.	.	.	.
+mmu_circPcdh19_001	riboCirc v1.0	CDS	107	370	.	.	.	translation_cycles=0; length=264
+mmu_circPcdh19_001	riboCirc v1.0	stop_codon	368	370	.	.	.	.
+mmu_circKdm5c_001	riboCirc v1.0	start_codon	34	36	.	.	.	.
+mmu_circKdm5c_001	riboCirc v1.0	CDS	34	33	.	.	.	translation_cycles=3; length=1035
+mmu_circKdm5c_001	riboCirc v1.0	terminal_codon	31	33	.	.	.	.

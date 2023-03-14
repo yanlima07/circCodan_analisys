@@ -1,0 +1,699 @@
+hsa_circPRDM2_001	riboCirc v1.0	start_codon	93	95	.	.	.	.
+hsa_circPRDM2_001	riboCirc v1.0	CDS	93	25	.	.	.	translation_cycles=1; length=4458
+hsa_circPRDM2_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+hsa_circPRDM2_001	riboCirc v1.0	start_codon	93	95	.	.	.	.
+hsa_circPRDM2_001	riboCirc v1.0	CDS	93	25	.	.	.	translation_cycles=1; length=4458
+hsa_circPRDM2_001	riboCirc v1.0	stop_codon	23	25	.	.	.	.
+hsa_circNBPF1_001	riboCirc v1.0	start_codon	217	219	.	.	.	.
+hsa_circNBPF1_001	riboCirc v1.0	CDS	217	259	.	.	.	translation_cycles=1; length=558
+hsa_circNBPF1_001	riboCirc v1.0	stop_codon	257	259	.	.	.	.
+hsa_circNBPF1_001	riboCirc v1.0	start_codon	344	346	.	.	.	.
+hsa_circNBPF1_001	riboCirc v1.0	CDS	344	95	.	.	.	translation_cycles=1; length=267
+hsa_circNBPF1_001	riboCirc v1.0	stop_codon	93	95	.	.	.	.
+hsa_circNUDC_001	riboCirc v1.0	start_codon	206	208	.	.	.	.
+hsa_circNUDC_001	riboCirc v1.0	CDS	206	141	.	.	.	translation_cycles=1; length=342
+hsa_circNUDC_001	riboCirc v1.0	stop_codon	139	141	.	.	.	.
+hsa_circNUDC_001	riboCirc v1.0	start_codon	257	259	.	.	.	.
+hsa_circNUDC_001	riboCirc v1.0	CDS	257	141	.	.	.	translation_cycles=1; length=291
+hsa_circNUDC_001	riboCirc v1.0	stop_codon	139	141	.	.	.	.
+hsa_circMAN1A2_003	riboCirc v1.0	start_codon	140	142	.	.	.	.
+hsa_circMAN1A2_003	riboCirc v1.0	CDS	140	27	.	.	.	translation_cycles=1; length=441
+hsa_circMAN1A2_003	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+hsa_circMAN1A2_003	riboCirc v1.0	start_codon	140	142	.	.	.	.
+hsa_circMAN1A2_003	riboCirc v1.0	CDS	140	27	.	.	.	translation_cycles=1; length=441
+hsa_circMAN1A2_003	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+hsa_circMAN1A2_004	riboCirc v1.0	start_codon	140	142	.	.	.	.
+hsa_circMAN1A2_004	riboCirc v1.0	CDS	140	139	.	.	.	translation_cycles=3; length=1944
+hsa_circMAN1A2_004	riboCirc v1.0	terminal_codon	137	139	.	.	.	.
+hsa_circMAN1A2_004	riboCirc v1.0	start_codon	140	142	.	.	.	.
+hsa_circMAN1A2_004	riboCirc v1.0	CDS	140	139	.	.	.	translation_cycles=3; length=1944
+hsa_circMAN1A2_004	riboCirc v1.0	terminal_codon	137	139	.	.	.	.
+hsa_circZNF124_001	riboCirc v1.0	start_codon	94	96	.	.	.	.
+hsa_circZNF124_001	riboCirc v1.0	CDS	94	31	.	.	.	translation_cycles=1; length=126
+hsa_circZNF124_001	riboCirc v1.0	stop_codon	29	31	.	.	.	.
+hsa_circZNF124_001	riboCirc v1.0	start_codon	94	96	.	.	.	.
+hsa_circZNF124_001	riboCirc v1.0	CDS	94	31	.	.	.	translation_cycles=1; length=126
+hsa_circZNF124_001	riboCirc v1.0	stop_codon	29	31	.	.	.	.
+hsa_circCRIM1_001	riboCirc v1.0	start_codon	144	146	.	.	.	.
+hsa_circCRIM1_001	riboCirc v1.0	CDS	144	143	.	.	.	translation_cycles=3; length=522
+hsa_circCRIM1_001	riboCirc v1.0	terminal_codon	141	143	.	.	.	.
+hsa_circCRIM1_001	riboCirc v1.0	start_codon	144	146	.	.	.	.
+hsa_circCRIM1_001	riboCirc v1.0	CDS	144	143	.	.	.	translation_cycles=3; length=522
+hsa_circCRIM1_001	riboCirc v1.0	terminal_codon	141	143	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	start_codon	25	27	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	CDS	25	10	.	.	.	translation_cycles=1; length=1818
+hsa_circSLC8A1_002	riboCirc v1.0	stop_codon	8	10	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	start_codon	1730	1732	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	CDS	1730	131	.	.	.	translation_cycles=1; length=234
+hsa_circSLC8A1_002	riboCirc v1.0	stop_codon	129	131	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	start_codon	25	27	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	CDS	25	10	.	.	.	translation_cycles=1; length=1818
+hsa_circSLC8A1_002	riboCirc v1.0	stop_codon	8	10	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	start_codon	1730	1732	.	.	.	.
+hsa_circSLC8A1_002	riboCirc v1.0	CDS	1730	131	.	.	.	translation_cycles=1; length=234
+hsa_circSLC8A1_002	riboCirc v1.0	stop_codon	129	131	.	.	.	.
+hsa_circXPO1_004	riboCirc v1.0	start_codon	7	9	.	.	.	.
+hsa_circXPO1_004	riboCirc v1.0	CDS	7	47	.	.	.	translation_cycles=1; length=216
+hsa_circXPO1_004	riboCirc v1.0	stop_codon	45	47	.	.	.	.
+hsa_circXPO1_004	riboCirc v1.0	start_codon	7	9	.	.	.	.
+hsa_circXPO1_004	riboCirc v1.0	CDS	7	47	.	.	.	translation_cycles=1; length=216
+hsa_circXPO1_004	riboCirc v1.0	stop_codon	45	47	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	start_codon	79	81	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	CDS	79	11	.	.	.	translation_cycles=1; length=684
+hsa_circEHBP1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	start_codon	683	685	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	CDS	683	11	.	.	.	translation_cycles=2; length=831
+hsa_circEHBP1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	start_codon	79	81	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	CDS	79	11	.	.	.	translation_cycles=1; length=684
+hsa_circEHBP1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	start_codon	683	685	.	.	.	.
+hsa_circEHBP1_001	riboCirc v1.0	CDS	683	11	.	.	.	translation_cycles=2; length=831
+hsa_circEHBP1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circEXOC6B_001	riboCirc v1.0	start_codon	61	63	.	.	.	.
+hsa_circEXOC6B_001	riboCirc v1.0	CDS	61	60	.	.	.	translation_cycles=3; length=1170
+hsa_circEXOC6B_001	riboCirc v1.0	terminal_codon	58	60	.	.	.	.
+hsa_circEXOC6B_001	riboCirc v1.0	start_codon	61	63	.	.	.	.
+hsa_circEXOC6B_001	riboCirc v1.0	CDS	61	60	.	.	.	translation_cycles=3; length=1170
+hsa_circEXOC6B_001	riboCirc v1.0	terminal_codon	58	60	.	.	.	.
+hsa_circSLC4A7_001	riboCirc v1.0	start_codon	206	208	.	.	.	.
+hsa_circSLC4A7_001	riboCirc v1.0	CDS	206	8	.	.	.	translation_cycles=2; length=261
+hsa_circSLC4A7_001	riboCirc v1.0	stop_codon	6	8	.	.	.	.
+hsa_circSLC4A7_001	riboCirc v1.0	start_codon	206	208	.	.	.	.
+hsa_circSLC4A7_001	riboCirc v1.0	CDS	206	8	.	.	.	translation_cycles=2; length=261
+hsa_circSLC4A7_001	riboCirc v1.0	stop_codon	6	8	.	.	.	.
+hsa_circPHLDB2_001	riboCirc v1.0	start_codon	163	165	.	.	.	.
+hsa_circPHLDB2_001	riboCirc v1.0	CDS	163	162	.	.	.	translation_cycles=3; length=1998
+hsa_circPHLDB2_001	riboCirc v1.0	terminal_codon	160	162	.	.	.	.
+hsa_circPHLDB2_001	riboCirc v1.0	start_codon	163	165	.	.	.	.
+hsa_circPHLDB2_001	riboCirc v1.0	CDS	163	162	.	.	.	translation_cycles=3; length=1998
+hsa_circPHLDB2_001	riboCirc v1.0	terminal_codon	160	162	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	start_codon	1534	1536	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	CDS	1534	24	.	.	.	translation_cycles=1; length=96
+hsa_circZBTB20_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	start_codon	21	23	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	CDS	21	20	.	.	.	translation_cycles=3; length=4815
+hsa_circZBTB20_001	riboCirc v1.0	terminal_codon	18	20	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	start_codon	1534	1536	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	CDS	1534	24	.	.	.	translation_cycles=1; length=96
+hsa_circZBTB20_001	riboCirc v1.0	stop_codon	22	24	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	start_codon	21	23	.	.	.	.
+hsa_circZBTB20_001	riboCirc v1.0	CDS	21	20	.	.	.	translation_cycles=3; length=4815
+hsa_circZBTB20_001	riboCirc v1.0	terminal_codon	18	20	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	start_codon	187	189	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	CDS	187	28	.	.	.	translation_cycles=2; length=486
+hsa_circRSRC1_001	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	CDS	3	28	.	.	.	translation_cycles=1; length=348
+hsa_circRSRC1_001	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	start_codon	187	189	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	CDS	187	28	.	.	.	translation_cycles=2; length=486
+hsa_circRSRC1_001	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+hsa_circRSRC1_001	riboCirc v1.0	CDS	3	28	.	.	.	translation_cycles=1; length=348
+hsa_circRSRC1_001	riboCirc v1.0	stop_codon	26	28	.	.	.	.
+hsa_circUBXN7_001	riboCirc v1.0	start_codon	224	226	.	.	.	.
+hsa_circUBXN7_001	riboCirc v1.0	CDS	224	75	.	.	.	translation_cycles=1; length=99
+hsa_circUBXN7_001	riboCirc v1.0	stop_codon	73	75	.	.	.	.
+hsa_circUBXN7_001	riboCirc v1.0	start_codon	224	226	.	.	.	.
+hsa_circUBXN7_001	riboCirc v1.0	CDS	224	75	.	.	.	translation_cycles=1; length=99
+hsa_circUBXN7_001	riboCirc v1.0	stop_codon	73	75	.	.	.	.
+hsa_circFIP1L1_001	riboCirc v1.0	start_codon	158	160	.	.	.	.
+hsa_circFIP1L1_001	riboCirc v1.0	CDS	158	11	.	.	.	translation_cycles=2; length=192
+hsa_circFIP1L1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circFIP1L1_001	riboCirc v1.0	start_codon	158	160	.	.	.	.
+hsa_circFIP1L1_001	riboCirc v1.0	CDS	158	11	.	.	.	translation_cycles=2; length=192
+hsa_circFIP1L1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circLRBA_001	riboCirc v1.0	start_codon	82	84	.	.	.	.
+hsa_circLRBA_001	riboCirc v1.0	CDS	82	81	.	.	.	translation_cycles=3; length=2907
+hsa_circLRBA_001	riboCirc v1.0	terminal_codon	79	81	.	.	.	.
+hsa_circLRBA_001	riboCirc v1.0	start_codon	82	84	.	.	.	.
+hsa_circLRBA_001	riboCirc v1.0	CDS	82	81	.	.	.	translation_cycles=3; length=2907
+hsa_circLRBA_001	riboCirc v1.0	terminal_codon	79	81	.	.	.	.
+hsa_circPALLD_001	riboCirc v1.0	start_codon	239	241	.	.	.	.
+hsa_circPALLD_001	riboCirc v1.0	CDS	239	238	.	.	.	translation_cycles=3; length=3168
+hsa_circPALLD_001	riboCirc v1.0	terminal_codon	236	238	.	.	.	.
+hsa_circPALLD_001	riboCirc v1.0	start_codon	239	241	.	.	.	.
+hsa_circPALLD_001	riboCirc v1.0	CDS	239	238	.	.	.	translation_cycles=3; length=3168
+hsa_circPALLD_001	riboCirc v1.0	terminal_codon	236	238	.	.	.	.
+hsa_circNEIL3_001	riboCirc v1.0	start_codon	48	50	.	.	.	.
+hsa_circNEIL3_001	riboCirc v1.0	CDS	48	19	.	.	.	translation_cycles=1; length=393
+hsa_circNEIL3_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+hsa_circNEIL3_001	riboCirc v1.0	start_codon	48	50	.	.	.	.
+hsa_circNEIL3_001	riboCirc v1.0	CDS	48	19	.	.	.	translation_cycles=1; length=393
+hsa_circNEIL3_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+hsa_circFAT1_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+hsa_circFAT1_001	riboCirc v1.0	CDS	19	83	.	.	.	translation_cycles=1; length=3348
+hsa_circFAT1_001	riboCirc v1.0	stop_codon	81	83	.	.	.	.
+hsa_circFAT1_001	riboCirc v1.0	start_codon	19	21	.	.	.	.
+hsa_circFAT1_001	riboCirc v1.0	CDS	19	83	.	.	.	translation_cycles=1; length=3348
+hsa_circFAT1_001	riboCirc v1.0	stop_codon	81	83	.	.	.	.
+hsa_circOXCT1_001	riboCirc v1.0	start_codon	217	219	.	.	.	.
+hsa_circOXCT1_001	riboCirc v1.0	CDS	217	216	.	.	.	translation_cycles=3; length=1548
+hsa_circOXCT1_001	riboCirc v1.0	terminal_codon	214	216	.	.	.	.
+hsa_circOXCT1_001	riboCirc v1.0	start_codon	217	219	.	.	.	.
+hsa_circOXCT1_001	riboCirc v1.0	CDS	217	216	.	.	.	translation_cycles=3; length=1548
+hsa_circOXCT1_001	riboCirc v1.0	terminal_codon	214	216	.	.	.	.
+hsa_circMEF2C_001	riboCirc v1.0	start_codon	140	142	.	.	.	.
+hsa_circMEF2C_001	riboCirc v1.0	CDS	140	27	.	.	.	translation_cycles=1; length=81
+hsa_circMEF2C_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+hsa_circMEF2C_001	riboCirc v1.0	start_codon	140	142	.	.	.	.
+hsa_circMEF2C_001	riboCirc v1.0	CDS	140	27	.	.	.	translation_cycles=1; length=81
+hsa_circMEF2C_001	riboCirc v1.0	stop_codon	25	27	.	.	.	.
+hsa_circCSNK1G3_001	riboCirc v1.0	start_codon	248	250	.	.	.	.
+hsa_circCSNK1G3_001	riboCirc v1.0	CDS	248	38	.	.	.	translation_cycles=1; length=327
+hsa_circCSNK1G3_001	riboCirc v1.0	stop_codon	36	38	.	.	.	.
+hsa_circCSNK1G3_001	riboCirc v1.0	start_codon	248	250	.	.	.	.
+hsa_circCSNK1G3_001	riboCirc v1.0	CDS	248	38	.	.	.	translation_cycles=1; length=327
+hsa_circCSNK1G3_001	riboCirc v1.0	stop_codon	36	38	.	.	.	.
+hsa_circTCOF1_001	riboCirc v1.0	start_codon	196	198	.	.	.	.
+hsa_circTCOF1_001	riboCirc v1.0	CDS	196	195	.	.	.	translation_cycles=3; length=4140
+hsa_circTCOF1_001	riboCirc v1.0	terminal_codon	193	195	.	.	.	.
+hsa_circTCOF1_001	riboCirc v1.0	start_codon	196	198	.	.	.	.
+hsa_circTCOF1_001	riboCirc v1.0	CDS	196	195	.	.	.	translation_cycles=3; length=4140
+hsa_circTCOF1_001	riboCirc v1.0	terminal_codon	193	195	.	.	.	.
+hsa_circTENM2_001	riboCirc v1.0	start_codon	410	412	.	.	.	.
+hsa_circTENM2_001	riboCirc v1.0	CDS	410	160	.	.	.	translation_cycles=1; length=225
+hsa_circTENM2_001	riboCirc v1.0	stop_codon	158	160	.	.	.	.
+hsa_circTENM2_001	riboCirc v1.0	start_codon	410	412	.	.	.	.
+hsa_circTENM2_001	riboCirc v1.0	CDS	410	160	.	.	.	translation_cycles=1; length=225
+hsa_circTENM2_001	riboCirc v1.0	stop_codon	158	160	.	.	.	.
+hsa_circCDYL_001	riboCirc v1.0	start_codon	373	375	.	.	.	.
+hsa_circCDYL_001	riboCirc v1.0	CDS	373	5	.	.	.	translation_cycles=1; length=300
+hsa_circCDYL_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+hsa_circCDYL_001	riboCirc v1.0	start_codon	373	375	.	.	.	.
+hsa_circCDYL_001	riboCirc v1.0	CDS	373	5	.	.	.	translation_cycles=1; length=300
+hsa_circCDYL_001	riboCirc v1.0	stop_codon	3	5	.	.	.	.
+hsa_circDST_002	riboCirc v1.0	start_codon	232	234	.	.	.	.
+hsa_circDST_002	riboCirc v1.0	CDS	232	29	.	.	.	translation_cycles=1; length=207
+hsa_circDST_002	riboCirc v1.0	stop_codon	27	29	.	.	.	.
+hsa_circDST_002	riboCirc v1.0	start_codon	232	234	.	.	.	.
+hsa_circDST_002	riboCirc v1.0	CDS	232	29	.	.	.	translation_cycles=1; length=207
+hsa_circDST_002	riboCirc v1.0	stop_codon	27	29	.	.	.	.
+hsa_circRIMS1_001	riboCirc v1.0	start_codon	33	35	.	.	.	.
+hsa_circRIMS1_001	riboCirc v1.0	CDS	33	32	.	.	.	translation_cycles=3; length=1548
+hsa_circRIMS1_001	riboCirc v1.0	terminal_codon	30	32	.	.	.	.
+hsa_circRIMS1_001	riboCirc v1.0	start_codon	33	35	.	.	.	.
+hsa_circRIMS1_001	riboCirc v1.0	CDS	33	32	.	.	.	translation_cycles=3; length=1548
+hsa_circRIMS1_001	riboCirc v1.0	terminal_codon	30	32	.	.	.	.
+hsa_circAHR_001	riboCirc v1.0	start_codon	581	583	.	.	.	.
+hsa_circAHR_001	riboCirc v1.0	CDS	581	580	.	.	.	translation_cycles=3; length=3285
+hsa_circAHR_001	riboCirc v1.0	terminal_codon	578	580	.	.	.	.
+hsa_circAHR_001	riboCirc v1.0	start_codon	581	583	.	.	.	.
+hsa_circAHR_001	riboCirc v1.0	CDS	581	580	.	.	.	translation_cycles=3; length=3285
+hsa_circAHR_001	riboCirc v1.0	terminal_codon	578	580	.	.	.	.
+hsa_circCDK13_001	riboCirc v1.0	start_codon	632	634	.	.	.	.
+hsa_circCDK13_001	riboCirc v1.0	CDS	632	631	.	.	.	translation_cycles=3; length=1980
+hsa_circCDK13_001	riboCirc v1.0	terminal_codon	629	631	.	.	.	.
+hsa_circCDK13_001	riboCirc v1.0	start_codon	632	634	.	.	.	.
+hsa_circCDK13_001	riboCirc v1.0	CDS	632	631	.	.	.	translation_cycles=3; length=1980
+hsa_circCDK13_001	riboCirc v1.0	terminal_codon	629	631	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	start_codon	632	634	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	CDS	632	119	.	.	.	translation_cycles=1; length=630
+hsa_circCDK13_002	riboCirc v1.0	stop_codon	117	119	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	start_codon	1116	1118	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	CDS	1116	42	.	.	.	translation_cycles=1; length=69
+hsa_circCDK13_002	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	start_codon	632	634	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	CDS	632	119	.	.	.	translation_cycles=1; length=630
+hsa_circCDK13_002	riboCirc v1.0	stop_codon	117	119	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	start_codon	1116	1118	.	.	.	.
+hsa_circCDK13_002	riboCirc v1.0	CDS	1116	42	.	.	.	translation_cycles=1; length=69
+hsa_circCDK13_002	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	start_codon	44	46	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	CDS	44	42	.	.	.	translation_cycles=1; length=447
+hsa_circPSD3_002	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	start_codon	441	443	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	CDS	441	42	.	.	.	translation_cycles=2; length=498
+hsa_circPSD3_002	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	start_codon	44	46	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	CDS	44	42	.	.	.	translation_cycles=1; length=447
+hsa_circPSD3_002	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	start_codon	441	443	.	.	.	.
+hsa_circPSD3_002	riboCirc v1.0	CDS	441	42	.	.	.	translation_cycles=2; length=498
+hsa_circPSD3_002	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circASPH_002	riboCirc v1.0	start_codon	72	74	.	.	.	.
+hsa_circASPH_002	riboCirc v1.0	CDS	72	71	.	.	.	translation_cycles=3; length=792
+hsa_circASPH_002	riboCirc v1.0	terminal_codon	69	71	.	.	.	.
+hsa_circASPH_002	riboCirc v1.0	start_codon	72	74	.	.	.	.
+hsa_circASPH_002	riboCirc v1.0	CDS	72	71	.	.	.	translation_cycles=3; length=792
+hsa_circASPH_002	riboCirc v1.0	terminal_codon	69	71	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	start_codon	376	378	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	CDS	376	280	.	.	.	translation_cycles=1; length=315
+hsa_circPVT1_001	riboCirc v1.0	stop_codon	278	280	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	start_codon	246	248	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	CDS	246	6	.	.	.	translation_cycles=1; length=171
+hsa_circPVT1_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	start_codon	376	378	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	CDS	376	280	.	.	.	translation_cycles=1; length=315
+hsa_circPVT1_001	riboCirc v1.0	stop_codon	278	280	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	start_codon	246	248	.	.	.	.
+hsa_circPVT1_001	riboCirc v1.0	CDS	246	6	.	.	.	translation_cycles=1; length=171
+hsa_circPVT1_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	start_codon	214	216	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	CDS	214	64	.	.	.	translation_cycles=1; length=129
+hsa_circUBAP2_002	riboCirc v1.0	stop_codon	62	64	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	start_codon	51	53	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	CDS	51	117	.	.	.	translation_cycles=1; length=345
+hsa_circUBAP2_002	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	start_codon	214	216	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	CDS	214	64	.	.	.	translation_cycles=1; length=129
+hsa_circUBAP2_002	riboCirc v1.0	stop_codon	62	64	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	start_codon	51	53	.	.	.	.
+hsa_circUBAP2_002	riboCirc v1.0	CDS	51	117	.	.	.	translation_cycles=1; length=345
+hsa_circUBAP2_002	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	start_codon	283	285	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	CDS	283	282	.	.	.	translation_cycles=3; length=1530
+hsa_circUBAP2_003	riboCirc v1.0	terminal_codon	280	282	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	start_codon	446	448	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	CDS	446	19	.	.	.	translation_cycles=1; length=84
+hsa_circUBAP2_003	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	start_codon	283	285	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	CDS	283	282	.	.	.	translation_cycles=3; length=1530
+hsa_circUBAP2_003	riboCirc v1.0	terminal_codon	280	282	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	start_codon	446	448	.	.	.	.
+hsa_circUBAP2_003	riboCirc v1.0	CDS	446	19	.	.	.	translation_cycles=1; length=84
+hsa_circUBAP2_003	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	start_codon	139	141	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	CDS	139	117	.	.	.	translation_cycles=1; length=138
+hsa_circUBAP2_004	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	start_codon	51	53	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	CDS	51	50	.	.	.	translation_cycles=3; length=477
+hsa_circUBAP2_004	riboCirc v1.0	terminal_codon	48	50	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	start_codon	139	141	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	CDS	139	117	.	.	.	translation_cycles=1; length=138
+hsa_circUBAP2_004	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	start_codon	51	53	.	.	.	.
+hsa_circUBAP2_004	riboCirc v1.0	CDS	51	50	.	.	.	translation_cycles=3; length=477
+hsa_circUBAP2_004	riboCirc v1.0	terminal_codon	48	50	.	.	.	.
+hsa_circECPAS_001	riboCirc v1.0	start_codon	146	148	.	.	.	.
+hsa_circECPAS_001	riboCirc v1.0	CDS	146	145	.	.	.	translation_cycles=3; length=1305
+hsa_circECPAS_001	riboCirc v1.0	terminal_codon	143	145	.	.	.	.
+hsa_circECPAS_001	riboCirc v1.0	start_codon	146	148	.	.	.	.
+hsa_circECPAS_001	riboCirc v1.0	CDS	146	145	.	.	.	translation_cycles=3; length=1305
+hsa_circECPAS_001	riboCirc v1.0	terminal_codon	143	145	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	start_codon	496	498	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	CDS	496	49	.	.	.	translation_cycles=1; length=99
+hsa_circCOL5A1_001	riboCirc v1.0	stop_codon	47	49	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	start_codon	483	485	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	CDS	483	21	.	.	.	translation_cycles=1; length=84
+hsa_circCOL5A1_001	riboCirc v1.0	stop_codon	19	21	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	start_codon	496	498	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	CDS	496	49	.	.	.	translation_cycles=1; length=99
+hsa_circCOL5A1_001	riboCirc v1.0	stop_codon	47	49	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	start_codon	483	485	.	.	.	.
+hsa_circCOL5A1_001	riboCirc v1.0	CDS	483	21	.	.	.	translation_cycles=1; length=84
+hsa_circCOL5A1_001	riboCirc v1.0	stop_codon	19	21	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	start_codon	737	739	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	CDS	737	4	.	.	.	translation_cycles=1; length=153
+hsa_circCAMSAP1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	start_codon	204	206	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	CDS	204	203	.	.	.	translation_cycles=3; length=2655
+hsa_circCAMSAP1_001	riboCirc v1.0	terminal_codon	201	203	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	start_codon	737	739	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	CDS	737	4	.	.	.	translation_cycles=1; length=153
+hsa_circCAMSAP1_001	riboCirc v1.0	stop_codon	2	4	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	start_codon	204	206	.	.	.	.
+hsa_circCAMSAP1_001	riboCirc v1.0	CDS	204	203	.	.	.	translation_cycles=3; length=2655
+hsa_circCAMSAP1_001	riboCirc v1.0	terminal_codon	201	203	.	.	.	.
+hsa_circCTBP2_001	riboCirc v1.0	start_codon	206	208	.	.	.	.
+hsa_circCTBP2_001	riboCirc v1.0	CDS	206	26	.	.	.	translation_cycles=1; length=84
+hsa_circCTBP2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+hsa_circCTBP2_001	riboCirc v1.0	start_codon	206	208	.	.	.	.
+hsa_circCTBP2_001	riboCirc v1.0	CDS	206	26	.	.	.	translation_cycles=1; length=84
+hsa_circCTBP2_001	riboCirc v1.0	stop_codon	24	26	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	start_codon	1051	1053	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	CDS	1051	67	.	.	.	translation_cycles=2; length=1215
+hsa_circHIPK3_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	CDS	3	67	.	.	.	translation_cycles=1; length=1164
+hsa_circHIPK3_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	start_codon	1051	1053	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	CDS	1051	67	.	.	.	translation_cycles=2; length=1215
+hsa_circHIPK3_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+hsa_circHIPK3_001	riboCirc v1.0	CDS	3	67	.	.	.	translation_cycles=1; length=1164
+hsa_circHIPK3_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circLDLRAD3_001	riboCirc v1.0	start_codon	156	158	.	.	.	.
+hsa_circLDLRAD3_001	riboCirc v1.0	CDS	156	256	.	.	.	translation_cycles=1; length=447
+hsa_circLDLRAD3_001	riboCirc v1.0	stop_codon	254	256	.	.	.	.
+hsa_circLDLRAD3_001	riboCirc v1.0	start_codon	156	158	.	.	.	.
+hsa_circLDLRAD3_001	riboCirc v1.0	CDS	156	256	.	.	.	translation_cycles=1; length=447
+hsa_circLDLRAD3_001	riboCirc v1.0	stop_codon	254	256	.	.	.	.
+hsa_circFAT3_001	riboCirc v1.0	start_codon	18	20	.	.	.	.
+hsa_circFAT3_001	riboCirc v1.0	CDS	18	17	.	.	.	translation_cycles=3; length=9927
+hsa_circFAT3_001	riboCirc v1.0	terminal_codon	15	17	.	.	.	.
+hsa_circFAT3_001	riboCirc v1.0	start_codon	18	20	.	.	.	.
+hsa_circFAT3_001	riboCirc v1.0	CDS	18	17	.	.	.	translation_cycles=3; length=9927
+hsa_circFAT3_001	riboCirc v1.0	terminal_codon	15	17	.	.	.	.
+hsa_circCADM1_001	riboCirc v1.0	start_codon	318	320	.	.	.	.
+hsa_circCADM1_001	riboCirc v1.0	CDS	318	317	.	.	.	translation_cycles=3; length=1791
+hsa_circCADM1_001	riboCirc v1.0	terminal_codon	315	317	.	.	.	.
+hsa_circCADM1_001	riboCirc v1.0	start_codon	318	320	.	.	.	.
+hsa_circCADM1_001	riboCirc v1.0	CDS	318	317	.	.	.	translation_cycles=3; length=1791
+hsa_circCADM1_001	riboCirc v1.0	terminal_codon	315	317	.	.	.	.
+hsa_circRIMKLB_001	riboCirc v1.0	start_codon	57	59	.	.	.	.
+hsa_circRIMKLB_001	riboCirc v1.0	CDS	57	56	.	.	.	translation_cycles=3; length=693
+hsa_circRIMKLB_001	riboCirc v1.0	terminal_codon	54	56	.	.	.	.
+hsa_circRIMKLB_001	riboCirc v1.0	start_codon	57	59	.	.	.	.
+hsa_circRIMKLB_001	riboCirc v1.0	CDS	57	56	.	.	.	translation_cycles=3; length=693
+hsa_circRIMKLB_001	riboCirc v1.0	terminal_codon	54	56	.	.	.	.
+hsa_circFNDC3A_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+hsa_circFNDC3A_001	riboCirc v1.0	CDS	40	39	.	.	.	translation_cycles=3; length=414
+hsa_circFNDC3A_001	riboCirc v1.0	terminal_codon	37	39	.	.	.	.
+hsa_circFNDC3A_001	riboCirc v1.0	start_codon	40	42	.	.	.	.
+hsa_circFNDC3A_001	riboCirc v1.0	CDS	40	39	.	.	.	translation_cycles=3; length=414
+hsa_circFNDC3A_001	riboCirc v1.0	terminal_codon	37	39	.	.	.	.
+hsa_circMETTL3_001	riboCirc v1.0	start_codon	366	368	.	.	.	.
+hsa_circMETTL3_001	riboCirc v1.0	CDS	366	117	.	.	.	translation_cycles=1; length=375
+hsa_circMETTL3_001	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+hsa_circMETTL3_001	riboCirc v1.0	start_codon	366	368	.	.	.	.
+hsa_circMETTL3_001	riboCirc v1.0	CDS	366	117	.	.	.	translation_cycles=1; length=375
+hsa_circMETTL3_001	riboCirc v1.0	stop_codon	115	117	.	.	.	.
+hsa_circARHGAP5_002	riboCirc v1.0	start_codon	317	319	.	.	.	.
+hsa_circARHGAP5_002	riboCirc v1.0	CDS	317	8	.	.	.	translation_cycles=1; length=90
+hsa_circARHGAP5_002	riboCirc v1.0	stop_codon	6	8	.	.	.	.
+hsa_circARHGAP5_002	riboCirc v1.0	start_codon	169	171	.	.	.	.
+hsa_circARHGAP5_002	riboCirc v1.0	CDS	169	267	.	.	.	translation_cycles=0; length=99
+hsa_circARHGAP5_002	riboCirc v1.0	stop_codon	265	267	.	.	.	.
+hsa_circNPAS3_001	riboCirc v1.0	start_codon	167	169	.	.	.	.
+hsa_circNPAS3_001	riboCirc v1.0	CDS	167	14	.	.	.	translation_cycles=1; length=144
+hsa_circNPAS3_001	riboCirc v1.0	stop_codon	12	14	.	.	.	.
+hsa_circNPAS3_001	riboCirc v1.0	start_codon	167	169	.	.	.	.
+hsa_circNPAS3_001	riboCirc v1.0	CDS	167	14	.	.	.	translation_cycles=1; length=144
+hsa_circNPAS3_001	riboCirc v1.0	stop_codon	12	14	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	start_codon	307	309	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	CDS	307	306	.	.	.	translation_cycles=3; length=1116
+hsa_circGPHN_001	riboCirc v1.0	terminal_codon	304	306	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	start_codon	365	367	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	CDS	365	67	.	.	.	translation_cycles=1; length=75
+hsa_circGPHN_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	start_codon	307	309	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	CDS	307	306	.	.	.	translation_cycles=3; length=1116
+hsa_circGPHN_001	riboCirc v1.0	terminal_codon	304	306	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	start_codon	365	367	.	.	.	.
+hsa_circGPHN_001	riboCirc v1.0	CDS	365	67	.	.	.	translation_cycles=1; length=75
+hsa_circGPHN_001	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circSIPA1L1_001	riboCirc v1.0	start_codon	222	224	.	.	.	.
+hsa_circSIPA1L1_001	riboCirc v1.0	CDS	222	66	.	.	.	translation_cycles=1; length=69
+hsa_circSIPA1L1_001	riboCirc v1.0	stop_codon	64	66	.	.	.	.
+hsa_circSIPA1L1_001	riboCirc v1.0	start_codon	222	224	.	.	.	.
+hsa_circSIPA1L1_001	riboCirc v1.0	CDS	222	66	.	.	.	translation_cycles=1; length=69
+hsa_circSIPA1L1_001	riboCirc v1.0	stop_codon	64	66	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	start_codon	556	558	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	CDS	556	16	.	.	.	translation_cycles=1; length=144
+hsa_circSETD3_001	riboCirc v1.0	stop_codon	14	16	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	start_codon	9	11	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	CDS	9	30	.	.	.	translation_cycles=1; length=705
+hsa_circSETD3_001	riboCirc v1.0	stop_codon	28	30	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	start_codon	556	558	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	CDS	556	16	.	.	.	translation_cycles=1; length=144
+hsa_circSETD3_001	riboCirc v1.0	stop_codon	14	16	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	start_codon	9	11	.	.	.	.
+hsa_circSETD3_001	riboCirc v1.0	CDS	9	30	.	.	.	translation_cycles=1; length=705
+hsa_circSETD3_001	riboCirc v1.0	stop_codon	28	30	.	.	.	.
+hsa_circMGA_001	riboCirc v1.0	start_codon	68	70	.	.	.	.
+hsa_circMGA_001	riboCirc v1.0	CDS	68	19	.	.	.	translation_cycles=1; length=1083
+hsa_circMGA_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+hsa_circMGA_001	riboCirc v1.0	start_codon	68	70	.	.	.	.
+hsa_circMGA_001	riboCirc v1.0	CDS	68	19	.	.	.	translation_cycles=1; length=1083
+hsa_circMGA_001	riboCirc v1.0	stop_codon	17	19	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	start_codon	22	24	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=315
+hsa_circWDR72_001	riboCirc v1.0	terminal_codon	19	21	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	start_codon	66	68	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	CDS	66	65	.	.	.	translation_cycles=3; length=315
+hsa_circWDR72_001	riboCirc v1.0	terminal_codon	63	65	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	start_codon	22	24	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=315
+hsa_circWDR72_001	riboCirc v1.0	terminal_codon	19	21	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	start_codon	66	68	.	.	.	.
+hsa_circWDR72_001	riboCirc v1.0	CDS	66	65	.	.	.	translation_cycles=3; length=315
+hsa_circWDR72_001	riboCirc v1.0	terminal_codon	63	65	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	start_codon	67	69	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	CDS	67	66	.	.	.	translation_cycles=3; length=3312
+hsa_circMYO1E_001	riboCirc v1.0	terminal_codon	64	66	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	start_codon	1103	1	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	CDS	1103	115	.	.	.	translation_cycles=1; length=117
+hsa_circMYO1E_001	riboCirc v1.0	stop_codon	113	115	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	start_codon	67	69	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	CDS	67	66	.	.	.	translation_cycles=3; length=3312
+hsa_circMYO1E_001	riboCirc v1.0	terminal_codon	64	66	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	start_codon	1103	1	.	.	.	.
+hsa_circMYO1E_001	riboCirc v1.0	CDS	1103	115	.	.	.	translation_cycles=1; length=117
+hsa_circMYO1E_001	riboCirc v1.0	stop_codon	113	115	.	.	.	.
+hsa_circMYO1E_002	riboCirc v1.0	start_codon	67	69	.	.	.	.
+hsa_circMYO1E_002	riboCirc v1.0	CDS	67	134	.	.	.	translation_cycles=1; length=975
+hsa_circMYO1E_002	riboCirc v1.0	stop_codon	132	134	.	.	.	.
+hsa_circMYO1E_002	riboCirc v1.0	start_codon	67	69	.	.	.	.
+hsa_circMYO1E_002	riboCirc v1.0	CDS	67	134	.	.	.	translation_cycles=1; length=975
+hsa_circMYO1E_002	riboCirc v1.0	stop_codon	132	134	.	.	.	.
+hsa_circANXA2_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+hsa_circANXA2_001	riboCirc v1.0	CDS	12	11	.	.	.	translation_cycles=3; length=477
+hsa_circANXA2_001	riboCirc v1.0	terminal_codon	9	11	.	.	.	.
+hsa_circANXA2_001	riboCirc v1.0	start_codon	12	14	.	.	.	.
+hsa_circANXA2_001	riboCirc v1.0	CDS	12	11	.	.	.	translation_cycles=3; length=477
+hsa_circANXA2_001	riboCirc v1.0	terminal_codon	9	11	.	.	.	.
+hsa_circSPG21_001	riboCirc v1.0	start_codon	25	27	.	.	.	.
+hsa_circSPG21_001	riboCirc v1.0	CDS	25	22	.	.	.	translation_cycles=1; length=474
+hsa_circSPG21_001	riboCirc v1.0	stop_codon	20	22	.	.	.	.
+hsa_circSPG21_001	riboCirc v1.0	start_codon	25	27	.	.	.	.
+hsa_circSPG21_001	riboCirc v1.0	CDS	25	22	.	.	.	translation_cycles=1; length=474
+hsa_circSPG21_001	riboCirc v1.0	stop_codon	20	22	.	.	.	.
+hsa_circZFAND6_001	riboCirc v1.0	start_codon	337	339	.	.	.	.
+hsa_circZFAND6_001	riboCirc v1.0	CDS	337	311	.	.	.	translation_cycles=1; length=426
+hsa_circZFAND6_001	riboCirc v1.0	stop_codon	309	311	.	.	.	.
+hsa_circZFAND6_001	riboCirc v1.0	start_codon	18	20	.	.	.	.
+hsa_circZFAND6_001	riboCirc v1.0	CDS	18	311	.	.	.	translation_cycles=0; length=294
+hsa_circZFAND6_001	riboCirc v1.0	stop_codon	309	311	.	.	.	.
+hsa_circCYB5B_001	riboCirc v1.0	start_codon	94	96	.	.	.	.
+hsa_circCYB5B_001	riboCirc v1.0	CDS	94	93	.	.	.	translation_cycles=3; length=477
+hsa_circCYB5B_001	riboCirc v1.0	terminal_codon	91	93	.	.	.	.
+hsa_circCYB5B_001	riboCirc v1.0	start_codon	94	96	.	.	.	.
+hsa_circCYB5B_001	riboCirc v1.0	CDS	94	93	.	.	.	translation_cycles=3; length=477
+hsa_circCYB5B_001	riboCirc v1.0	terminal_codon	91	93	.	.	.	.
+hsa_circNFAT5_001	riboCirc v1.0	start_codon	3	5	.	.	.	.
+hsa_circNFAT5_001	riboCirc v1.0	CDS	3	6	.	.	.	translation_cycles=1; length=153
+hsa_circNFAT5_001	riboCirc v1.0	stop_codon	4	6	.	.	.	.
+hsa_circGLG1_001	riboCirc v1.0	start_codon	265	267	.	.	.	.
+hsa_circGLG1_001	riboCirc v1.0	CDS	265	264	.	.	.	translation_cycles=3; length=2025
+hsa_circGLG1_001	riboCirc v1.0	terminal_codon	262	264	.	.	.	.
+hsa_circGLG1_001	riboCirc v1.0	start_codon	265	267	.	.	.	.
+hsa_circGLG1_001	riboCirc v1.0	CDS	265	264	.	.	.	translation_cycles=3; length=2025
+hsa_circGLG1_001	riboCirc v1.0	terminal_codon	262	264	.	.	.	.
+hsa_circSPECC1_001	riboCirc v1.0	start_codon	390	392	.	.	.	.
+hsa_circSPECC1_001	riboCirc v1.0	CDS	390	57	.	.	.	translation_cycles=1; length=1248
+hsa_circSPECC1_001	riboCirc v1.0	stop_codon	55	57	.	.	.	.
+hsa_circSPECC1_001	riboCirc v1.0	start_codon	390	392	.	.	.	.
+hsa_circSPECC1_001	riboCirc v1.0	CDS	390	57	.	.	.	translation_cycles=1; length=1248
+hsa_circSPECC1_001	riboCirc v1.0	stop_codon	55	57	.	.	.	.
+hsa_circTRIM37_002	riboCirc v1.0	start_codon	34	36	.	.	.	.
+hsa_circTRIM37_002	riboCirc v1.0	CDS	34	33	.	.	.	translation_cycles=3; length=1989
+hsa_circTRIM37_002	riboCirc v1.0	terminal_codon	31	33	.	.	.	.
+hsa_circTRIM37_002	riboCirc v1.0	start_codon	34	36	.	.	.	.
+hsa_circTRIM37_002	riboCirc v1.0	CDS	34	33	.	.	.	translation_cycles=3; length=1989
+hsa_circTRIM37_002	riboCirc v1.0	terminal_codon	31	33	.	.	.	.
+hsa_circANKRD12_002	riboCirc v1.0	start_codon	52	54	.	.	.	.
+hsa_circANKRD12_002	riboCirc v1.0	CDS	52	11	.	.	.	translation_cycles=1; length=885
+hsa_circANKRD12_002	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circANKRD12_002	riboCirc v1.0	start_codon	52	54	.	.	.	.
+hsa_circANKRD12_002	riboCirc v1.0	CDS	52	11	.	.	.	translation_cycles=1; length=885
+hsa_circANKRD12_002	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circTTC39C_001	riboCirc v1.0	start_codon	17	19	.	.	.	.
+hsa_circTTC39C_001	riboCirc v1.0	CDS	17	9	.	.	.	translation_cycles=1; length=810
+hsa_circTTC39C_001	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+hsa_circTTC39C_001	riboCirc v1.0	start_codon	17	19	.	.	.	.
+hsa_circTTC39C_001	riboCirc v1.0	CDS	17	9	.	.	.	translation_cycles=1; length=810
+hsa_circTTC39C_001	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+hsa_circSMAD2_001	riboCirc v1.0	start_codon	950	952	.	.	.	.
+hsa_circSMAD2_001	riboCirc v1.0	CDS	950	314	.	.	.	translation_cycles=1; length=324
+hsa_circSMAD2_001	riboCirc v1.0	stop_codon	312	314	.	.	.	.
+hsa_circSMAD2_001	riboCirc v1.0	start_codon	54	56	.	.	.	.
+hsa_circSMAD2_001	riboCirc v1.0	CDS	54	314	.	.	.	translation_cycles=0; length=261
+hsa_circSMAD2_001	riboCirc v1.0	stop_codon	312	314	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	start_codon	127	129	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	CDS	127	51	.	.	.	translation_cycles=1; length=330
+hsa_circSBNO2_001	riboCirc v1.0	stop_codon	49	51	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	start_codon	350	352	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	CDS	350	7	.	.	.	translation_cycles=1; length=63
+hsa_circSBNO2_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	start_codon	127	129	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	CDS	127	51	.	.	.	translation_cycles=1; length=330
+hsa_circSBNO2_001	riboCirc v1.0	stop_codon	49	51	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	start_codon	350	352	.	.	.	.
+hsa_circSBNO2_001	riboCirc v1.0	CDS	350	7	.	.	.	translation_cycles=1; length=63
+hsa_circSBNO2_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circFARSA_001	riboCirc v1.0	start_codon	83	85	.	.	.	.
+hsa_circFARSA_001	riboCirc v1.0	CDS	83	8	.	.	.	translation_cycles=1; length=264
+hsa_circFARSA_001	riboCirc v1.0	stop_codon	6	8	.	.	.	.
+hsa_circFARSA_001	riboCirc v1.0	start_codon	83	85	.	.	.	.
+hsa_circFARSA_001	riboCirc v1.0	CDS	83	8	.	.	.	translation_cycles=1; length=264
+hsa_circFARSA_001	riboCirc v1.0	stop_codon	6	8	.	.	.	.
+hsa_circRPSAP58_001	riboCirc v1.0	start_codon	187	189	.	.	.	.
+hsa_circRPSAP58_001	riboCirc v1.0	CDS	187	51	.	.	.	translation_cycles=1; length=75
+hsa_circRPSAP58_001	riboCirc v1.0	stop_codon	49	51	.	.	.	.
+hsa_circRPSAP58_001	riboCirc v1.0	start_codon	187	189	.	.	.	.
+hsa_circRPSAP58_001	riboCirc v1.0	CDS	187	51	.	.	.	translation_cycles=1; length=75
+hsa_circRPSAP58_001	riboCirc v1.0	stop_codon	49	51	.	.	.	.
+hsa_circURI1_001	riboCirc v1.0	start_codon	77	79	.	.	.	.
+hsa_circURI1_001	riboCirc v1.0	CDS	77	11	.	.	.	translation_cycles=1; length=150
+hsa_circURI1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circURI1_001	riboCirc v1.0	start_codon	77	79	.	.	.	.
+hsa_circURI1_001	riboCirc v1.0	CDS	77	11	.	.	.	translation_cycles=1; length=150
+hsa_circURI1_001	riboCirc v1.0	stop_codon	9	11	.	.	.	.
+hsa_circUBA2_001	riboCirc v1.0	start_codon	151	153	.	.	.	.
+hsa_circUBA2_001	riboCirc v1.0	CDS	151	150	.	.	.	translation_cycles=3; length=963
+hsa_circUBA2_001	riboCirc v1.0	terminal_codon	148	150	.	.	.	.
+hsa_circUBA2_001	riboCirc v1.0	start_codon	151	153	.	.	.	.
+hsa_circUBA2_001	riboCirc v1.0	CDS	151	150	.	.	.	translation_cycles=3; length=963
+hsa_circUBA2_001	riboCirc v1.0	terminal_codon	148	150	.	.	.	.
+hsa_circSUPT5H_001	riboCirc v1.0	start_codon	89	91	.	.	.	.
+hsa_circSUPT5H_001	riboCirc v1.0	CDS	89	35	.	.	.	translation_cycles=2; length=279
+hsa_circSUPT5H_001	riboCirc v1.0	stop_codon	33	35	.	.	.	.
+hsa_circSUPT5H_001	riboCirc v1.0	start_codon	89	91	.	.	.	.
+hsa_circSUPT5H_001	riboCirc v1.0	CDS	89	35	.	.	.	translation_cycles=2; length=279
+hsa_circSUPT5H_001	riboCirc v1.0	stop_codon	33	35	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	start_codon	112	114	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	CDS	112	32	.	.	.	translation_cycles=1; length=126
+hsa_circSHKBP1_001	riboCirc v1.0	stop_codon	30	32	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	start_codon	164	166	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	CDS	164	32	.	.	.	translation_cycles=2; length=279
+hsa_circSHKBP1_001	riboCirc v1.0	stop_codon	30	32	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	start_codon	112	114	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	CDS	112	32	.	.	.	translation_cycles=1; length=126
+hsa_circSHKBP1_001	riboCirc v1.0	stop_codon	30	32	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	start_codon	164	166	.	.	.	.
+hsa_circSHKBP1_001	riboCirc v1.0	CDS	164	32	.	.	.	translation_cycles=2; length=279
+hsa_circSHKBP1_001	riboCirc v1.0	stop_codon	30	32	.	.	.	.
+hsa_circAXL_001	riboCirc v1.0	start_codon	51	53	.	.	.	.
+hsa_circAXL_001	riboCirc v1.0	CDS	51	50	.	.	.	translation_cycles=3; length=522
+hsa_circAXL_001	riboCirc v1.0	terminal_codon	48	50	.	.	.	.
+hsa_circAXL_001	riboCirc v1.0	start_codon	51	53	.	.	.	.
+hsa_circAXL_001	riboCirc v1.0	CDS	51	50	.	.	.	translation_cycles=3; length=522
+hsa_circAXL_001	riboCirc v1.0	terminal_codon	48	50	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	CDS	37	36	.	.	.	translation_cycles=3; length=774
+hsa_circCCDC9_001	riboCirc v1.0	terminal_codon	34	36	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	start_codon	41	43	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	CDS	41	40	.	.	.	translation_cycles=1; length=258
+hsa_circCCDC9_001	riboCirc v1.0	terminal_codon	38	40	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	start_codon	37	39	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	CDS	37	36	.	.	.	translation_cycles=3; length=774
+hsa_circCCDC9_001	riboCirc v1.0	terminal_codon	34	36	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	start_codon	41	43	.	.	.	.
+hsa_circCCDC9_001	riboCirc v1.0	CDS	41	40	.	.	.	translation_cycles=1; length=258
+hsa_circCCDC9_001	riboCirc v1.0	terminal_codon	38	40	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	start_codon	136	138	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	CDS	136	67	.	.	.	translation_cycles=1; length=150
+hsa_circDHX34_002	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	start_codon	15	17	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	CDS	15	9	.	.	.	translation_cycles=1; length=213
+hsa_circDHX34_002	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	start_codon	136	138	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	CDS	136	67	.	.	.	translation_cycles=1; length=150
+hsa_circDHX34_002	riboCirc v1.0	stop_codon	65	67	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	start_codon	15	17	.	.	.	.
+hsa_circDHX34_002	riboCirc v1.0	CDS	15	9	.	.	.	translation_cycles=1; length=213
+hsa_circDHX34_002	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	start_codon	31	33	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	CDS	31	30	.	.	.	translation_cycles=3; length=765
+hsa_circGINS1_001	riboCirc v1.0	terminal_codon	28	30	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	start_codon	167	169	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	CDS	167	34	.	.	.	translation_cycles=1; length=123
+hsa_circGINS1_001	riboCirc v1.0	stop_codon	32	34	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	start_codon	31	33	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	CDS	31	30	.	.	.	translation_cycles=3; length=765
+hsa_circGINS1_001	riboCirc v1.0	terminal_codon	28	30	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	start_codon	167	169	.	.	.	.
+hsa_circGINS1_001	riboCirc v1.0	CDS	167	34	.	.	.	translation_cycles=1; length=123
+hsa_circGINS1_001	riboCirc v1.0	stop_codon	32	34	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	start_codon	28	30	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	CDS	28	27	.	.	.	translation_cycles=3; length=846
+hsa_circASXL1_001	riboCirc v1.0	terminal_codon	25	27	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	start_codon	113	115	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	CDS	113	7	.	.	.	translation_cycles=1; length=177
+hsa_circASXL1_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	start_codon	28	30	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	CDS	28	27	.	.	.	translation_cycles=3; length=846
+hsa_circASXL1_001	riboCirc v1.0	terminal_codon	25	27	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	start_codon	200	202	.	.	.	.
+hsa_circASXL1_001	riboCirc v1.0	CDS	200	7	.	.	.	translation_cycles=1; length=90
+hsa_circASXL1_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circCYP24A1_001	riboCirc v1.0	start_codon	1020	1022	.	.	.	.
+hsa_circCYP24A1_001	riboCirc v1.0	CDS	1020	93	.	.	.	translation_cycles=1; length=180
+hsa_circCYP24A1_001	riboCirc v1.0	stop_codon	91	93	.	.	.	.
+hsa_circCYP24A1_001	riboCirc v1.0	start_codon	1020	1022	.	.	.	.
+hsa_circCYP24A1_001	riboCirc v1.0	CDS	1020	93	.	.	.	translation_cycles=1; length=180
+hsa_circCYP24A1_001	riboCirc v1.0	stop_codon	91	93	.	.	.	.
+hsa_circCDH4_001	riboCirc v1.0	start_codon	22	24	.	.	.	.
+hsa_circCDH4_001	riboCirc v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=954
+hsa_circCDH4_001	riboCirc v1.0	terminal_codon	19	21	.	.	.	.
+hsa_circCDH4_001	riboCirc v1.0	start_codon	22	24	.	.	.	.
+hsa_circCDH4_001	riboCirc v1.0	CDS	22	21	.	.	.	translation_cycles=3; length=954
+hsa_circCDH4_001	riboCirc v1.0	terminal_codon	19	21	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	start_codon	34	36	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	CDS	34	452	.	.	.	translation_cycles=1; length=1674
+hsa_circZBTB46_001	riboCirc v1.0	stop_codon	450	452	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	start_codon	1202	1204	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	CDS	1202	9	.	.	.	translation_cycles=1; length=63
+hsa_circZBTB46_001	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	start_codon	34	36	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	CDS	34	452	.	.	.	translation_cycles=1; length=1674
+hsa_circZBTB46_001	riboCirc v1.0	stop_codon	450	452	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	start_codon	1202	1204	.	.	.	.
+hsa_circZBTB46_001	riboCirc v1.0	CDS	1202	9	.	.	.	translation_cycles=1; length=63
+hsa_circZBTB46_001	riboCirc v1.0	stop_codon	7	9	.	.	.	.
+hsa_circNRIP1_001	riboCirc v1.0	start_codon	753	755	.	.	.	.
+hsa_circNRIP1_001	riboCirc v1.0	CDS	753	113	.	.	.	translation_cycles=1; length=192
+hsa_circNRIP1_001	riboCirc v1.0	stop_codon	111	113	.	.	.	.
+hsa_circNRIP1_001	riboCirc v1.0	start_codon	753	755	.	.	.	.
+hsa_circNRIP1_001	riboCirc v1.0	CDS	753	113	.	.	.	translation_cycles=1; length=192
+hsa_circNRIP1_001	riboCirc v1.0	stop_codon	111	113	.	.	.	.
+hsa_circUSP25_001	riboCirc v1.0	start_codon	128	130	.	.	.	.
+hsa_circUSP25_001	riboCirc v1.0	CDS	128	47	.	.	.	translation_cycles=2; length=366
+hsa_circUSP25_001	riboCirc v1.0	stop_codon	45	47	.	.	.	.
+hsa_circUSP25_001	riboCirc v1.0	start_codon	128	130	.	.	.	.
+hsa_circUSP25_001	riboCirc v1.0	CDS	128	47	.	.	.	translation_cycles=2; length=366
+hsa_circUSP25_001	riboCirc v1.0	stop_codon	45	47	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	start_codon	589	591	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	CDS	589	141	.	.	.	translation_cycles=1; length=150
+hsa_circAPP_001	riboCirc v1.0	stop_codon	139	141	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	start_codon	126	128	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	CDS	126	125	.	.	.	translation_cycles=3; length=1791
+hsa_circAPP_001	riboCirc v1.0	terminal_codon	123	125	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	start_codon	589	591	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	CDS	589	141	.	.	.	translation_cycles=1; length=150
+hsa_circAPP_001	riboCirc v1.0	stop_codon	139	141	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	start_codon	126	128	.	.	.	.
+hsa_circAPP_001	riboCirc v1.0	CDS	126	125	.	.	.	translation_cycles=3; length=1791
+hsa_circAPP_001	riboCirc v1.0	terminal_codon	123	125	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	start_codon	133	2	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	CDS	133	7	.	.	.	translation_cycles=2; length=141
+hsa_circPDXK_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	start_codon	45	47	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	CDS	45	7	.	.	.	translation_cycles=1; length=96
+hsa_circPDXK_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	start_codon	133	2	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	CDS	133	7	.	.	.	translation_cycles=2; length=141
+hsa_circPDXK_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	start_codon	45	47	.	.	.	.
+hsa_circPDXK_001	riboCirc v1.0	CDS	45	7	.	.	.	translation_cycles=1; length=96
+hsa_circPDXK_001	riboCirc v1.0	stop_codon	5	7	.	.	.	.
+hsa_circPCNT_001	riboCirc v1.0	start_codon	85	87	.	.	.	.
+hsa_circPCNT_001	riboCirc v1.0	CDS	85	84	.	.	.	translation_cycles=3; length=936
+hsa_circPCNT_001	riboCirc v1.0	terminal_codon	82	84	.	.	.	.
+hsa_circPCNT_001	riboCirc v1.0	start_codon	85	87	.	.	.	.
+hsa_circPCNT_001	riboCirc v1.0	CDS	85	84	.	.	.	translation_cycles=3; length=936
+hsa_circPCNT_001	riboCirc v1.0	terminal_codon	82	84	.	.	.	.
+hsa_circATXN10_003	riboCirc v1.0	start_codon	20	22	.	.	.	.
+hsa_circATXN10_003	riboCirc v1.0	CDS	20	42	.	.	.	translation_cycles=1; length=468
+hsa_circATXN10_003	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circATXN10_003	riboCirc v1.0	start_codon	20	22	.	.	.	.
+hsa_circATXN10_003	riboCirc v1.0	CDS	20	42	.	.	.	translation_cycles=1; length=468
+hsa_circATXN10_003	riboCirc v1.0	stop_codon	40	42	.	.	.	.
+hsa_circFIRRE_001	riboCirc v1.0	start_codon	840	842	.	.	.	.
+hsa_circFIRRE_001	riboCirc v1.0	CDS	840	225	.	.	.	translation_cycles=1; length=231
+hsa_circFIRRE_001	riboCirc v1.0	stop_codon	223	225	.	.	.	.
+hsa_circFIRRE_001	riboCirc v1.0	start_codon	840	842	.	.	.	.
+hsa_circFIRRE_001	riboCirc v1.0	CDS	840	225	.	.	.	translation_cycles=1; length=231
+hsa_circFIRRE_001	riboCirc v1.0	stop_codon	223	225	.	.	.	.
